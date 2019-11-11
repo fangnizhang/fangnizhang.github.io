@@ -20,7 +20,7 @@ Experience
 
 * 2018.9 - 2020.1: Lecturer, [School of Aviation](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
 
-* 2017.9 - 2018.8: Lecturer, Institute for Transport Studies](https://environment.leeds.ac.uk/transport), University of Leeds, United Kingdom
+* 2017.9 - 2018.8: Lecturer, [Institute for Transport Studies](https://environment.leeds.ac.uk/transport), University of Leeds, United Kingdom
 
 * 2016.9 - 2017.8: Research Associate, [Centre for Transport Studies](https://www.imperial.ac.uk/transport-studies), Imperial College London, United Kingdom
 
@@ -28,33 +28,24 @@ Experience
 
 * 2011.9 - 2016.8: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
