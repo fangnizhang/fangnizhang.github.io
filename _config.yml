@@ -3,3 +3,10 @@ title: Dr. Fangni Zhang
 description: Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, Pok Fu Lam, Hong Kong
 
 avatar: "/img/avatar-icon.png"
+
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: x
+  github: x
+  twitter: x
