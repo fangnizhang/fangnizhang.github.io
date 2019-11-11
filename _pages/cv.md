@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering, Beihang University, 2011
+* Ph.D in Civil Engineering (Transportation), Hong Kong University of Science and Technology, 2016
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020,2-: Assistant Professor, [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), University of Hong Kong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018,9-2020,1: Lecturer, [School of Aviation](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
+
+* 2017,9-2018,8: Lecturer, Institute for Transport Studies](https://environment.leeds.ac.uk/transport), University of Leeds, United Kingdom
+
+* 2016,9-2017,8: Research Associate, [Centre for Transport Studies](https://www.imperial.ac.uk/transport-studies), Imperial College London, United Kingdom
+
+* 2011,9-2016,8: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and  Technology, Hong Kong
+
+* 2015,2-2015,8: Visiting Researcher, Intelligent Transportation Systems (ITS) Laboratory, Hong Kong University of Science and  Technology, Hong Kong
+
+
+
   
 Skills
 ======
