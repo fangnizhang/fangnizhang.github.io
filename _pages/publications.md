@@ -19,31 +19,31 @@ My [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl)
 Journal Publications
 ======
 
-• Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
+* Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
 
-• **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
+* **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
-• Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evi- dence from Beijing, China. Transportation Research Part D 67, 553-564.
+* Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evi- dence from Beijing, China. Transportation Research Part D 67, 553-564.
 
-• **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Re- search Part C 96, 208-230.
+* **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Re- search Part C 96, 208-230.
 
-• **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
+* **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
 
-• **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C, 96, 208-230.
+* **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C, 96, 208-230.
 
-• Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
+* Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
 
-• **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
+* **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
 
-• Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
+* Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
 
-• Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
+* Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
 
-• **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
+* **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
 
-• Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
+* Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
 
-• **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
+* **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
 
 * Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
 
@@ -82,7 +82,7 @@ Selected Conferences
 
 * Liu, W., Yang, H., Zhang, F. (2014) Economics of a reservation system for morning commute. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Toulouse, France, 4-6 June 2014.
 
-*Zhang, F., Yang, H. (2013) The Downs-Thomson paradox with monopoly transit operator and heterogeneous commuters. The 18th International Conference of Hong Kong Society for Trans- portation Studies, Hong Kong, 14-16 December 2013.
+* Zhang, F., Yang, H. (2013) The Downs-Thomson paradox with monopoly transit operator and heterogeneous commuters. The 18th International Conference of Hong Kong Society for Trans- portation Studies, Hong Kong, 14-16 December 2013.
 
 * Liu, W., Yang, H., Zhang, F. (2013) Improving travel efficiency by non-rigid expirable parking reservation. The 18th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 14-16 December 2013.
 
