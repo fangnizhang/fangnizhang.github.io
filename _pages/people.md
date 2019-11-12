@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## PhD Students
-* Muhammad Yeasir Arafat (2020 -)  
-* Mingyou Ma (2019 - )
+* Muhammad Yeasir Arafat (2020 - , UNSW)  
+* Mingyou Ma (2019 - , UNSW)
 
 ## Master Students
-* Runqing Zhao (2019 -)
-* Zhiwei Yang (2019 -)
+* Runqing Zhao (2019 - , UNSW)
+* Zhiwei Yang (2019 - , UNSW)
