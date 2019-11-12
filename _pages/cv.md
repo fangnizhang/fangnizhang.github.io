@@ -27,25 +27,4 @@ Experience
 * 2015.2 - 2015.8: Visiting Researcher, [Urban Transport Systems Laboratory](https://www.epfl.ch/labs/luts/), École polytechnique fédérale de Lausanne (EPFL), Switzerland
 
 * 2011.9 - 2016.8: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
-  
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
