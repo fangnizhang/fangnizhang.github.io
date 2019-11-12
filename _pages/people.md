@@ -11,7 +11,9 @@ author_profile: true
 ## Master Students
 * Runqing Zhao (2019 - , UNSW)
 * Zhiwei Yang (2019 - , UNSW)
+* Gida Aikaterini (2017 - 2019, Leeds)
 * Ziheng Zhou (2017 - 2018, Leeds)
 * Yuhan Ma (2017 - 2018, Leeds)
 * Qian Yang (2017 - 2018, Leeds)
+
 
