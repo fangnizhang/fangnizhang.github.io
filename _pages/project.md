@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Involved Projects 
+Involved projects 
 -------------
 **Investigator**
 
@@ -19,3 +19,10 @@ Involved Projects
 * How is E-hailing Reshaping the Taxi Industry? RGC Competitive Earmarked Research Grant 2016-2017, 1 January 2017 to 31 December 2019, HKUST16222916, HK$482,605. PI: Prof. Hai Yang, HKUST.
 * The Downs-Thompson Paradox and the Mohring Effects in a Bi-modal Transportation System. RGC Competitive Earmarked Research Grant 2015-2016, 1 January 2016 to 31 December 2018, HKUST16205715, HK$495,922. PI: Prof. Hai Yang, HKUST.
 
+Delivered technical reports
+------------
+* Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
+* Impact assessment of the GPS-based positioning in railway network (2018). Deliverable D6.1 of project RAPPORT: Real-time Accurate Positioning & Protection of Rail Transport. Submitted to Innovate UK on 30 April 2018.
+* Final business case synthesis report (2018). Deliverable D1.8 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 9 March 2018.
+* Cost and user benefit report (2018). Deliverable D1.4 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 28 Febuary 2018.
+* Impact assessment methodology development (2017). Deliverable D4.1 of project SMaRTE: Smart Maintenance and the Rail Traveller Experience. Submitted to European Commission on 11 December 2017.
