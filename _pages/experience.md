@@ -35,4 +35,3 @@ redirect_from:
 * Overseas Research Awards, HKUST, 2015
 * Research Travel Awards for three consecutive years, HKUST, 2012-2015
 * Postgraduate Studentship for five consecutive years, HKUST, 2011-2016
-* Top Students Scholarship for three consecutive years, BUAA (First Prize), 2007-2009
