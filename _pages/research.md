@@ -62,7 +62,6 @@ Academic services
 * Journal of Management Science and Engineering
 * Regional Science, Policy and Practice
 * Research in Transportation Economics
-* Sustainability
 
 **Conference and Public Report Reviewer**
 
