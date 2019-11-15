@@ -22,6 +22,6 @@ At the University of Leeds, 2017 - 2018
 
 **LUBS2140**
 * Intermediate Microeconomics (2nd-year undergraduates in Business School) 
-* Core topics: consumer theory, production theory, firms and markets
+% * Core topics: consumer theory, production theory, firms and markets
 
 
