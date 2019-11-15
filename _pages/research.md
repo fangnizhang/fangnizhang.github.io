@@ -16,7 +16,8 @@ Research students
 * Gida Aikaterini (2017 - 2019, Leeds)
 * Ziheng Zhou (2017 - 2018, Leeds)
 * Yuhan Ma (2017 - 2018, Leeds)
-` * Qian Yang (2017 - 2018, Leeds)
+
+``` * Qian Yang (2017 - 2018, Leeds)```
 
 Invited talks
 ------------
