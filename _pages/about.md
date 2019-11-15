@@ -32,13 +32,13 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 
 Selected Publications
 ======
-- **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
+- **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
-- Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
+- Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
 
-- Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evi- dence from Beijing, China. Transportation Research Part D 67, 553-564.
+- Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. Transportation Research Part D 67, 553-564.
 
-- **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Re- search Part C 96, 208-230.
+- **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C 96, 208-230.
 
 - **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
 
