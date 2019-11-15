@@ -19,7 +19,7 @@ Research interests
 - Transport and urban data analytics
 
 PhD positions
-------
+======
 - I am looking for 1-2 self-motivated Ph.D. students to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
 - Successful applicants will be considered eligible to receive a Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the Hong Kong PhD Fellowship scheme, which offers an annual stipend of HKD 25,800 /month plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at: [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2)
@@ -31,10 +31,10 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 
 
 Selected Publications
-------
-• Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
-
+======
 • **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
+
+• Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
 
 • Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evi- dence from Beijing, China. Transportation Research Part D 67, 553-564.
 
