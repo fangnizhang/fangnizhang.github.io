@@ -28,8 +28,8 @@ Delivered technical reports
 
 Invited talks
 ------------
-* Quantifying Demand and Impacts of High-speed Rail System. School of Economics and Management, Beihang University. Beijing, China, 11 Sept 2019.
-* Quantifying Demand and Impacts of High-speed Rail System. College of Metropolitan Transportation, Beijing University of Technology. Beijing, China, 10 Sept 2019.
+* Quantifying Demand and Impacts of High-speed Rail System. School of Economics and Management, Beihang University. Beijing, China, 11 September 2019.
+* Quantifying Demand and Impacts of High-speed Rail System. College of Metropolitan Transportation, Beijing University of Technology. Beijing, China, 10 September 2019.
 * Unlock the sharing economy in the parking sector for recurrent commuting trips. School of Economics and Management, Beihang University. Beijing, China, 15 October 2018.
 * The substitution and complementary effects between high-speed rail and air transport. School of Economics and Management, Beijing Jiaotong University. Beijing, China, 15 October 2018.
 * Quantifying complex interactions between high-speed rail and air transport. Sino-US Global Logistics Institute, Shanghai Jiao Tong University. Shanghai, China, 19 June 2018.
