@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-University of New South Wales, 2018 -
+At the University of New South Wales, 2018 -
 ========
 
 AVIA1321
@@ -17,7 +17,7 @@ AVIA5032
 * Quantitative Analysis for Aviation Economics (postgraduates in Aviation Management)
 * Core topics: statistics, time series analysis, panel model, discrete choice models
 
-University of Leeds, 2017 - 2018
+At the University of Leeds, 2017 - 2018
 ========
 
 TRAN5032M
