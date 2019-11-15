@@ -14,7 +14,7 @@ AVIA1321
 
 AVIA5032
 --------
-* Quantitative Analysis for Aviation Economics (postgraduates in Aviation Man- agement)
+* Quantitative Analysis for Aviation Economics (postgraduates in Aviation Management)
 * Core topics: statistics, time series analysis, panel model, discrete choice models
 
 University of Leeds, 2017 - 2018
@@ -22,7 +22,7 @@ University of Leeds, 2017 - 2018
 
 TRAN5032M
 --------
-* Transport Data Collection and Analysis (Postgraduates in Transport) 
+* Transport Data Collection and Analysis (postgraduates in Transport) 
 * Core topics: data collection, handling, analysis, and presentation methods
 
 LUBS2140
