@@ -1,9 +1,11 @@
 ---
-title: "People"
-permalink: /people/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
+Supervision
+==========
 ## PhD Students
 * Muhammad Yeasir Arafat (2020 - , UNSW)  
 * Mingyou Ma (2019 - , UNSW)
