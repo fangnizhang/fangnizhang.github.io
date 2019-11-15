@@ -19,13 +19,13 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 Journal Publications
 ----------
 
-* **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
+* **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
-* Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
+* Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
 
-* Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evi- dence from Beijing, China. Transportation Research Part D 67, 553-564.
+* Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. Transportation Research Part D 67, 553-564.
 
-* **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Re- search Part C 96, 208-230.
+* **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C 96, 208-230.
 
 * **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
 
@@ -55,7 +55,7 @@ Selected Conferences
 
 * Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2019) Modeling and managing the parking sharing problem for urban cities. The 98th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 13-17 January 2019.
 
-* Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) On the parking sharing problem in a lin- ear monocentric city. The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 8-10 December 2018.
+* Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) On the parking sharing problem in a linear monocentric city. The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 8-10 December 2018.
 
 * Zhang, F. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. The 6th International Conference on Transportation and Space-time Economics (TSTE 2018), Beijing, China, 12-14 October 2018.
 
@@ -69,7 +69,7 @@ Selected Conferences
 
 * Zhang, F., Zheng, N., Geroliminis, N., Yang, H. (2016) Analysis of the responsive bus service with roadway space separation in multimodal networks using network-level traffic models. The 95th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 10-14 January 2016.
 
-* Zhang, F. (2015) Managing the multimodal transportation system with roadway space alloca- tion and responsive bus services. The 20th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 12-14 December, 2015. (Runner-up for Best Student Paper Award).
+* Zhang, F. (2015) Managing the multimodal transportation system with roadway space allocation and responsive bus services. The 20th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 12-14 December, 2015. (Runner-up for Best Student Paper Award).
 
 * Zhang, F., Zheng, N., Geroliminis, N., Yang, H. (2015) Optimization of bus services in multimodal networks with dedicated bus corridors with network-level traffic models. The 4th Symposium of the European Association for Research in Transportation (hEART), Copenhagen, Denmark, 9-11 September 2015.
 
@@ -79,7 +79,7 @@ Selected Conferences
 
 * Liu, W., Yin., Y., Yang, H., Zhang, F. (2014) Examining the effectiveness of variable speed limit from a long-term equilibrium perspective with empirical data. The 19th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 13-15 December, 2014.
 
-* Zhang, F., Yang, H., Liu, W. (2014) Welfare implications of highway capacity expansion with re- sponsive transit operator when the two modes are imperfect substitutes. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Toulouse, France, 4-6 June 2014.
+* Zhang, F., Yang, H., Liu, W. (2014) Welfare implications of highway capacity expansion with responsive transit operator when the two modes are imperfect substitutes. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Toulouse, France, 4-6 June 2014.
 
 * Liu, W., Yang, H., Zhang, F. (2014) Economics of a reservation system for morning commute. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Toulouse, France, 4-6 June 2014.
 
