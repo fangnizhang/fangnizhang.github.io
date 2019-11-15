@@ -18,6 +18,14 @@ Research students
 * Yuhan Ma (2017 - 2018, Leeds)
 * Qian Yang (2017 - 2018, Leeds)
 
+Delivered technical reports
+------------
+* Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
+* Impact assessment of the GPS-based positioning in railway network (2018). Deliverable D6.1 of project RAPPORT: Real-time Accurate Positioning & Protection of Rail Transport. Submitted to Innovate UK on 30 April 2018.
+* Final business case synthesis report (2018). Deliverable D1.8 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 9 March 2018.
+* Cost and user benefit report (2018). Deliverable D1.4 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 28 Febuary 2018.
+* Impact assessment methodology development (2017). Deliverable D4.1 of project SMaRTE: Smart Maintenance and the Rail Traveller Experience. Submitted to European Commission on 11 December 2017.
+
 Invited talks
 ------------
 * Quantifying Demand and Impacts of High-speed Rail System. School of Economics and Management, Beihang University. Beijing, China, 11 Sept 2019.
@@ -65,4 +73,11 @@ Academic services
 
 **Conference and Public Report Reviewer**
 
-* International Symposium on Transportation and Traffic Theory (ISTTT); Annual Meeting of Transportation Research Board (TRB); International Conference of Hong Kong Society for Transportation Studies (HKSTS); International Conference on Vehicle Technology andIntelligent Transport Systems (VEHITS); International Conference of Transportation Professionals (CICTP); International Conference on Transportation and Space-time Economics (TSTE); IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC); Government Office for Science of the UK.
+* International Symposium on Transportation and Traffic Theory (ISTTT)
+* Annual Meeting of Transportation Research Board (TRB)
+* International Conference of Hong Kong Society for Transportation Studies (HKSTS)
+* International Conference on Vehicle Technology andIntelligent Transport Systems (VEHITS)
+* International Conference of Transportation Professionals (CICTP)
+* International Conference on Transportation and Space-time Economics (TSTE)
+* IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
+* Government Office for Science of the UK
