@@ -16,7 +16,8 @@ author_profile: true
 
 You can also find my publication profiles on [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl) and [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
 
-**Journal Publications**
+Journal Publications
+----------
 
 * **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
@@ -47,7 +48,8 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 * Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
 
 
-**Selected Conferences**
+Selected Conferences
+-------
 
 * Zhang, F., Liu, W. (2019) Manage multiple traffic externalities for doubly dynamical large- scale multi-modal systems with responsive transit services. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT), Lausanne, Switzerland, 24-26 July 2019.
 
