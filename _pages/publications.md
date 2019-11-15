@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my research profiles on [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl) and [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
+You can also find my publication profiles on [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl) and [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
 
 Journal Publications
 ======
