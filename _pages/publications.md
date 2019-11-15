@@ -18,10 +18,9 @@ You can also find my research profiles on [Google Scholar](https://scholar.googl
 
 Journal Publications
 ======
+* **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
 * Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for opti- mizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
-
-* **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi- directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
 * Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evi- dence from Beijing, China. Transportation Research Part D 67, 553-564.
 
