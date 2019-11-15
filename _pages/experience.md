@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+**Education**
+
 * B.S. in Industrial Engineering, Beihang University, 2011
 * Ph.D in Civil Engineering (Transportation), Hong Kong University of Science and Technology, 2016
 
-Work experience
-======
+**Work experience**
+
 * 2020.2 -: Assistant Professor, [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), University of Hong Kong
 
 * 2018.9 - 2020.1: Lecturer, [School of Aviation](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
