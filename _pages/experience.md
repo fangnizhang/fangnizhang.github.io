@@ -11,8 +11,8 @@ redirect_from:
 
 **Education**
 
-* B.S. in Industrial Engineering, Beihang University, 2011
-* Ph.D in Civil Engineering (Transportation), Hong Kong University of Science and Technology, 2016
+* B.S. in Industrial Engineering, Beihang University
+* Ph.D in Civil Engineering (Transportation), Hong Kong University of Science and Technology
 
 **Work experience**
 
