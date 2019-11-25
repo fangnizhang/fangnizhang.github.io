@@ -90,7 +90,7 @@ author:
     University of Hong Kong<br>
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl"
   email            : "fangni.zhang@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
