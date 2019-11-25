@@ -18,7 +18,7 @@ Research interests
 - Wider economic benefits quantification
 - Transport and urban data analytics
 
-PhD, Postdoc, & Research Assistant positions
+PhD, Postdoc & Research Assistant positions
 ======
 - I am looking for 1-2 self-motivated Ph.D. students to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
@@ -28,7 +28,6 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 - Postdoc, Research Assistant, and visiting research positions are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
 - Please contact Dr. Fangni Zhang directly at [fangni.zhang@hotmail.com](fangni.zhang@hotmail.com)
-
 
 Selected Publications
 ======
