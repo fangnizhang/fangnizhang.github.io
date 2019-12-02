@@ -18,6 +18,23 @@ Research students
 * Yuhan Ma (2017 - 2018, Leeds)
 * Qian Yang (2017 - 2018, Leeds)
 
+Selected working papers
+------------
+* Zhang, F., Yang, Z., Jiao, J., Liu, W. The effects of high-speed rail development on regional equity in China.
+* Zhang, F., Graham, D. Air transport and economic growth: a review of the impact mechanism and causal relationships.
+* Zhang, F., Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
+* Zhang, F., Liu, W., Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
+* Jiao, J., Wang, J., Zhang, F, Jin, F. Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China.
+* Jiao, J., Zhang, F., Wang, J. A systematic assessment of passenger service network structure of low-cost carriers in China.
+* Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
+* Ma, M., Liu, W., Li, X., Zhang, F., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
+* Shao, C., Lindsey, R., Yang, H., Zhang, F., Liu, W. Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
+* Wei, B., Saberi, M., Zhang, F., Liu, W., Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
+* Wei, T., Xu, G., Liu, W., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticketing booking record.
+* Wu, W., Liu, W., Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
+* Wu, W., Liu, Y., Liu, W., Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
+* Wu, W., Zhang, F., Liu, W., Lodewijks, G. Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets.
+
 Delivered technical reports
 ------------
 * Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
