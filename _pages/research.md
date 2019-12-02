@@ -20,10 +20,10 @@ Research students
 
 Selected working papers
 ------------
-* Zhang, F., Yang, Z., Jiao, J., Liu, W. The effects of high-speed rail development on regional equity in China.
-* Zhang, F., Graham, D. Air transport and economic growth: a review of the impact mechanism and causal relationships.
 * Zhang, F., Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
 * Zhang, F., Liu, W., Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
+* Zhang, F., Graham, D. Air transport and economic growth: a review of the impact mechanism and causal relationships.
+* Zhang, F., Yang, Z., Jiao, J., Liu, W. The effects of high-speed rail development on regional equity in China.
 * Jiao, J., Wang, J., Zhang, F, Jin, F. Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China.
 * Jiao, J., Zhang, F., Wang, J. A systematic assessment of passenger service network structure of low-cost carriers in China.
 * Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
