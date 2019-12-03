@@ -4,20 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Research students
------------
-**PhD Students**
-* Muhammad Yeasir Arafat (2020 - , UNSW)  
-* Mingyou Ma (2019 - , UNSW)
-
-**Master Students**
-* Runqing Zhao (2019 - , UNSW)
-* Zhiwei Yang (2019 - , UNSW)
-* Gida Aikaterini (2017 - 2019, Leeds)
-* Ziheng Zhou (2017 - 2018, Leeds)
-* Yuhan Ma (2017 - 2018, Leeds)
-* Qian Yang (2017 - 2018, Leeds)
-
 Selected working papers
 ------------
 * Zhang, F., Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
@@ -34,6 +20,20 @@ Selected working papers
 * Wu, W., Liu, W., Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 * Wu, W., Liu, Y., Liu, W., Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
 * Wu, W., Zhang, F., Liu, W., Lodewijks, G. Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets.
+
+Research students
+-----------
+**PhD Students**
+* Muhammad Yeasir Arafat (2020 - , UNSW)  
+* Mingyou Ma (2019 - , UNSW)
+
+**Master Students**
+* Runqing Zhao (2019 - , UNSW)
+* Zhiwei Yang (2019 - , UNSW)
+* Gida Aikaterini (2017 - 2019, Leeds)
+* Ziheng Zhou (2017 - 2018, Leeds)
+* Yuhan Ma (2017 - 2018, Leeds)
+* Qian Yang (2017 - 2018, Leeds)
 
 Delivered technical reports
 ------------
