@@ -14,7 +14,7 @@ redirect_from:
 * B.S. in Industrial Engineering, Beihang University
 * Ph.D in Civil Engineering (Transportation), Hong Kong University of Science and Technology
 
-**Work experience**
+**Working experience**
 
 * 2020.2 -: Assistant Professor, [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), University of Hong Kong
 
