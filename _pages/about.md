@@ -20,12 +20,12 @@ Research interests
 
 PhD, Postdoc & Research Assistant positions
 ======
-- I am looking for 1-2 self-motivated Ph.D. students to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
+- I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-- Successful applicants will be considered eligible to receive a Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the Hong Kong PhD Fellowship scheme, which offers an annual stipend of HKD 25,800 /month plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at: [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2)
+- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2019/20 rate: HKD 17,330/month) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** scheme, which offers an annual stipend of HKD 25,800 /month plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at: [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2)
 To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku](https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku)
 
-- Postdoc, Research Assistant, and visiting research positions are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
+- **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
 - Please contact Dr. Fangni Zhang directly at [fangni.zhang@hotmail.com](fangni.zhang@hotmail.com)
 
