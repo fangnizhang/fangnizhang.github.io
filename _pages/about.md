@@ -31,6 +31,8 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 
 Selected Publications
 ======
+- Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, in press.
+
 - **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. **Transportation Research Part C**, in press.
 
 - Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. **Transportation Research Part D**, 67, 553-564.
