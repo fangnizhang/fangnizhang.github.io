@@ -20,7 +20,6 @@ Selected working papers
 * Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
 * Wu, W., Liu, W., **Zhang, F.**, Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 * Wu, W., Liu, Y., Liu, W., **Zhang, F.**, Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
-* Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets.
 * Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** High-speed rail megalopolis vs Economic Circle: Effects on regional economic growth.
 
 Research students
