@@ -18,7 +18,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-* Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 101855.
+* Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 134, 101855.
 
 * **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
@@ -32,7 +32,7 @@ Journal Publications
 
 * Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
 
-* **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
+* **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
 
 * Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
 
