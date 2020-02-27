@@ -18,6 +18,8 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
+* **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: a review of the impact mechanism and causal relationships. **Transport Reviews**, in press.
+
 * Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 134, 101855.
 
 * **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
