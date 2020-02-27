@@ -6,10 +6,10 @@ author_profile: true
 
 Selected working papers
 ------------
-* **Zhang, F.**, Graham, D. Air transport and economic growth: a review of the impact mechanism and causal relationships.
 * **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
 * **Zhang, F.**, Liu, W., Waller, S.T. Integrated planning and operation optimization for urban multi-modal networks.
 * **Zhang, F.**, Liu, W., Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
+* **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
 * **Zhang, F.**, Yang, Z., Jiao, J., Liu, W. The effects of high-speed rail development on regional equity in China.
 * Jiao, J., Wang, J., **Zhang, F.**, Jin, F. Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
