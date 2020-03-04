@@ -11,7 +11,6 @@ Selected working papers
 * **Zhang, F.**, Liu, W., Waller, S.T. Integrated planning and operation optimization for urban multi-modal networks.
 * **Zhang, F.**, Liu, W., Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
 * **Zhang, F.**, Yang, Z., Jiao, J., Liu, W. The effects of high-speed rail development on regional equity in China.
-* Jiao, J., Wang, J., **Zhang, F.**, Jin, F. Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
 * Jiao, J., Liu, J., **Zhang, F.** A spatiotemporal analysis of the robustness of high-speed rail network in China.
 * Liu, W., **Zhang, F.**, Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
