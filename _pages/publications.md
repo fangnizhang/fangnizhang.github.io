@@ -18,11 +18,11 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-* **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. **Transport Reviews**, in press.
+1. **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. **Transport Reviews**, in press.
 
-* Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. **Transport Policy**, in press.
+1. Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. **Transport Policy**, in press.
 
-* Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 134, 101855.
+1. Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 134, 101855.
 
 * **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
 
