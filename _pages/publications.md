@@ -42,13 +42,13 @@ Journal Publications
 
 * Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
 
-* **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
+4. **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
 
-* Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
+3. Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
 
-* **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
+2. **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
 
-* Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
+1. Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
 
 
 Selected Conferences
