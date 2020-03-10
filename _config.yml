@@ -88,13 +88,13 @@ author:
     Assistant Professor <br>
     Industrial and Manufacturing Systems Engineering <br>
     University of Hong Kong<br>
-  location         : "Location"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl"
   email            : "fangni.zhang@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.imse.hku.hk/people/f-n-zhang"
   bitbucket        :
   codepen          :
   dribbble         :
