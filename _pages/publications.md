@@ -18,13 +18,13 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-[16] **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. **Transport Reviews**, DOI: 10.1080/01441647.2020.1738587.
+[16] **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. **Transport Reviews**, DOI: 10.1080/01441647.2020.1738587. [Download](https://doi.org/10.1080/01441647.2020.1738587)
 
-[15] Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. **Transport Policy**, 91, 1-15.
+[15] Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. **Transport Policy**, 91, 1-15. [Download](https://doi.org/10.1016/j.tranpol.2020.03.001)
 
-[14] Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 134, 101855.
+[14] Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E**, 134, 101855. [Download](https://doi.org/10.1016/j.tre.2020.101855)
 
-[13] **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, DOI:10.1016/j.trc.2019.04.005.
+[13] **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, DOI:10.1016/j.trc.2019.04.005. [Download](https://doi.org/10.1016/j.trc.2019.04.005)
 
 [12] Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
 
