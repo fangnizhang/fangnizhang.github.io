@@ -18,37 +18,37 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-[16] **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. **Transport Reviews**, in press. [(Download)](https://doi.org/10.1080/01441647.2020.1738587)
+[16] **Zhang, F.**, Graham, D. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. * *Transport Reviews* *, in press. [(Download)](https://doi.org/10.1080/01441647.2020.1738587)
 
-[15] Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. **Transport Policy**, 91, 1-15. [(Download)](https://doi.org/10.1016/j.tranpol.2020.03.001)
+[15] Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. * *Transport Policy* *, 91, 1-15. [(Download)](https://doi.org/10.1016/j.tranpol.2020.03.001)
 
-[14] Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. **Transportation Research Part E: Logistics and Transportation Review**, 134, 101855. [(Download)](https://doi.org/10.1016/j.tre.2020.101855)
+[14] Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. * *Transportation Research Part E: Logistics and Transportation Review* *, 134, 101855. [(Download)](https://doi.org/10.1016/j.tre.2020.101855)
 
-[13] **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. **Transportation Research Part C: Emerging Technologies**, in press. [(Download)](https://doi.org/10.1016/j.trc.2019.04.005)
+[13] **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. * *Transportation Research Part C: Emerging Technologies* *, in press. [(Download)](https://doi.org/10.1016/j.trc.2019.04.005)
 
-[12] Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. **Transportmetrica B: Transport Dynamics**, 7(1), 1481-1504. [(Download)](https://doi.org/10.1080/21680566.2019.1631901)
+[12] Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. * *Transportmetrica B: Transport Dynamics* *, 7(1), 1481-1504. [(Download)](https://doi.org/10.1080/21680566.2019.1631901)
 
-[11] Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. **Transportation Research Part D: Transport and Environment**, 67, 553-564. [(Download)](https://doi.org/10.1016/j.trd.2018.12.023)
+[11] Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. * *Transportation Research Part D: Transport and Environment* *, 67, 553-564. [(Download)](https://doi.org/10.1016/j.trd.2018.12.023)
 
-[10] **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. **Transportation Research Part A: Policy and Practice**, 118, 191-215. [(Download)](https://doi.org/10.1016/j.tra.2018.08.004)
+[10] **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. * *Transportation Research Part A: Policy and Practice* *, 118, 191-215. [(Download)](https://doi.org/10.1016/j.tra.2018.08.004)
 
-[9] **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. **Transportation Research Part C: Emerging Technologies**, 96, 208-230. [(Download)](https://doi.org/10.1016/j.trc.2018.09.009)
+[9] **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. * *Transportation Research Part C: Emerging Technologies* *, 96, 208-230. [(Download)](https://doi.org/10.1016/j.trc.2018.09.009)
 
-[8] Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. **Transportation Research Part C: Emerging Technologies**, 85, 711-731. [(Download)](https://doi.org/10.1016/j.trc.2017.10.021)
+[8] Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. * *Transportation Research Part C: Emerging Technologies* *, 85, 711-731. [(Download)](https://doi.org/10.1016/j.trc.2017.10.021)
 
-[7] **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? **Transportation Research Part E: Logistics and Transportation Review**, 103, 198-217. [(Download)](https://doi.org/10.1016/j.tre.2017.05.004)
+[7] **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? * *Transportation Research Part E: Logistics and Transportation Review* *, 103, 198-217. [(Download)](https://doi.org/10.1016/j.tre.2017.05.004)
 
-[6] Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. **Transportation Research Part B: Methodological**, 103, 227-247. [(Download)](https://doi.org/10.1016/j.trb.2016.12.002)
+[6] Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. * *Transportation Research Part B: Methodological* *, 103, 227-247. [(Download)](https://doi.org/10.1016/j.trb.2016.12.002)
 
-[5] Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. **Transportation Research Part A: Policy and Practice**, 95, 126-147. [(Download)](https://doi.org/10.1016/j.tra.2016.11.003)
+[5] Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. * *Transportation Research Part A: Policy and Practice* *, 95, 126-147. [(Download)](https://doi.org/10.1016/j.tra.2016.11.003)
 
-[4] **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. **Transportation Research Part B: Methodological**, 86, 104-127. [(Download)](https://doi.org/10.1016/j.trb.2016.01.013)
+[4] **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. * *Transportation Research Part B: Methodological* *, 86, 104-127. [(Download)](https://doi.org/10.1016/j.trb.2016.01.013)
 
-[3] Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. **Transportmetrica A: Transport Science**, 12(2), 116-141. [(Download)](https://doi.org/10.1080/23249935.2015.1111955)
+[3] Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. * *Transportmetrica A: Transport Science* *, 12(2), 116-141. [(Download)](https://doi.org/10.1080/23249935.2015.1111955)
 
-[2] **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. **Transportation Research Part A: Policy and Practice**, 70, 244-263. [(Download)](https://doi.org/10.1016/j.tra.2014.10.022)
+[2] **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. * *Transportation Research Part A: Policy and Practice* *, 70, 244-263. [(Download)](https://doi.org/10.1016/j.tra.2014.10.022)
 
-[1] Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. **Transportation Research Part C: Emerging Technologies**, 44, 265-281. [(Download)](https://doi.org/10.1016/j.trc.2014.04.005)
+[1] Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. * *Transportation Research Part C: Emerging Technologies* *, 44, 265-281. [(Download)](https://doi.org/10.1016/j.trc.2014.04.005)
 
 
 Selected Conferences
