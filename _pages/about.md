@@ -27,7 +27,7 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 
 - **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
-- Please contact Dr. Fangni Zhang directly at [fnzhang.at.hku.hk
+- Please contact Dr. Fangni Zhang directly at fnzhang.at.hku.hk
 
 Selected Publications
 ======
