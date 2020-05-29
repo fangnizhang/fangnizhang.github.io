@@ -18,6 +18,12 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
+[19] **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
+
+[18] Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, in press. 
+
+[17] **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, in press. 
+
 [16] **Zhang, F.**, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, in press. [(Download)](https://doi.org/10.1080/01441647.2020.1738587)
 
 [15] Jiao, J., Wang, J., **Zhang, F.**, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. *Transport Policy*, 91, 1-15. [(Download)](https://doi.org/10.1016/j.tranpol.2020.03.001)
