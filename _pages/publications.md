@@ -18,7 +18,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-[19] **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
+[19] **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
 
 [18] Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, in press. 
 
