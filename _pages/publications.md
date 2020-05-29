@@ -30,7 +30,7 @@ Journal Publications
 
 [14] Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855. [(Download)](https://doi.org/10.1016/j.tre.2020.101855)
 
-[13] **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, in press. [(Download)](https://doi.org/10.1016/j.trc.2019.04.005)
+[13] **Zhang, F.**, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 113, 21-37. [(Download)](https://doi.org/10.1016/j.trc.2019.04.005)
 
 [12] Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. *Transportmetrica B: Transport Dynamics*, 7(1), 1481-1504. [(Download)](https://doi.org/10.1080/21680566.2019.1631901)
 
