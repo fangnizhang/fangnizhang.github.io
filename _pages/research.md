@@ -7,19 +7,16 @@ author_profile: true
 Selected working papers
 ------------
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
-* **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
 * **Zhang, F.**, Liu, W., Waller, S.T. Integrated planning and operation optimization for urban multi-modal networks.
-* **Zhang, F.**, Liu, W., Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
 * **Zhang, F.**, Yang, Z., Jiao, J., Liu, W. The effects of high-speed rail development on regional equity in China.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
 * Jiao, J., Liu, J., **Zhang, F.** A spatiotemporal analysis of the robustness of high-speed rail network in China.
 * Liu, W., **Zhang, F.**, Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 * Ma, M., Liu, W., Li, X., **Zhang, F.**, Jian, S., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
 * Shao, C., Lindsey, R., Yang, H., **Zhang, F.**, Liu, W. Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
-* Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
 * Wu, W., Liu, W., **Zhang, F.**, Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 * Wu, W., Liu, Y., Liu, W., **Zhang, F.**, Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
-* Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** High-speed rail megalopolis vs Economic Circle: Effects on regional economic growth.
+* Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** High-speed rail, megalopolis, and regional economic growth.
 
 Research students
 -----------
