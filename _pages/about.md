@@ -29,9 +29,22 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 
 - Please contact Dr. Fangni Zhang directly at fnzhang.at.hku.hk
 
+
+Research students
+======
+As primary supervisor
+* Zhuoye Zhang (from Shanghai Jiaotong University, @HKU 2020- )  
+* Jie Lin (from Shanghai Jiaotong University, @HKU 2020- )
+
+As co-supervisor
+* Pengli Wan (@HKU 2020- )  
+* Muhammad Yeasir Arafat (@UNSW 2020-)  
+* Mingyou Ma (@UNSW, 2019- )
+* Runqing Zhao (@UNSW, 2019- )
+
+
 Selected Publications
 ======
-
 - **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. **Transportation Research Part C: Emerging Technologies**, forthcoming.
 
 - Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. **Transportation Research Part C: Emerging Technologies**, forthcoming.
