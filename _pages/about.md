@@ -58,17 +58,17 @@ Selected Publications
 
 - **Zhang, F.**, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 113, 21-37.
 
-- Wu, W., Wang, M., **Zhang, F.** * (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. *Transportation Research Part D: Transport and Environment*, 67, 553-564. 
+- Wu, W., Wang, M., __Zhang, F.\*__ (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. *Transportation Research Part D: Transport and Environment*, 67, 553-564. 
 
 - **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. *Transportation Research Part A: Policy and Practice*, 118, 191-215.
 
 - **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. *Transportation Research Part C: Emerging Technologies*, 96, 208-230.
 
-- Liu, W., Li, X, **Zhang, F.***, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. *Transportation Research Part C: Emerging Technologies*, 85, 711-731.
+- Liu, W., Li, X, __Zhang, F.\*__, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. *Transportation Research Part C: Emerging Technologies*, 85, 711-731.
 
 - **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? *Transportation Research Part E: Logistics and Transportation Review*, 103, 198-217.
 
-- Liu, W., **Zhang, F.***, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. *Transportation Research Part B: Methodological*, 103, 227-247.
+- Liu, W., __Zhang, F.\*__, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. *Transportation Research Part B: Methodological*, 103, 227-247.
 
 - **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. *Transportation Research Part B: Methodological*, 86, 104-127.
 
