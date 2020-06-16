@@ -46,13 +46,13 @@ As co-supervisor
 Selected Publications
 ======
 
-- **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, in press. 
+- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, in press. 
 
-- **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
+- __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
 
-- **Zhang, F.**, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, 40(4), 506-528. 
+- __Zhang, F.__, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, 40(4), 506-528. 
 
-- Jiao, J., Wang, J., **Zhang, F.** *, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. *Transport Policy*, 91, 1-15. 
+- Jiao, J., Wang, J., __Zhang, F.*__, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. *Transport Policy*, 91, 1-15. 
 
 - Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855.
 
