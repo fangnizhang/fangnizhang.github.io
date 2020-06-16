@@ -47,7 +47,7 @@ Selected Publications
 ======
 - **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. **Transportation Research Part C: Emerging Technologies**, forthcoming.
 
-% - Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. **Transportation Research Part C: Emerging Technologies**, forthcoming.
+- Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. **Transportation Research Part C: Emerging Technologies**, forthcoming.
 
 - **Zhang, F.**, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. **Transport Reviews**, 40(4), 506-528. 
 
