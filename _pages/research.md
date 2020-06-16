@@ -21,7 +21,7 @@ Selected working papers
 * Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** High-speed rail, megalopolis, and regional economic growth.
 * Zhang, Z., **Zhang, F.** Optimal pricing and vehicle size for integrated ridesharing and transit services.
 
-Research students and Alumni
+Research students and alumni
 -----------
 **PhD Students**
 * Zhuoye Zhang (@HKU, 2020- )  
