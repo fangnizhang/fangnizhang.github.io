@@ -32,7 +32,7 @@ Research students and alumni
 
 **Master Students**
 * Runqing Zhao (@UNSW, 2019- )
-* Zhiwei Yang (@UNSW, 2019- )
+* Zhiwei Yang (@UNSW, 2019-2020)
 * Gida Aikaterini (@ULeeds, 2017-2018)
 * Ziheng Zhou (@ULeeds, 2017-2018)
 * Yuhan Ma (@ULeeds, 2017-2018)
