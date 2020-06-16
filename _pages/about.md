@@ -33,12 +33,12 @@ To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/g
 Research students
 ======
 As primary supervisor
-* Zhuoye Zhang (from Shanghai Jiaotong University, @HKU 2020- )  
-* Jie Lin (from Shanghai Jiaotong University, @HKU 2020- )
+* Zhuoye Zhang (from Shanghai Jiaotong University, @HKU, 2020- )  
+* Jie Lin (from Shanghai Jiaotong University, @HKU, 2020- )
 
 As co-supervisor
-* Pengli Wan (@HKU 2020- )  
-* Muhammad Yeasir Arafat (@UNSW 2020-)  
+* Pengli Wan (@HKU, 2020- )  
+* Muhammad Yeasir Arafat (@UNSW, 2020-)  
 * Mingyou Ma (@UNSW, 2019- )
 * Runqing Zhao (@UNSW, 2019- )
 
