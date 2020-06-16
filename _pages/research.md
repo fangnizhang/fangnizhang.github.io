@@ -21,19 +21,22 @@ Selected working papers
 * Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** High-speed rail, megalopolis, and regional economic growth.
 * Zhang, Z., **Zhang, F.** Optimal pricing and vehicle size for integrated ridesharing and transit services.
 
-Research students
+Research students and Alumni
 -----------
 **PhD Students**
-* Muhammad Yeasir Arafat (2020 - , UNSW)  
-* Mingyou Ma (2019 - , UNSW)
+* Zhuoye Zhang (@HKU, 2020- )  
+* Jie Lin (@HKU, 2020- )
+* Pengli Wan (@HKU, 2020- )  
+* Muhammad Yeasir Arafat (@UNSW, 2020-)  
+* Mingyou Ma (@UNSW, 2019- )
 
 **Master Students**
-* Runqing Zhao (2019 - , UNSW)
-* Zhiwei Yang (2019 - , UNSW)
-* Gida Aikaterini (2017 - 2019, Leeds)
-* Ziheng Zhou (2017 - 2018, Leeds)
-* Yuhan Ma (2017 - 2018, Leeds)
-* Qian Yang (2017 - 2018, Leeds)
+* Runqing Zhao (@UNSW, 2019- )
+* Zhiwei Yang (@UNSW, 2019- )
+* Gida Aikaterini (@ULeeds, 2017-2018)
+* Ziheng Zhou (@ULeeds, 2017-2018)
+* Yuhan Ma (@ULeeds, 2017-2018)
+* Qian Yang (@ULeeds, 2017-2018)
 
 Delivered technical reports
 ------------
