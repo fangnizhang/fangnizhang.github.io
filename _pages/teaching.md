@@ -11,7 +11,7 @@ At the University of Hong Kong, 2020 -
 * Core topics: global operations and logistics planning, multimodal logistics systems
 
 **IELM7015**
-* Global Logistics (IE postgraduates)
+* Global Logistics (fundamental course for IE postgraduates)
 * Core topics: global logistics network design, multimodal logistics systems
 
 At the University of New South Wales, 2018 - 2019
