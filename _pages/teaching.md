@@ -4,7 +4,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-At the University of New South Wales, 2018 -
+At the University of Hong Kong, 2020 -
+--------
+**IMSE4122**
+* Global Logistics Systems (discipline core course for IE undergraduates) 
+* Core topics: global operations and logistics planning, multimodal logistics systems
+
+**IELM7015**
+* Global Logistics (IE postgraduates)
+* Core topics: global logistics network design, multimodal logistics systems
+
+At the University of New South Wales, 2018 - 2019
 --------
 **AVIA1321**
 * Fundamentals of Aviation (1st-year undergraduates in Aviation Management) 
