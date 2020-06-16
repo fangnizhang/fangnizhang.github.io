@@ -38,7 +38,7 @@ As primary supervisor
 
 As co-supervisor
 * Pengli Wan (@HKU, 2020- )  
-* Muhammad Yeasir Arafat (@UNSW, 2020-)  
+* Muhammad Yeasir Arafat (@UNSW, 2020- )  
 * Mingyou Ma (@UNSW, 2019- )
 * Runqing Zhao (@UNSW, 2019- )
 
