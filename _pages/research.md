@@ -23,20 +23,17 @@ Selected working papers
 
 Research students and alumni
 -----------
-**PhD Students**
-* Zhuoye Zhang (@HKU, 2020- )  
-* Jie Lin (@HKU, 2020- )
-* Pengli Wan (@HKU, 2020- )  
-* Muhammad Yeasir Arafat (@UNSW, 2020-)  
-* Mingyou Ma (@UNSW, 2019- )
-
-**Master Students**
-* Runqing Zhao (@UNSW, 2019- )
-* Zhiwei Yang (@UNSW, 2019-2020)
-* Gida Aikaterini (@ULeeds, 2017-2018)
-* Ziheng Zhou (@ULeeds, 2017-2018)
-* Yuhan Ma (@ULeeds, 2017-2018)
-* Qian Yang (@ULeeds, 2017-2018)
+* Zhuoye Zhang (PhD@HKU, 2020- )  
+* Jie Lin (PhD@HKU, 2020- )
+* Pengli Wan (PhD@HKU, 2020- )  
+* Muhammad Yeasir Arafat (PhD@UNSW, 2020-)  
+* Mingyou Ma (PhD@UNSW, 2019- )
+* Runqing Zhao (MPhil@UNSW, 2019- )
+* Zhiwei Yang (MSc@UNSW, 2019-2020)
+* Gida Aikaterini (MSc@ULeeds, 2017-2018)
+* Ziheng Zhou (MSc@ULeeds, 2017-2018)
+* Yuhan Ma (MSc@ULeeds, 2017-2018)
+* Qian Yang (MSc@ULeeds, 2017-2018)
 
 Delivered technical reports
 ------------
