@@ -73,6 +73,7 @@ Academic services
 * Transportation Research Part A: Policy and Practice
 * Transportation Research Part B: Methodological
 * Transportation Research Part C: Emerging Technologies
+* Transportation Research Part D: Transport and Environment
 * Transportation Research Part E: Logistics and Transportation Review
 * Transportmetrica A: Transport Science
 * Transportmetrica B: Transport Dynamics
@@ -80,6 +81,7 @@ Academic services
 * Travel Behaviour and Society
 * Networks and Spatial Economics
 * IEEE Transactions on Cybernetics
+* International Journal of Logistics
 * Transportation Research Record
 * Journal of Advanced Transportation
 * Journal of Transport Economics and Policy 
