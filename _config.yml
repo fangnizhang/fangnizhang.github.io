@@ -42,7 +42,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "fangni.zhang@hotmail.com"
+    email                : 
   generatedFields:
     date:
       type               : "date"
@@ -92,7 +92,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl"
-  email            : "fangni.zhang@hotmail.com"
+  email            : "fnzhang@hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.imse.hku.hk/people/f-n-zhang"
   bitbucket        :
