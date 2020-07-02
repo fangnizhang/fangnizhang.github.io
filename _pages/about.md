@@ -46,7 +46,7 @@ As co-supervisor
 Selected Publications
 ======
 
-- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, in press. 
+- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676.
 
 - __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
 
