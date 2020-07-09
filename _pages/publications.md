@@ -20,7 +20,7 @@ Journal Publications
 ----------
 [19] **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
 
-[18] Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, in press. 
+[18] Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 117, 102670. [(Download)](https://doi.org/10.1016/j.trc.2020.102670)
 
 [17] **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676. [(Download)](https://doi.org/10.1016/j.trc.2020.102676)
 
