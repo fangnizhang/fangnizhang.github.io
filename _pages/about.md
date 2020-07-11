@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fangni Zhang is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at [The University of Hong Kong](https://www.imse.hku.hk/people/f-n-zhang). Prior to joining HKU, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
+Dr. Fangni Zhang is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong [Homepage at HKU](https://www.imse.hku.hk/people/f-n-zhang). Prior to joining HKU, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
+
+Affiliations
+======
+- Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong [Link to HKU-IMSE](https://www.imse.hku.hk/)
+- Fellow, Institute of Transport Studies, The University of Hong Kong [Link to HKU-ITS](https://www.institute-of-transport-studies.hku.hk/)
+- Adjunct Lecturer, School of Aviation, University of New South Wales, Sydney [Link to UNSW-Aviation](https://www.aviation.unsw.edu.au/)
 
 Research interests
 ======
