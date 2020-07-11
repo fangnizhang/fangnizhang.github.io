@@ -12,9 +12,9 @@ Dr. Fangni Zhang is an Assistant Professor at the Department of Industrial and M
 
 Affiliations
 ======
-- Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong [(Link to HKU-IMSE)](https://www.imse.hku.hk/)
-- Fellow, Institute of Transport Studies, The University of Hong Kong [(Link to HKU-ITS)](https://www.institute-of-transport-studies.hku.hk/)
-- Adjunct Lecturer (by courtesy), School of Aviation, University of New South Wales, Sydney [(Link to UNSW-Aviation)](https://www.aviation.unsw.edu.au/)
+- Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong [(HKU-IMSE website)](https://www.imse.hku.hk/)
+- Fellow, Institute of Transport Studies, The University of Hong Kong [(HKU-ITS website)](https://www.institute-of-transport-studies.hku.hk/)
+- Adjunct Lecturer (by courtesy), School of Aviation, University of New South Wales, Sydney [(UNSW-Aviation website)](https://www.aviation.unsw.edu.au/)
 
 Research interests
 ======
