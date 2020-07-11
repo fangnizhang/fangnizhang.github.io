@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fangni Zhang is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong [Homepage at HKU](https://www.imse.hku.hk/people/f-n-zhang). Prior to joining HKU, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
+Dr. Fangni Zhang is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong [(Homepage at HKU)](https://www.imse.hku.hk/people/f-n-zhang). Prior to joining HKU, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
 
 Affiliations
 ======
-- Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong [Link to HKU-IMSE](https://www.imse.hku.hk/)
-- Fellow, Institute of Transport Studies, The University of Hong Kong [Link to HKU-ITS](https://www.institute-of-transport-studies.hku.hk/)
-- Adjunct Lecturer, School of Aviation, University of New South Wales, Sydney [Link to UNSW-Aviation](https://www.aviation.unsw.edu.au/)
+- Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong [(Link to HKU-IMSE)](https://www.imse.hku.hk/)
+- Fellow, Institute of Transport Studies, The University of Hong Kong [(Link to HKU-ITS)](https://www.institute-of-transport-studies.hku.hk/)
+- Adjunct Lecturer (by courtesy), School of Aviation, University of New South Wales, Sydney [(Link to UNSW-Aviation)](https://www.aviation.unsw.edu.au/)
 
 Research interests
 ======
@@ -28,7 +28,7 @@ PhD, Postdoc & Research Assistant positions
 ======
 - I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month)** during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** scheme, which offers an annual stipend of **HKD 25,800 /month** plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at: [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2)
+- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month)** during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** scheme, which offers an annual stipend of **HKD 26,600 /month** plus a conference and research-related travel allowance of HKD 13,300 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at: [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2)
 To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku](https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku)
 
 - **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
