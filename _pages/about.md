@@ -18,10 +18,10 @@ Affiliations
 
 Research interests
 ======
-- Multimodal transport systems
-- Automated and shared mobility
-- High-speed rail and air transport
-- Wider economic benefits quantification
+- Transport/Logistics system modeling and optimization
+- Transport economics
+- Shared/autonomous transport/logistics system modeling
+- High-speed rail/aviation system management
 - Transport and urban data analytics
 
 PhD, Postdoc & Research Assistant positions
