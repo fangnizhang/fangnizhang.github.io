@@ -20,6 +20,7 @@ Selected working papers
 * Wu, W., Liu, Y., Liu, W., **Zhang, F.**, Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
 * Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** High-speed rail, megalopolis, and regional economic growth.
 * Zhang, Z., **Zhang, F.** Optimal pricing and vehicle size for integrated ridesharing and transit services.
+* Zhou, T., **Zhang, F.**, Pei, X. Congestion pricing with cross-modal reward: incentivizing public transit usage in a two-mode system.
 
 Research students and alumni
 -----------
