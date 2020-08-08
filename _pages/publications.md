@@ -18,6 +18,8 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
+[20] Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.** (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. *Transport Policy*, in press.
+
 [19] **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
 
 [18] Wei, B., Saberi, M., **Zhang, F.**, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 117, 102670. [(Download)](https://doi.org/10.1016/j.trc.2020.102670)
