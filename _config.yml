@@ -92,8 +92,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl"
-  email            : "fnzhang@hku.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : # "fnzhang@hku.hk"
+  researchgate     : "https://www.researchgate.net/profile/Fangni_Zhang"
   uri              : "https://www.imse.hku.hk/people/f-n-zhang"
   bitbucket        :
   codepen          :
