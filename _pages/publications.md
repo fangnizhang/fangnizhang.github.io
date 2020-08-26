@@ -28,9 +28,9 @@ Journal Publications
 
 [17] **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676. [(Download)](https://doi.org/10.1016/j.trc.2020.102676)
 
-[16] **Zhang, F.**, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, 40(4), 506-528. [(Download)](https://doi.org/10.1080/01441647.2020.1738587)
+[16] **Zhang, F.***, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. _Transport Reviews_, 40(4), 506-528. [(Download)](https://doi.org/10.1080/01441647.2020.1738587)
 
-[15] Jiao, J., Wang, J., **Zhang, F.***, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. *Transport Policy*, 91, 1-15. [(Download)](https://doi.org/10.1016/j.tranpol.2020.03.001)
+[15] Jiao, J., Wang, J., **Zhang, F.***, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. _Transport Policy_, 91, 1-15. [(Download)](https://doi.org/10.1016/j.tranpol.2020.03.001)
 
 [14] Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855. [(Download)](https://doi.org/10.1016/j.tre.2020.101855)
 
