@@ -20,7 +20,7 @@ Journal Publications
 ----------
 (* corresponding author)
 
-[20] Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.*** (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. *Transport Policy*, in press.
+[20] Yang, Z., Li, C., Jiao, J., Liu, W., **Zhang, F.*** (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. *Transport Policy*, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
 
 [19] **Zhang, F.**, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
 
