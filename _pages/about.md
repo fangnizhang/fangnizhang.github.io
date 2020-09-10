@@ -57,24 +57,24 @@ Selected Publications
 
 - __Zhang, F.__, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, 40(4), 506-528. 
 
-- **Zhang, F.**, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 113, 21-37.
+- __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 113, 21-37.
 
 - Jiao, J., Wang, J., __Zhang, F.\*__, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. *Transport Policy*, 91, 1-15. 
 
-- Wu, W., **Zhang, F.**, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855.
+- Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855.
 
 - Wu, W., Wang, M., __Zhang, F.\*__ (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. *Transportation Research Part D: Transport and Environment*, 67, 553-564. 
 
-- **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. *Transportation Research Part A: Policy and Practice*, 118, 191-215.
+- __Zhang, F.__, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. *Transportation Research Part A: Policy and Practice*, 118, 191-215.
 
-- **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. *Transportation Research Part C: Emerging Technologies*, 96, 208-230.
+- __Zhang, F.__, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. *Transportation Research Part C: Emerging Technologies*, 96, 208-230.
 
 - Liu, W., Li, X, __Zhang, F.\*__, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. *Transportation Research Part C: Emerging Technologies*, 85, 711-731.
 
 - Liu, W., __Zhang, F.\*__, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. *Transportation Research Part B: Methodological*, 103, 227-247.
 
-- **Zhang, F.**, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? *Transportation Research Part E: Logistics and Transportation Review*, 103, 198-217.
+- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? *Transportation Research Part E: Logistics and Transportation Review*, 103, 198-217.
 
-- **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. *Transportation Research Part B: Methodological*, 86, 104-127.
+- __Zhang, F.__, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. *Transportation Research Part B: Methodological*, 86, 104-127.
 
-- **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. *Transportation Research Part A: Policy and Practice*, 70, 244-263.
+- __Zhang, F.__, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. *Transportation Research Part A: Policy and Practice*, 70, 244-263.
