@@ -20,6 +20,10 @@ Journal Publications
 ----------
 (* corresponding author)
 
+[22] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, forthcoming.
+
+[21] __Zhang, F.__, Yang, Z., Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
+
 [20] Yang, Z., Li, C., Jiao, J., Liu, W., __Zhang, F.\*__ (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. _Transport Policy_, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
 
 [19] __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. _Transportmetrica B: Transport Dynamics_, in press. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
