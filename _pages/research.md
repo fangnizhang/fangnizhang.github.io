@@ -8,9 +8,7 @@ Selected working papers
 ------------
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
 * **Zhang, F.**, Liu, W., Waller, S.T. Integrated planning and operation optimization for urban multi-modal networks.
-* **Zhang, F.**, Yang, Z., Jiao, J., Liu, W., Wu, W. The effects of high-speed rail development on regional equity in China.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
-* Jiao, J., Liu, J., **Zhang, F.** A spatiotemporal analysis of the robustness of high-speed rail network in China.
 * Lin, J., **Zhang, F.** Modeling and managing the truck-drone hybrid delivery for city logistics.
 * Liu, W., **Zhang, F.**, Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
 * Ma, M., Liu, W., Li, X., **Zhang, F.**, Jian, S., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
