@@ -20,7 +20,7 @@ Journal Publications
 ----------
 (* corresponding author)
 
-[22] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, 89, 102584.
+[22] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, 89, 102584. [(Download)](https://doi.org/10.1016/j.trd.2020.102584)
 
 [21] __Zhang, F.__, Yang, Z., Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
 
