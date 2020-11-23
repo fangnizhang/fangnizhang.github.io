@@ -9,12 +9,12 @@ Selected working papers
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
 * **Zhang, F.**, Liu, W. An economic analysis of integrating bike sharing service with urban metro systems.
 * Liu, W., **Zhang, F.**, Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
-* Liu, W., **Zhang, F.**, Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 * Ma, M., Liu, W., Li, X., **Zhang, F.**, Jian, S., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
 * Shao, C., Lindsey, R., Yang, H., **Zhang, F.**, Liu, W. Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 * Wu, W., Liu, W., **Zhang, F.**, Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 * Wu, W., Liu, Y., Liu, W., **Zhang, F.**, Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
+* Liu, W., **Zhang, F.**, Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
 * **Zhang, F.**, Liu, W., Waller, S.T. Integrated planning and operation optimization for urban multi-modal networks.
