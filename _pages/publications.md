@@ -20,6 +20,10 @@ Journal Publications
 ----------
 (* corresponding author)
 
+[24] Wu, W., Liu, W., __Zhang, F.__, Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. _Networks and Spatial Economics_, in press. ([Download](https://doi.org/DOI))
+
+[23] Ma, M., Liu, W., Li, X., __Zhang, F.__, Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. _Transportmetrica B: Transport Dynamics_, 9(1), 519-551. ([Download](https://doi.org/10.1080/21680566.2021.1916645))
+
 [22] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, 89, 102584. [(Download)](https://doi.org/10.1016/j.trd.2020.102584)
 
 [21] __Zhang, F.__, Yang, Z., Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
