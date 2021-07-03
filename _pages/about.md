@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
+[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
 
 Affiliations
 ======
@@ -18,11 +18,10 @@ Affiliations
 
 Research interests
 ======
-- Transport/Logistics system modeling and optimization
-- Transport economics
-- Shared/autonomous transport/logistics system modeling
-- High-speed rail/aviation system management
-- Transport and urban data analytics
+- Shared transport and logistics systems
+- Autonomous vehicle/UAV systems
+- Transport network modeling and optimization
+- Transport/urban data analytics
 
 PhD, Postdoc & Research Assistant positions
 ======
@@ -37,29 +36,23 @@ PhD, Postdoc & Research Assistant positions
 
 Research students
 ======
-As primary supervisor
-* Zhuoye Zhang (from Shanghai Jiao Tong University, @HKU, 2020- )  
-* Jie Lin (from Shanghai Jiao Tong University, @HKU, 2020- )
-
-As co-supervisor
-* Pengli Wan (@HKU, 2020- )  
-* Muhammad Yeasir Arafat (@UNSW, 2020- )  
-* Mingyou Ma (@UNSW, 2019- )
-* Runqing Zhao (@UNSW, 2019- )
+* Wenbo Sun (from Beihang University, 2021- )  
+* Zhenwei Gong (from University of Hong Kong, 2021- )
+* Zhuoye Zhang (from Shanghai Jiao Tong University, 2020- )  
+* Jie Lin (from Shanghai Jiao Tong University, 2020- )
+* Mingyou Ma (as co-supervisor @UNSW, 2019- )
+* Runqing Zhao (as co-supervisor @UNSW, 2019- )
 
 
 Selected Publications
 ======
+- Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. *Transportation Research Part E: Logistics and Transportation Review*, 152, 102411.
 
 - __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676.
-
-- __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. *Transportmetrica B: Transport Dynamics*, in press. 
 
 - __Zhang, F.__, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, 40(4), 506-528. 
 
 - __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 113, 21-37.
-
-- Jiao, J., Wang, J., __Zhang, F.\*__, Jin, F., Liu, W. (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. *Transport Policy*, 91, 1-15. 
 
 - Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855.
 
