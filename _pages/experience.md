@@ -16,17 +16,17 @@ redirect_from:
 
 **Working experience**
 
-* 2020.2 -: Assistant Professor, [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), University of Hong Kong
+* 2020 - present: Assistant Professor, [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), University of Hong Kong
 
-* 2018.9 - 2020.1: Lecturer, [School of Aviation](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
+* 2018 - 2020: Lecturer, [School of Aviation](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
 
-* 2017.9 - 2018.8: Lecturer, [Institute for Transport Studies](https://environment.leeds.ac.uk/transport), University of Leeds, United Kingdom
+* 2017 - 2018: Lecturer, [Institute for Transport Studies](https://environment.leeds.ac.uk/transport), University of Leeds, United Kingdom
 
-* 2016.9 - 2017.8: Research Associate, [Centre for Transport Studies](https://www.imperial.ac.uk/transport-studies), Imperial College London, United Kingdom
+* 2016 - 2017: Research Associate, [Centre for Transport Studies](https://www.imperial.ac.uk/transport-studies), Imperial College London, United Kingdom
 
-* 2015.2 - 2015.8: Visiting Researcher, [Urban Transport Systems Laboratory](https://www.epfl.ch/labs/luts/), École polytechnique fédérale de Lausanne (EPFL), Switzerland
+* 2015 - 2015: Visiting Researcher, [Urban Transport Systems Laboratory](https://www.epfl.ch/labs/luts/), École polytechnique fédérale de Lausanne (EPFL), Switzerland
 
-* 2011.9 - 2016.8: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
+* 2011 - 2016: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
 
 **Selected awards**
 
