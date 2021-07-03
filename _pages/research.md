@@ -6,9 +6,13 @@ author_profile: true
 
 Selected working papers
 ------------
-* Zhao, R., Liu, W., **Zhang, F.**, Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
-* **Zhang, F.**, Liu, W. An economic analysis of integrating bike sharing service with urban metro systems.
+* Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
+* Lin, J., **Zhang, F.**, Liu, W. Spatio-temporal resource allocation in bus-integrated freight tranpsort systems.
+* Zhao, R., Liu, W., **Zhang, F.**, Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
+* Zhang, Z., **Zhang, F.** Ride-pooling services with differentiated pooling sizes under congestion effect.
+* Gong, Z., **Zhang, F.** Airport expansion with responsive airlines: the effects on congestion, competition and welfare.
+* **Zhang, F.**, Liu, W. An economic analysis of integrating bike sharing service with metro systems.
 * Liu, W., **Zhang, F.**, Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
 * Shao, C., Lindsey, R., Yang, H., **Zhang, F.**, Liu, W. Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
@@ -16,25 +20,9 @@ Selected working papers
 * Liu, W., **Zhang, F.**, Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
-* Lin, J., **Zhang, F.** Modeling and managing the truck-drone hybrid delivery for city logistics.
-* Zhang, Z., **Zhang, F.** Optimal pricing and vehicle size for integrated ridesharing and transit services.
 * Zhou, T., **Zhang, F.**, Pei, X. Congestion pricing with cross-modal reward: incentivizing public transit usage in a two-mode system.
 
-Research students and alumni
------------
-* Zhuoye Zhang (PhD@HKU, 2020- )  
-* Jie Lin (PhD@HKU, 2020- )
-* Pengli Wan (PhD@HKU, 2020- )  
-* Muhammad Yeasir Arafat (PhD@UNSW, 2020-)  
-* Mingyou Ma (PhD@UNSW, 2019- )
-* Runqing Zhao (MPhil@UNSW, 2019- )
-* Zhiwei Yang (MSc@UNSW, 2019-2020)
-* Gida Aikaterini (MSc@ULeeds, 2017-2018)
-* Ziheng Zhou (MSc@ULeeds, 2017-2018)
-* Yuhan Ma (MSc@ULeeds, 2017-2018)
-* Qian Yang (MSc@ULeeds, 2017-2018)
-
-Delivered technical reports
+Technical reports
 ------------
 * Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
 * Impact assessment of the GPS-based positioning in railway network (2018). Deliverable D6.1 of project RAPPORT: Real-time Accurate Positioning & Protection of Rail Transport. Submitted to Innovate UK on 30 April 2018.
@@ -63,8 +51,8 @@ Academic services
 
 **Guest Editor**
 
-* Special Issue of Transport on Air traffic management
-* Special Session of TSTE 2019 conference on High-speed rail and air transport 
+* Special Issue of Transportmetrica B on "Advances in Air Transportation Management"
+* Special Session of TSTE 2019 conference on "High-speed rail and air transport"
 
 **Journal Reviewer**
 
