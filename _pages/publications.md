@@ -14,11 +14,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my publication profiles on [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl) and [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
+You can also find my publication profiles on [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57221135902), [Web of Science](https://publons.com/researcher/4583530/fangni-zhang), or [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
 
 Journal Publications
 ----------
 (* corresponding author)
+
+[26] Liu, W., __Zhang, F.\*__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. Transportation Research Part C: Emerging Technologies, 130, 103301. ([Download](https://doi.org/10.1016/j.trc.2021.103301))
 
 [25] Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. _Transportation Research Part E: Logistics and Transportation Review_, 152, 102411. ([Download](https://doi.org/10.1016/j.tre.2021.102411))
 
