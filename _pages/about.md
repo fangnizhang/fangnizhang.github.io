@@ -46,6 +46,12 @@ Research students
 
 Selected Publications
 ======
+- Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. *Transportation Science*, forthcoming.
+
+- Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. *Transportation Research Part B: Methodological*, forthcoming.
+
+- Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. *IEEE Transactions on Intelligent Transportation Systems*, forthcoming.
+
 - Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. *Transportation Research Part E: Logistics and Transportation Review*, 152, 102411.
 
 - __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676.
