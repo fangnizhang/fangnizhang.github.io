@@ -54,6 +54,8 @@ Selected Publications
 
 - __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. *Transportation Research Part D: Transport and Environment*, 99, 103008.
 
+- Liu, W., __Zhang, F.\*__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. *Transportation Research Part C: Emerging Technologies*, 130, 103301. 
+
 - Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. *Transportation Research Part E: Logistics and Transportation Review*, 152, 102411.
 
 - __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676.
