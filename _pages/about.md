@@ -52,6 +52,8 @@ Selected Publications
 
 - Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. *IEEE Transactions on Intelligent Transportation Systems*, forthcoming.
 
+- __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. *Transportation Research Part D: Transport and Environment*, 99, 103008.
+
 - Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. *Transportation Research Part E: Logistics and Transportation Review*, 152, 102411.
 
 - __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676.
