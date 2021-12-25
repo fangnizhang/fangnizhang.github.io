@@ -20,6 +20,16 @@ Journal Publications
 ----------
 (* corresponding author)
 
+[31] Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. _Transportation Science_, forthcoming. ([Download](https://doi.org/10.13140/RG.2.2.12423.11688))
+
+[30] Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. _Transportation Research Part B: Methodological_, forthcoming. ([Download](https://doi.org/10.13140/RG.2.2.30835.45602))
+
+[29] Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. _IEEE Transactions on Intelligent Transportation Systems_, forthcoming. ([Download](https://doi.org/10.1109/TITS.2021.3136910))
+
+[28] Zhao, R., Liu, W., __Zhang, F.__, Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. _Transportmetrica B: Transport Dynamics_, forthcoming. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
+
+[27] __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. _Transportation Research Part D: Transport and Environment_, 99, 103008. ([Download](https://doi.org/10.1016/j.trd.2021.103008))
+
 [26] Liu, W., __Zhang, F.\*__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. _Transportation Research Part C: Emerging Technologies_, 130, 103301. ([Download](https://doi.org/10.1016/j.trc.2021.103301))
 
 [25] Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. _Transportation Research Part E: Logistics and Transportation Review_, 152, 102411. ([Download](https://doi.org/10.1016/j.tre.2021.102411))
