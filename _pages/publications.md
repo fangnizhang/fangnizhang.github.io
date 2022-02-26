@@ -20,9 +20,9 @@ Journal Publications
 ----------
 (* corresponding author)
 
-[31] Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. _Transportation Science_, forthcoming. ([Download](https://doi.org/10.13140/RG.2.2.12423.11688))
+[31] Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. _Transportation Science_, forthcoming. ([Download](https://doi.org/10.1287/trsc.2021.1103))
 
-[30] Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. _Transportation Research Part B: Methodological_, forthcoming. ([Download](https://doi.org/10.13140/RG.2.2.30835.45602))
+[30] Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. _Transportation Research Part B: Methodological_, 156, 14-27. ([Download](https://doi.org/10.1016/j.trb.2021.12.005))
 
 [29] Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. _IEEE Transactions on Intelligent Transportation Systems_, forthcoming. ([Download](https://doi.org/10.1109/TITS.2021.3136910))
 
