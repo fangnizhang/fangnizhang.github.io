@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT).
+[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
 
 Affiliations
 ======
@@ -41,7 +41,7 @@ Research students
 * Zhuoye Zhang (from Shanghai Jiao Tong University, 2020- )  
 * Jie Lin (from Shanghai Jiao Tong University, 2020- )
 * Mingyou Ma (as co-supervisor @UNSW, 2019- )
-* Runqing Zhao (as co-supervisor @UNSW, 2019- )
+* Runqing Zhao (as co-supervisor @UNSW, 2019-2021)
 
 
 Selected Publications
