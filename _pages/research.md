@@ -34,6 +34,7 @@ Technical reports
 
 Invited talks
 ------------
+* A spatiotemporal analysis of the robustness of high-speed rail network in China, International Symposium on High-speed Railway and Environment, organized by Shijiazhuang Tiedao University and Transportation Research Part D: Transport and Environment, 26 September 2020.
 * Quantifying Demand and Impacts of High-speed Rail System. School of Economics and Management, Beihang University. Beijing, China, 11 September 2019.
 * Quantifying Demand and Impacts of High-speed Rail System. College of Metropolitan Transportation, Beijing University of Technology. Beijing, China, 10 September 2019.
 * Unlock the sharing economy in the parking sector for recurrent commuting trips. School of Economics and Management, Beihang University. Beijing, China, 15 October 2018.
