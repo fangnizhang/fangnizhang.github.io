@@ -34,7 +34,7 @@ Journal Publications
 
 [25] Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. _Transportation Research Part E: Logistics and Transportation Review_, 152, 102411. ([Download](https://doi.org/10.1016/j.tre.2021.102411))
 
-[24] Wu, W., Liu, W., __Zhang, F.__, Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. _Networks and Spatial Economics_, 1-33. ([Download](https://doi.org/10.1007/s11067-021-09538-5))
+[24] Wu, W., Liu, W., __Zhang, F.__, Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. _Networks and Spatial Economics_, 21, 513-545. ([Download](https://doi.org/10.1007/s11067-021-09538-5))
 
 [23] Ma, M., Liu, W., Li, X., __Zhang, F.__, Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. _Transportmetrica B: Transport Dynamics_, 9(1), 519-551. ([Download](https://doi.org/10.1080/21680566.2021.1916645))
 
