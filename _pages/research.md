@@ -6,21 +6,23 @@ author_profile: true
 
 Selected working papers
 ------------
-* Ma, M., **Zhang, F.**, Liu, W., Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
-* Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
+* Gong, Z., **Zhang, F.** On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
+* Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
 * Lin, J., **Zhang, F.**, Liu, W. Spatio-temporal resource allocation in bus-integrated freight tranpsort systems.
-* Zhao, R., Liu, W., **Zhang, F.**, Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
-* Zhang, Z., **Zhang, F.** Ride-pooling services with differentiated pooling sizes under congestion effect.
-* Gong, Z., **Zhang, F.** Airport expansion with responsive airlines: the effects on congestion, competition and welfare.
-* **Zhang, F.**, Liu, W. An economic analysis of integrating bike sharing service with metro systems.
-* Liu, W., **Zhang, F.**, Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
+* Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 * Shao, C., Lindsey, R., Yang, H., **Zhang, F.**, Liu, W. Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
-* Wu, W., Liu, Y., Liu, W., **Zhang, F.**, Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
-* Liu, W., **Zhang, F.**, Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
+* Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the Urban Co-modal System: Pricing and Incentive Strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
-* Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
-* Zhou, T., **Zhang, F.**, Pei, X. Congestion pricing with cross-modal reward: incentivizing public transit usage in a two-mode system.
+* Zhang, Z., **Zhang, F.** Ride-pooling services with differentiated pooling sizes under endogenous congestion effect.
+* Zhang, Z., Liu, W., **Zhang, F.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicle.
+* Zhao, R., Liu, W., Koo, T., Lodewijks, G., **Zhang, F.** Economic viability of piloted and pilot-less air metro: A service network design for scheduled urban air mobility.
+
+Research Grants
+------------
+* "Urban co-modality in public transport systems: Synergize passenger and freight movements", 1 January 2022 to 31 December 2024, Early Career Scheme (ECS), Research Grants Council (RGC) of Hong Kong.
+* "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", 1 January 2022 to 31 December 2024, Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC).
+* "Transport modelling and management for the transition to autonomous driving", 1 January 2021 to 31 December 2022, Seed Fund for Basic Research for New Staff, University Research Committee, HKU.
 
 Technical reports
 ------------
