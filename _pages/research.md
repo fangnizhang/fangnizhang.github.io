@@ -15,7 +15,7 @@ Selected working papers
 * Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the Urban Co-modal System: Pricing and Incentive Strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
 * Zhang, Z., **Zhang, F.** Ride-pooling services with differentiated pooling sizes under endogenous congestion effect.
-* Zhang, Z., Liu, W., **Zhang, F.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicle.
+* Zhang, Z., Liu, W., **Zhang, F.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 * Zhao, R., Liu, W., Koo, T., Lodewijks, G., **Zhang, F.** Economic viability of piloted and pilot-less air metro: A service network design for scheduled urban air mobility.
 
 Research Grants
