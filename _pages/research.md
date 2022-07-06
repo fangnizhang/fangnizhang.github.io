@@ -6,11 +6,11 @@ author_profile: true
 
 Selected working papers
 ------------
-* Gong, Z., **Zhang, F.** On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
+* Gong, Z., **Zhang, F.**, Liu, W., Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
-* Lin, J., **Zhang, F.**, Liu, W. Spatio-temporal resource allocation in bus-integrated freight tranpsort systems.
+* Lin, J., **Zhang, F.** Service network design for the urban co-modal system.
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
-* Shao, C., Lindsey, R., Yang, H., **Zhang, F.**, Liu, W. Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
+* Sun, W., **Zhang, F.**, Liu, W. Improving traffic and energy efficiency in a mixed traffic corridor with connected and autonomous vehicles.
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 * Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the Urban Co-modal System: Pricing and Incentive Strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
