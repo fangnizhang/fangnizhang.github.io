@@ -10,8 +10,8 @@ At the University of Hong Kong, 2020 -
 * Global Logistics Systems (discipline core course for IE undergraduates) 
 * Core topics: global operations and logistics planning, multimodal logistics systems
 
-**IELM7015**
-* Global Logistics (discipline course for IE postgraduates)
+**IMSE7222/IELM7015**
+* Global Logistics and Transportation Systems (discipline course for IE postgraduates)
 * Core topics: global logistics network design, multimodal logistics systems
 
 **IELM7023**
