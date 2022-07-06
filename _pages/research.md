@@ -49,6 +49,7 @@ Academic services
 -------------
 **Editorial Board Member**
 
+* Transportation Planning and Technology
 * International Journal of Intelligent Transportation System Research
 * International Conference on Transportation and Space-time Economics (TSTE) 
 
