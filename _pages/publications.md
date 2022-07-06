@@ -20,7 +20,7 @@ Journal Publications
 ----------
 (* corresponding author)
 
-[32] **Zhang, F.**, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?_Transportation Research Part B: Methodological_, in press. ([Download](https://www.researchgate.net/publication/361632263_Two-sided_pricing_strategies_for_a_parking_sharing_platform_reselling_or_commissioning))
+[32] **Zhang, F.**, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? _Transportation Research Part B: Methodological_, in press. ([Download](https://www.researchgate.net/publication/361632263_Two-sided_pricing_strategies_for_a_parking_sharing_platform_reselling_or_commissioning))
 
 [31] Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. _Transportation Science_, 56(2), 265-564. ([Download](https://doi.org/10.1287/trsc.2021.1103))
 
