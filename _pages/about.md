@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science and has been published in world-leading journals and conferences in the field (e.g., Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
+[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research has been published in world-leading journals and conferences in the field (e.g., Transportation Science, Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
 
 Affiliations
 ======
@@ -27,7 +27,7 @@ PhD, Postdoc & Research Assistant positions
 ======
 - I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2020 rate: **HK\$18,030/month**) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$26,600/month** plus a conference and research-related travel allowance of **HK\$13,300/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku](https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku)
+- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2021 rate: **HK\$18,030/month**) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$26,900/month** plus a conference and research-related travel allowance of **HK\$13,500/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku](https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku)
 
 - **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
@@ -36,6 +36,7 @@ PhD, Postdoc & Research Assistant positions
 
 Research students
 ======
+* Dongze Li (from University of Illinois Urbana-Champaign, 2022- )
 * Wenbo Sun (from Beihang University, 2021- )  
 * Zhenwei Gong (from University of Hong Kong, 2021- )
 * Zhuoye Zhang (from Shanghai Jiao Tong University, 2020- )  
