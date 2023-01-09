@@ -20,13 +20,15 @@ Journal Publications
 ----------
 (* corresponding author)
 
-[32] **Zhang, F.**, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? _Transportation Research Part B: Methodological_, in press. ([Download](https://www.researchgate.net/publication/361632263_Two-sided_pricing_strategies_for_a_parking_sharing_platform_reselling_or_commissioning))
+[33] Zhang, Z.,__Zhang, F.__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. _Transportation Research Part C: Emerging Technologies_, 144, 103883. ([Download](https://doi.org/10.1016/j.trc.2022.103883))
+
+[32] **Zhang, F.**, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? _Transportation Research Part B: Methodological_, 163, 40-63. ([Download](https://doi.org/10.1016/j.trb.2022.06.009))
 
 [31] Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. _Transportation Science_, 56(2), 265-564. ([Download](https://doi.org/10.1287/trsc.2021.1103))
 
 [30] Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. _Transportation Research Part B: Methodological_, 156, 14-27. ([Download](https://doi.org/10.1016/j.trb.2021.12.005))
 
-[29] Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. _IEEE Transactions on Intelligent Transportation Systems_, forthcoming. ([Download](https://doi.org/10.1109/TITS.2021.3136910))
+[29] Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. _IEEE Transactions on Intelligent Transportation Systems_, 23(9), 15091-15106. ([Download](https://doi.org/10.1109/TITS.2021.3136910))
 
 [28] Zhao, R., Liu, W., __Zhang, F.__, Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. _Transportmetrica B: Transport Dynamics_, 10(1), 1099-1125. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
 
@@ -46,7 +48,7 @@ Journal Publications
 
 [20] Yang, Z., Li, C., Jiao, J., Liu, W., __Zhang, F.\*__ (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. _Transport Policy_, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
 
-[19] __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. _Transportmetrica B: Transport Dynamics_, in press. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
+[19] __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. _Transportmetrica B: Transport Dynamics_, 10(1), 803-830. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
 
 [18] Wei, B., Saberi, M., __Zhang, F.__, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. _Transportation Research Part C: Emerging Technologies_, 117, 102670. [(Download)](https://doi.org/10.1016/j.trc.2020.102670)
 
