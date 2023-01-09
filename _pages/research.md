@@ -8,13 +8,12 @@ Selected working papers
 ------------
 * Gong, Z., **Zhang, F.**, Liu, W., Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 * Jiao, J., **Zhang, F.**, Wang, J. Assessing the service network structures of low-cost airlines in China: A comparative analysis.
-* Lin, J., **Zhang, F.** Service network design for the urban co-modal system.
+* Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 * Sun, W., **Zhang, F.**, Liu, W. Improving traffic and energy efficiency in a mixed traffic corridor with connected and autonomous vehicles.
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
-* Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the Urban Co-modal System: Pricing and Incentive Strategies.
+* Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the urban co-modal system: Pricing and incentive strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
-* Zhang, Z., **Zhang, F.** Ride-pooling services with differentiated pooling sizes under endogenous congestion effect.
 * Zhang, Z., Liu, W., **Zhang, F.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 * Zhao, R., Liu, W., Koo, T., Lodewijks, G., **Zhang, F.** Economic viability of piloted and pilot-less air metro: A service network design for scheduled urban air mobility.
 
