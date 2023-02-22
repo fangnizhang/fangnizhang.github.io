@@ -20,7 +20,7 @@ Journal Publications
 ----------
 (* corresponding author)
 
-[34] Gong, Z., __Zhang, F.\*__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. _Transportation Research Part B: Methodological_, forthcoming.
+[34] Gong, Z., __Zhang, F.\*__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. _Transportation Research Part B: Methodological_, 170, 48-76. ([Download](https://doi.org/10.1016/j.trb.2023.02.010))
 
 [33] Zhang, Z.,__Zhang, F.\*__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. _Transportation Research Part C: Emerging Technologies_, 144, 103883. ([Download](https://doi.org/10.1016/j.trc.2022.103883))
 
