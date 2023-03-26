@@ -48,44 +48,44 @@ Research students
 Selected Publications
 ======
 
-- Gong, Z., __Zhang, F.__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. *Transportation Research Part B: Methodological*, 170, 48-76.
+- Gong, Z., __Zhang, F.__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. __Transportation Research Part B: Methodological__, 170, 48-76.
 
-- Zhang, Z.,__Zhang, F.__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. *Transportation Research Part C: Emerging Technologies*, 144, 103883.
+- Zhang, Z.,__Zhang, F.__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. __Transportation Research Part C: Emerging Technologies__, 144, 103883.
 
-- __Zhang, F.__, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? *Transportation Research Part B: Methodological*, 163, 40-63.
+- __Zhang, F.__, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? __Transportation Research Part B: Methodological__, 163, 40-63.
 
-- Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. *Transportation Science*, 56(2), 265-564.
+- Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. __Transportation Science__, 56(2), 265-564.
 
-- Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. *Transportation Research Part B: Methodological*, 156, 14-27.
+- Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. __Transportation Research Part B: Methodological__, 156, 14-27.
 
-- Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. *IEEE Transactions on Intelligent Transportation Systems*, 23(9), 15091-15106.
+- Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. __IEEE Transactions on Intelligent Transportation Systems__, 23(9), 15091-15106.
 
-- __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. *Transportation Research Part D: Transport and Environment*, 99, 103008.
+- __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. __Transportation Research Part D: Transport and Environment__, 99, 103008.
 
-- Liu, W., __Zhang, F.\*__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. *Transportation Research Part C: Emerging Technologies*, 130, 103301. 
+- Liu, W., __Zhang, F.__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. __Transportation Research Part C: Emerging Technologies__, 130, 103301. 
 
-- Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. *Transportation Research Part E: Logistics and Transportation Review*, 152, 102411.
+- Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. __Transportation Research Part E: Logistics and Transportation Review__, 152, 102411.
 
-- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. *Transportation Research Part C: Emerging Technologies*, 117, 102676.
+- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. __Transportation Research Part C: Emerging Technologies__, 117, 102676.
 
-- __Zhang, F.__, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. *Transport Reviews*, 40(4), 506-528. 
+- __Zhang, F.__, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. __Transport Reviews__, 40(4), 506-528. 
 
-- __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. *Transportation Research Part C: Emerging Technologies*, 113, 21-37.
+- __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. __Transportation Research Part C: Emerging Technologies__, 113, 21-37.
 
-- Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. *Transportation Research Part E: Logistics and Transportation Review*, 134, 101855.
+- Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. __Transportation Research Part E: Logistics and Transportation Review__, 134, 101855.
 
-- Wu, W., Wang, M., __Zhang, F.\*__ (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. *Transportation Research Part D: Transport and Environment*, 67, 553-564. 
+- Wu, W., Wang, M., __Zhang, F.__ (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. __Transportation Research Part D: Transport and Environment__, 67, 553-564. 
 
-- __Zhang, F.__, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. *Transportation Research Part A: Policy and Practice*, 118, 191-215.
+- __Zhang, F.__, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. __Transportation Research Part A: Policy and Practice__, 118, 191-215.
 
-- __Zhang, F.__, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. *Transportation Research Part C: Emerging Technologies*, 96, 208-230.
+- __Zhang, F.__, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. __Transportation Research Part C: Emerging Technologies__, 96, 208-230.
 
-- Liu, W., Li, X, __Zhang, F.\*__, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. *Transportation Research Part C: Emerging Technologies*, 85, 711-731.
+- Liu, W., Li, X, __Zhang, F.__, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. __Transportation Research Part C: Emerging Technologies__, 85, 711-731.
 
-- Liu, W., __Zhang, F.\*__, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. *Transportation Research Part B: Methodological*, 103, 227-247.
+- Liu, W., __Zhang, F.__, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. __Transportation Research Part B: Methodological__, 103, 227-247.
 
-- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? *Transportation Research Part E: Logistics and Transportation Review*, 103, 198-217.
+- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? __Transportation Research Part E: Logistics and Transportation Review__, 103, 198-217.
 
-- __Zhang, F.__, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. *Transportation Research Part B: Methodological*, 86, 104-127.
+- __Zhang, F.__, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. __Transportation Research Part B: Methodological__, 86, 104-127.
 
-- __Zhang, F.__, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. *Transportation Research Part A: Policy and Practice*, 70, 244-263.
+- __Zhang, F.__, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. __Transportation Research Part A: Policy and Practice__, 70, 244-263.
