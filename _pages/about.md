@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research has been published in world-leading journals and conferences in the field (e.g., Transportation Science, Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
+[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including multimodal transportation system modelling and optimization, shared and automated transport management, high-speed rail and air transportation modeling. Her research has been published in world-leading journals and conferences in the field (e.g., Transportation Science, Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
 
 Affiliations
 ======
@@ -48,13 +48,17 @@ Research students
 Selected Publications
 ======
 
-- __Zhang, F.__, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? *Transportation Research Part B: Methodological*, forthcoming.
+- Gong, Z., __Zhang, F.__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. *Transportation Research Part B: Methodological*, 170, 48-76.
 
-- Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. *Transportation Science*, forthcoming, 56(2), 265-564.
+- Zhang, Z.,__Zhang, F.__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. *Transportation Research Part C: Emerging Technologies*, 144, 103883.
+
+- __Zhang, F.__, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? *Transportation Research Part B: Methodological*, 163, 40-63.
+
+- Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. *Transportation Science*, 56(2), 265-564.
 
 - Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. *Transportation Research Part B: Methodological*, 156, 14-27.
 
-- Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. *IEEE Transactions on Intelligent Transportation Systems*, forthcoming.
+- Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. *IEEE Transactions on Intelligent Transportation Systems*, 23(9), 15091-15106.
 
 - __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. *Transportation Research Part D: Transport and Environment*, 99, 103008.
 
