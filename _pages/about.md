@@ -72,6 +72,8 @@ Selected Publications
 
 - __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. __Transportation Research Part C: Emerging Technologies__, 113, 21-37.
 
+- __Zhang, F.__, Yang, Z., Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. 
+
 - Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. __Transportation Research Part E: Logistics and Transportation Review__, 134, 101855.
 
 - Wu, W., Wang, M., __Zhang, F.__ (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. __Transportation Research Part D: Transport and Environment__, 67, 553-564. 
