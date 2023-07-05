@@ -41,7 +41,7 @@ Research students
 * Zhenwei Gong (from University of Hong Kong, 2021- )
 * Zhuoye Zhang (from Shanghai Jiao Tong University, 2020- )  
 * Jie Lin (from Shanghai Jiao Tong University, 2020- )
-* Mingyou Ma (as co-supervisor @UNSW, 2019- )
+* Mingyou Ma (as co-supervisor @UNSW, 2019-2023)
 * Runqing Zhao (as co-supervisor @UNSW, 2019-2021)
 
 
