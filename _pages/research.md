@@ -10,12 +10,10 @@ Selected working papers
 * Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
 * Lin, J., **Zhang, F.** Modular vehicle-based transit system for passenger and freight co-modal transportation   
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
-* Ma, M., Liu, W., **Zhang, F.**, Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 * Sun, W., **Zhang, F.**, Liu, W. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 * Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the urban co-modal system: Pricing and incentive strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
-* Zhang, Z., Liu, W., **Zhang, F.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 * Zhang, Z., Liu, W., **Zhang, F.** To park or to share your autonomous vehicles?
 * Zhang, Z., Ma, M., **Zhang, F.**, Liu, W. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 * Zhao, R., Liu, W., Koo, T., Lodewijks, G., **Zhang, F.** Economic viability of piloted and pilot-less air metro: A service network design for scheduled urban air mobility.
