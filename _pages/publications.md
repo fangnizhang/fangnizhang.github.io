@@ -19,6 +19,9 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 Journal Publications
 ----------
 (* corresponding author)
+[36] Ma, M., __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
+
+[35] Zhang, Z., Liu, W., __Zhang, F.\*__ (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. _Transportation Research Part C: Emerging Technologies_, 153, 104226. ([Download](https://doi.org/10.1016/j.trc.2023.104226))
 
 [34] Gong, Z., __Zhang, F.\*__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. _Transportation Research Part B: Methodological_, 170, 48-76. ([Download](https://doi.org/10.1016/j.trb.2023.02.010))
 
