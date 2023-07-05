@@ -48,6 +48,10 @@ Research students
 Selected Publications
 ======
 
+- Ma, M.,__Zhang, F.__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. __Transportation Research Part C: Emerging Technologies__, 153, 104234.
+  
+- Zhang, Z., Liu, W., __Zhang, F.__ (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. __Transportation Research Part C: Emerging Technologies__, 153, 104226.
+  
 - Gong, Z., __Zhang, F.__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. __Transportation Research Part B: Methodological__, 170, 48-76.
 
 - Zhang, Z.,__Zhang, F.__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. __Transportation Research Part C: Emerging Technologies__, 144, 103883.
