@@ -18,21 +18,21 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-(*: Dr Zhang is corresponding author; †: PhD/MPhil student supervised by Dr Zhang))
+(*: Dr Zhang is corresponding author; †: PhD/MPhil student advised by Dr Zhang))
 
-[36] Ma, M., __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
+[36] Ma, M.†, __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
 
-[35] Zhang, Z., Liu, W., __Zhang, F.\*__ (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. _Transportation Research Part C: Emerging Technologies_, 153, 104226. ([Download](https://doi.org/10.1016/j.trc.2023.104226))
+[35] Zhang, Z.†, Liu, W., __Zhang, F.\*__ (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. _Transportation Research Part C: Emerging Technologies_, 153, 104226. ([Download](https://doi.org/10.1016/j.trc.2023.104226))
 
-[34] Gong, Z., __Zhang, F.\*__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. _Transportation Research Part B: Methodological_, 170, 48-76. ([Download](https://doi.org/10.1016/j.trb.2023.02.010))
+[34] Gong, Z.†, __Zhang, F.\*__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. _Transportation Research Part B: Methodological_, 170, 48-76. ([Download](https://doi.org/10.1016/j.trb.2023.02.010))
 
-[33] Zhang, Z.,__Zhang, F.\*__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. _Transportation Research Part C: Emerging Technologies_, 144, 103883. ([Download](https://doi.org/10.1016/j.trc.2022.103883))
+[33] Zhang, Z.†,__Zhang, F.\*__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. _Transportation Research Part C: Emerging Technologies_, 144, 103883. ([Download](https://doi.org/10.1016/j.trc.2022.103883))
 
 [32] **Zhang, F.**, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? _Transportation Research Part B: Methodological_, 163, 40-63. ([Download](https://doi.org/10.1016/j.trb.2022.06.009))
 
 [31] Liu, W., __Zhang, F.__, Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. _Transportation Science_, 56(2), 265-564. ([Download](https://doi.org/10.1287/trsc.2021.1103))
 
-[30] Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. _Transportation Research Part B: Methodological_, 156, 14-27. ([Download](https://doi.org/10.1016/j.trb.2021.12.005))
+[30] Ma, M.†, __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. _Transportation Research Part B: Methodological_, 156, 14-27. ([Download](https://doi.org/10.1016/j.trb.2021.12.005))
 
 [29] Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. _IEEE Transactions on Intelligent Transportation Systems_, 23(9), 15091-15106. ([Download](https://doi.org/10.1109/TITS.2021.3136910))
 
@@ -52,9 +52,9 @@ Journal Publications
 
 [22] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, 89, 102584. [(Download)](https://doi.org/10.1016/j.trd.2020.102584)
 
-[21] __Zhang, F.__, Yang, Z., Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
+[21] __Zhang, F.__, Yang, Z.†, Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
 
-[20] Yang, Z., Li, C., Jiao, J., Liu, W., __Zhang, F.\*__ (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. _Transport Policy_, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
+[20] Yang, Z.†, Li, C., Jiao, J., Liu, W., __Zhang, F.\*__ (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. _Transport Policy_, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
 
 [18] Wei, B., Saberi, M., __Zhang, F.__, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. _Transportation Research Part C: Emerging Technologies_, 117, 102670. [(Download)](https://doi.org/10.1016/j.trc.2020.102670)
 
@@ -96,39 +96,39 @@ Journal Publications
 Selected Conference Papers
 -------
 
-[42] Lin, J.\dag, Zhang, F. (2023) Modular Vehicle-based Transit System for Passenger and Freight Co-modal Transportation. The 13th POMS-HK International Conference, Hong Kong, 7-8 January 2023.
+[42] Lin, J.†, Zhang, F. (2023) Modular Vehicle-based Transit System for Passenger and Freight Co-modal Transportation. The 13th POMS-HK International Conference, Hong Kong, 7-8 January 2023.
     
-[41] Lin, J.\dag, Zhang, F. (2022) Service network design for bus-integrated freight transport systems with demand uncertainty. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
+[41] Lin, J.†, Zhang, F. (2022) Service network design for bus-integrated freight transport systems with demand uncertainty. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[40] Sun, W.\dag, Zhang, F. (2022) Trajectory control of connected and autonomous vehicles in a mixed traffic corridor. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
+[40] Sun, W.†, Zhang, F. (2022) Trajectory control of connected and autonomous vehicles in a mixed traffic corridor. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[39] Gong, Z.\dag, Zhang, F., Liu, W. (2022) Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
+[39] Gong, Z.†, Zhang, F., Liu, W. (2022) Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[38] Zhang, Z.\dag, Liu, W., Zhang, F. (2022) Modeling the mixed network traffic of shared and private autonomous vehicles. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
+[38] Zhang, Z.†, Liu, W., Zhang, F. (2022) Modeling the mixed network traffic of shared and private autonomous vehicles. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[37] Zhang, Z.\dag, Liu, W., Zhang, F. (2022) Modeling the Joint Network Equilibrium with Private and Shared Autonomous Vehicles. The 22nd COTA International Conference of Transportation Professionals (CICTP 2022), Changsha, China, 8-11 July 2022.
+[37] Zhang, Z.†, Liu, W., Zhang, F. (2022) Modeling the Joint Network Equilibrium with Private and Shared Autonomous Vehicles. The 22nd COTA International Conference of Transportation Professionals (CICTP 2022), Changsha, China, 8-11 July 2022.
 
-[36] Gong, Z.\dag, Zhang, F. (2022) A systematic analysis of effects of airport expansion considering airline and passenger responses. The 22nd COTA International Conference of Transportation Professionals (CICTP 2022), Changsha, China, 8-11 July 2022.
+[36] Gong, Z.†, Zhang, F. (2022) A systematic analysis of effects of airport expansion considering airline and passenger responses. The 22nd COTA International Conference of Transportation Professionals (CICTP 2022), Changsha, China, 8-11 July 2022.
 
-[35] Lin, J.\dag, Zhang, F. (2021) Spatio-temporal resource allocation in bus-integrated freight transport systems. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
+[35] Lin, J.†, Zhang, F. (2021) Spatio-temporal resource allocation in bus-integrated freight transport systems. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
 
-[34] Zhang, Z.\dag, Zhang, F. (2021) Economic Analysis of Ride-Pooling Services with Endogenous Pooling Sizes. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
+[34] Zhang, Z.†, Zhang, F. (2021) Economic Analysis of Ride-Pooling Services with Endogenous Pooling Sizes. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
 
-[33] Gong, Z.\dag, Zhang, F. (2021) A systematic analysis of effects of airport expansion considering airline and passenger responses. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
+[33] Gong, Z.†, Zhang, F. (2021) A systematic analysis of effects of airport expansion considering airline and passenger responses. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
     
-[32] Gong, Z.\dag, Zhang, F. (2021) Airport expansion with responsive airlines: the effects on congestion, competition and welfare. The 24th Air Transport Research Society (ATRS) World Conference, Sydney, Australia, 26-29 August 2021.
+[32] Gong, Z.†, Zhang, F. (2021) Airport expansion with responsive airlines: the effects on congestion, competition and welfare. The 24th Air Transport Research Society (ATRS) World Conference, Sydney, Australia, 26-29 August 2021.
 
 [31] Wei, B., Saberi, M.,  Zhang, F., Liu, W., Waller, S.T. (2021) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. The 8th International Symposium on Dynamic Traffic Assignment (DTA2020/2021), Seattle, US, 28 June-2 July 2021.
 	
-[30] Ma, M.\dag, Liu, W., Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data. The 8th International Symposium on Dynamic Traffic Assignment (DTA2020/2021), Seattle, US, 28 June-2 July 2021.
+[30] Ma, M.†, Liu, W., Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data. The 8th International Symposium on Dynamic Traffic Assignment (DTA2020/2021), Seattle, US, 28 June-2 July 2021.
 
-[29] Zhang, Z.\dag, Zhang, F. (2021) Economic analysis of the competition between ride-pooling platforms with differential pooling sizes. 2021 International Transport Economics Association (ITEA) Annual Conference, Rome, Italy, 21-26 June 2021.
+[29] Zhang, Z.†, Zhang, F. (2021) Economic analysis of the competition between ride-pooling platforms with differential pooling sizes. 2021 International Transport Economics Association (ITEA) Annual Conference, Rome, Italy, 21-26 June 2021.
  
 [28] Wei, B., Saberi, M.,  Zhang, F., Liu, W., Waller, S.T. (2021) Temporal capacity allocation and tolling schemes for morning commute with carpooling. The International Symposium on Transportation Data and Modelling (ISTDM), Ann Arbor, Michigan, US, 21-24 June 2021.
 	
-[27] Ma, M.\dag, Liu, W., Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying day-to-day evolution of choice patterns in public transit system with smart transit card data. The International Symposium on Transportation Data and Modelling (ISTDM), Ann Arbor, Michigan, US, 21-24 June 2021.
+[27] Ma, M.†, Liu, W., Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying day-to-day evolution of choice patterns in public transit system with smart transit card data. The International Symposium on Transportation Data and Modelling (ISTDM), Ann Arbor, Michigan, US, 21-24 June 2021.
 
-[26] Yang, Z.\dag, Zhang, F., Liu, W., Jiao, J. (2019) Effects of high-speed rail megalopolis on regional economic growth. The 24th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 14-16 December 2019.
+[26] Yang, Z.†, Zhang, F., Liu, W., Jiao, J. (2019) Effects of high-speed rail megalopolis on regional economic growth. The 24th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 14-16 December 2019.
 
 [25] Zhang, F., Liu, W. (2019) Manage multiple traffic externalities for doubly dynamical large- scale multi-modal systems with responsive transit services. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT), Lausanne, Switzerland, 24-26 July 2019.
 
