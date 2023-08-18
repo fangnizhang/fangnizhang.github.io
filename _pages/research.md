@@ -6,11 +6,12 @@ author_profile: true
 
 Selected working papers
 ------------
-* Gong, Z., **Zhang, F.**, Liu, W. Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty.
+* Gong, Z., **Zhang, F.** Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty.
 * Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
-* Lin, J., **Zhang, F.** Modular vehicle-based transit system for passenger and freight co-modal transportation   
+* Lin, J., **Zhang, F.** Modular vehicle-based transit system for passenger and freight co-modal transportation.
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 * Sun, W., **Zhang, F.**, Liu, W. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
+* Sun, W., **Zhang, F.** Truck-and-drone collaborative system for post-disaster multi-mission operations.
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 * Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the urban co-modal system: Pricing and incentive strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
@@ -20,9 +21,10 @@ Selected working papers
 
 Research Grants
 ------------
-* "Urban co-modality in public transport systems: Synergize passenger and freight movements", 1 January 2022 to 31 December 2024, Early Career Scheme (ECS), Research Grants Council (RGC) of Hong Kong.
-* "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", 1 January 2022 to 31 December 2024, Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC).
-* "Transport modelling and management for the transition to autonomous driving", 1 January 2021 to 31 December 2022, Seed Fund for Basic Research for New Staff, University Research Committee, HKU.
+* "Urban co-modality in public transport systems: Synergize passenger and freight movements", 1 January 2022 to 31 December 2024, Early Career Scheme (ECS), Research Grants Council (RGC) of Hong Kong, PI.
+* "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", 1 January 2022 to 31 December 2024, Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC), PI.
+* "Transport modelling and management for the transition to autonomous driving", 1 January 2021 to 31 December 2022, Seed Fund for Basic Research for New Staff, University Research Committee, HKU, PI.
+* "SynchroHub: Cyber-Physical internet for synchronizing cross-border logistics hubs in the Greater Bay Area (GBA)", 3 January 2023 to 2 January 2028, Theme-based Research Scheme, Research Grants Council (RGC) of Hong Kong, Co-PI.
 
 Technical reports
 ------------
@@ -34,6 +36,7 @@ Technical reports
 
 Invited talks
 ------------
+* Urban co-modality: Synergize passenger and freight transportation. The 4th Symposium on Travel Behavior and Transportation Science, co-organized by North China University of Technology, Beihang University, and Beijing Jiaotong University. Beijing, China, 28-30 July 2023.
 * A spatiotemporal analysis of the robustness of high-speed rail network in China, International Symposium on High-speed Railway and Environment, organized by Shijiazhuang Tiedao University and Transportation Research Part D: Transport and Environment, 26 September 2020.
 * Quantifying Demand and Impacts of High-speed Rail System. School of Economics and Management, Beihang University. Beijing, China, 11 September 2019.
 * Quantifying Demand and Impacts of High-speed Rail System. College of Metropolitan Transportation, Beijing University of Technology. Beijing, China, 10 September 2019.
