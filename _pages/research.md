@@ -55,7 +55,7 @@ Academic services
 
 * Transportation Planning and Technology
 * International Journal of Intelligent Transportation System Research
-* International Conference on Transportation and Space-time Economics (TSTE)
+* International Conference on Transportation and Space-time Economics
 * International Workshop on Computational Transportatioin Science
 * International Symposium on Travel Behavior and Transportation Science
 
