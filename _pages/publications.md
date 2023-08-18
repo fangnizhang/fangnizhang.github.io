@@ -38,7 +38,7 @@ Journal Publications
 
 [19] __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2022) The short-run and long-run equilibria for commuting with autonomous vehicles. _Transportmetrica B: Transport Dynamics_, 10(1), 803-830. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
 
-[28] Zhao, R., Liu, W., __Zhang, F.__, Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. _Transportmetrica B: Transport Dynamics_, 10(1), 1099-1125. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
+[28] Zhao, R.†, Liu, W., __Zhang, F.__, Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. _Transportmetrica B: Transport Dynamics_, 10(1), 1099-1125. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
 
 [27] __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. _Transportation Research Part D: Transport and Environment_, 99, 103008. ([Download](https://doi.org/10.1016/j.trd.2021.103008))
 
