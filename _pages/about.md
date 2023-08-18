@@ -22,12 +22,13 @@ Research interests
 - Autonomous vehicle/UAV systems
 - Transport network modeling and optimization
 - Transport/urban data analytics
+- Transport economics
 
 PhD, Postdoc & Research Assistant positions
 ======
 - I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2021 rate: **HK\$18,030/month**) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$26,900/month** plus a conference and research-related travel allowance of **HK\$13,500/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku](https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku)
+- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2023 rate: **HK\$18,390/month**) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$27,600/month** plus a conference and research-related travel allowance of **HK\$13,800/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [HKU Graduate School website](https://gradsch.hku.hk/).
 
 - **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
@@ -36,6 +37,7 @@ PhD, Postdoc & Research Assistant positions
 
 Research students
 ======
+* Qingang Li (from Southeast University, 2023- )
 * Dongze Li (from University of Illinois Urbana-Champaign, 2022- )
 * Wenbo Sun (from Beihang University, 2021- )  
 * Zhenwei Gong (from University of Hong Kong, 2021- )
