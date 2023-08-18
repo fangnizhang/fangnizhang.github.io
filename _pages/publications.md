@@ -18,7 +18,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-(*: Dr Zhang is corresponding author; †: PhD/MPhil student advised by Dr Zhang))
+(*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang))
 
 [36] Ma, M.†, __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
 
@@ -95,6 +95,20 @@ Journal Publications
 
 Selected Conference Papers
 -------
+
+[49] Shao, S.†, Lin, J.†, Zhang, F. (2023) Service network design for a metro-based crowdsoured transportation system under uncertainties. The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 11-14 August 2023.
+    
+[48] Lin, J.†, Zhang, F. (2023) Designing modular vehicle-based transit systems for integrated passenger and freight transportation. The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 11-14 August 2023.
+
+[47] Zhang, Z.†, Zhang, F., Liu, W. (2023) Modeling the vehicle parking, charging and vehicle-to-grid services in the era of electric vehicles. The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 11-14 August 2023. (Recipient of CTS 2023 Best paper award)
+
+[46] Zhang, Z.†, Zhang, F. (2023) The three-sided market of shared parking: The operation and market equilibrium in the presence of differentiated parking supplies. The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 11-14 August 2023.
+
+[45] Gong, Z.†, Zhang, F. (2023) Airline’s fleet sizing and pricing strategies for passenger and cargo services under demand uncertainty. The 23nd COTA International Conference of Transportation Professionals (CICTP), Beijing, China, 14-17 July, 2023.
+
+[44] Gong, Z.†, Zhang, F. (2023) Airline fleet sizing decision with convertible aircraft under demand uncertainty. The 26th Air Transport Research Society World Conference (ATRS), Kobe, Japan, 1-4 July, 2023.
+
+[43] Sun, W.†, Zhang, F. (2023) Truck-and-drone collaborative system for post-disaster multi-mission operations. The 26th Air Transport Research Society World Conference (ATRS), Kobe, Japan, 1-4 July, 2023.
 
 [42] Lin, J.†, Zhang, F. (2023) Modular Vehicle-based Transit System for Passenger and Freight Co-modal Transportation. The 13th POMS-HK International Conference, Hong Kong, 7-8 January 2023.
     
