@@ -37,7 +37,7 @@ PhD, Postdoc & Research Assistant positions
 
 Research students
 ======
-* Qingang Li (from Southeast University, 2023- )
+* Qingyang Li (from Southeast University, 2023- )
 * Dongze Li (from University of Illinois Urbana-Champaign, 2022- )
 * Wenbo Sun (from Beihang University, 2021- )  
 * Zhenwei Gong (from University of Hong Kong, 2021- )
