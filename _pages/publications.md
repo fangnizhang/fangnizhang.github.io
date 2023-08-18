@@ -18,7 +18,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-(* corresponding author)
+(*: Dr Zhang is corresponding author; †: PhD/MPhil student supervised by Dr Zhang))
 
 [36] Ma, M., __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
 
@@ -93,20 +93,64 @@ Journal Publications
 [1] Liu, W., Yang, H., Yin, Y., __Zhang, F.__ (2014) A novel permit scheme for managing parking competition and bottleneck congestion. _Transportation Research Part C: Emerging Technologies_, 44, 265-281. [(Download)](https://doi.org/10.1016/j.trc.2014.04.005)
 
 
-Selected Conferences
+Selected Conference Papers
 -------
 
-[20] Zhang, F., Liu, W. (2019) Manage multiple traffic externalities for doubly dynamical large- scale multi-modal systems with responsive transit services. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT), Lausanne, Switzerland, 24-26 July 2019.
+[42] Lin, J.\dag, Zhang, F. (2023) Modular Vehicle-based Transit System for Passenger and Freight Co-modal Transportation. The 13th POMS-HK International Conference, Hong Kong, 7-8 January 2023.
+    
+[41] Lin, J.\dag, Zhang, F. (2022) Service network design for bus-integrated freight transport systems with demand uncertainty. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[19] Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2019) Modeling and managing the parking sharing problem for urban cities. The 98th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 13-17 January 2019.
+[40] Sun, W.\dag, Zhang, F. (2022) Trajectory control of connected and autonomous vehicles in a mixed traffic corridor. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[18] Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) On the parking sharing problem in a linear monocentric city. The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 8-10 December 2018.
+[39] Gong, Z.\dag, Zhang, F., Liu, W. (2022) Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[17] Zhang, F. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. The 6th International Conference on Transportation and Space-time Economics (TSTE 2018), Beijing, China, 12-14 October 2018.
+[38] Zhang, Z.\dag, Liu, W., Zhang, F. (2022) Modeling the mixed network traffic of shared and private autonomous vehicles. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 12-13 December 2022.
 
-[16] Zhang, F., Graham, D.J. (2018) The substitution and complementary effects between high-speed rail and air transport. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
+[37] Zhang, Z.\dag, Liu, W., Zhang, F. (2022) Modeling the Joint Network Equilibrium with Private and Shared Autonomous Vehicles. The 22nd COTA International Conference of Transportation Professionals (CICTP 2022), Changsha, China, 8-11 July 2022.
 
-[15] Liu., W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) Modeling and managing the parking sharing problem. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
+[36] Gong, Z.\dag, Zhang, F. (2022) A systematic analysis of effects of airport expansion considering airline and passenger responses. The 22nd COTA International Conference of Transportation Professionals (CICTP 2022), Changsha, China, 8-11 July 2022.
+
+[35] Lin, J.\dag, Zhang, F. (2021) Spatio-temporal resource allocation in bus-integrated freight transport systems. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
+
+[34] Zhang, Z.\dag, Zhang, F. (2021) Economic Analysis of Ride-Pooling Services with Endogenous Pooling Sizes. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
+
+[33] Gong, Z.\dag, Zhang, F. (2021) A systematic analysis of effects of airport expansion considering airline and passenger responses. The 25th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2021.
+    
+[32] Gong, Z.\dag, Zhang, F. (2021) Airport expansion with responsive airlines: the effects on congestion, competition and welfare. The 24th Air Transport Research Society (ATRS) World Conference, Sydney, Australia, 26-29 August 2021.
+
+[31] Wei, B., Saberi, M.,  Zhang, F., Liu, W., Waller, S.T. (2021) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. The 8th International Symposium on Dynamic Traffic Assignment (DTA2020/2021), Seattle, US, 28 June-2 July 2021.
+	
+[30] Ma, M.\dag, Liu, W., Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data. The 8th International Symposium on Dynamic Traffic Assignment (DTA2020/2021), Seattle, US, 28 June-2 July 2021.
+
+[29] Zhang, Z.\dag, Zhang, F. (2021) Economic analysis of the competition between ride-pooling platforms with differential pooling sizes. 2021 International Transport Economics Association (ITEA) Annual Conference, Rome, Italy, 21-26 June 2021.
+ 
+[28] Wei, B., Saberi, M.,  Zhang, F., Liu, W., Waller, S.T. (2021) Temporal capacity allocation and tolling schemes for morning commute with carpooling. The International Symposium on Transportation Data and Modelling (ISTDM), Ann Arbor, Michigan, US, 21-24 June 2021.
+	
+[27] Ma, M.\dag, Liu, W., Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying day-to-day evolution of choice patterns in public transit system with smart transit card data. The International Symposium on Transportation Data and Modelling (ISTDM), Ann Arbor, Michigan, US, 21-24 June 2021.
+
+[26] Yang, Z.\dag, Zhang, F., Liu, W., Jiao, J. (2019) Effects of high-speed rail megalopolis on regional economic growth. The 24th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 14-16 December 2019.
+
+[25] Zhang, F., Liu, W. (2019) Manage multiple traffic externalities for doubly dynamical large- scale multi-modal systems with responsive transit services. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT), Lausanne, Switzerland, 24-26 July 2019.
+
+[24] Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2019) Modeling and managing the parking sharing problem for urban cities. The 98th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 13-17 January 2019.
+
+[23] Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) On the parking sharing problem in a linear monocentric city. The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 8-10 December 2018.
+
+[22] Zhang, F. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. The 6th International Conference on Transportation and Space-time Economics (TSTE 2018), Beijing, China, 12-14 October 2018.
+
+[21] Zhang, F. (2018) The substitution and complementary effects of high-speed rail on air transport: evidence from Asia and Europe. The 18th COTA International Conference of Transportation Professionals (CICTP2018), Beijing, China, 5-8 July, 2018.
+
+[20] Zhang, F., Graham, D.J. (2018) The substitution and complementary effects between high-speed rail and air transport. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
+
+[19] Liu., W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) Modeling and managing the parking sharing problem. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
+
+[18] Cabral, M., Smith, A., Nilsson, J., Odolinski, K., Zhang, F. (2018) The economic appraisal of rail engineering technologies. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
+
+[17] Zhang, F., Liu, W. (2018) Modelling the doubly dynamical large-scale multi-modal systems with responsive transit services. The 7th International Symposium on Dynamic Traffic Assignment (DTA): Smart Transportation, Hong Kong, 6-8 June, 2018. 
+
+[16] Liu, W., Li, X., Zhang, F., Yang, H. (2018) Modeling evolution of mode and departure choices in a bi-modal network with user inertia and information provision. The 97th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 7-11 January 2018.
+
+[15] Zhang, F., Liu, W., Wang, X., Yang, H. (2017) Morning commute with both household and individual trips. The 22nd International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-11 December 2017.
 
 [14] Shao, C., Yang, H., Zhang, F. (2017) Optimal two-sided pricing strategies of shared E-parking platform with elastic demand. The INFORMS Transportation Science and Logistics (TSL) Conference, Chicago, USA, 26-29 July 2017.
 
