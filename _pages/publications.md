@@ -22,7 +22,7 @@ Journal Publications
 
 [38] Sun, W.†, __Zhang, F.\*__, Liu, W., He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. _IEEE Transactions on Intelligent Transportation Systems_, in press.
 
-[37] Zhao, R.†, Koo, T., Liu, W., Lodewijks, G., __Zhang, F.\*__ (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. _Decision Analytics Journal_, forthcoming. ([Download](https://doi.org/10.1016/j.dajour.2023.100312))
+[37] Zhao, R.†, Koo, T., Liu, W., Lodewijks, G., __Zhang, F.\*__ (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. _Decision Analytics Journal_, in press. ([Download](https://doi.org/10.1016/j.dajour.2023.100312))
 
 [36] Ma, M.†, __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
 
