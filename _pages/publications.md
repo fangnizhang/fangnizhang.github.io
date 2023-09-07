@@ -19,6 +19,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang))
+
 [38] Sun, W.†, __Zhang, F.\*__, Liu, W., He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. _IEEE Transactions on Intelligent Transportation Systems_, in press.
 
 [37] Zhao, R.†, Koo, T., Liu, W., Lodewijks, G., __Zhang, F.\*__ (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. _Decision Analytics Journal_, forthcoming. ([Download](https://doi.org/10.1016/j.dajour.2023.100312))
