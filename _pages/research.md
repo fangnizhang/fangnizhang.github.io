@@ -7,7 +7,7 @@ author_profile: true
 Selected working papers
 ------------
 * Gong, Z., **Zhang, F.** Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty.
-* Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
+* Lin, J., **Zhang, F.** Transforming Urban Freight Transportation: Service Network Design for Synergy with Passenger Transportation in Transit Systems.
 * Lin, J., **Zhang, F.** Modular vehicle-based transit system for passenger and freight co-modal transportation.
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 * Sun, W., **Zhang, F.** Truck-and-drone collaborative system for post-disaster multi-mission operations.
