@@ -50,6 +50,10 @@ Research students
 Selected Publications
 ======
 
+- Lin, J., __Zhang, F.__ (2024) Modular vehicle-based transit system for passenger and freight co-modal transportation. __Transportation Research Part C: Emerging Technologies__, 160, 104545.
+
+- Sun, W., __Zhang, F.__, Liu, W., He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. __IEEE Transactions on Intelligent Transportation Systems__, in press.
+
 - Ma, M.,__Zhang, F.__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. __Transportation Research Part C: Emerging Technologies__, 153, 104234.
   
 - Zhang, Z., Liu, W., __Zhang, F.__ (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. __Transportation Research Part C: Emerging Technologies__, 153, 104226.
