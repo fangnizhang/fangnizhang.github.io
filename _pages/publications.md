@@ -26,7 +26,7 @@ Journal Publications
 
 [40] Lin, J.†, __Zhang, F.\*__ (2024) Modular vehicle-based transit system for passenger and freight co-modal transportation. _Transportation Research Part C: Emerging Technologies_, 160, 104545.
 
-[39] Sun, W.†, __Zhang, F.\*__, Liu, W., He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. _IEEE Transactions on Intelligent Transportation Systems_, in press.
+[39] Sun, W.†, __Zhang, F.\*__, Liu, W., He, Q. (2024) Optimal control of connected autonomous vehicles in a mixed traffic corridor. _IEEE Transactions on Intelligent Transportation Systems_, 25(5), 4206-4218.
 
 [38] Xu, G., Guo, J., Zhong, L., __Zhang, F.__ and Liu, W. (2023) Optimal capacity allocation for high-speed railway express delivery. _Computers & Industrial Engineering_, 185, 109683.
 
