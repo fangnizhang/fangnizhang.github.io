@@ -20,9 +20,9 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang))
 
-[43] Jin, Z., Ng, KKH., Zhang, C., Liu, W., __Zhang, F.__, Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. _Transportation Research Part E: Logistics and Transportation Review_, 186, 103538.
+[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, in press.
 
-[42] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, in press.
+[42] Jin, Z., Ng, KKH., Zhang, C., Liu, W., __Zhang, F.__, Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. _Transportation Research Part E: Logistics and Transportation Review_, 186, 103538.
 
 [41] Gong, Z.†, Liu, W., __Zhang, F.__ (2024) Residential location choices and commuting patterns considering telecommuting. _Transport Policy_, 153, 54-67.
 
