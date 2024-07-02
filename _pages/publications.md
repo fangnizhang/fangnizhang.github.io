@@ -20,6 +20,10 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang))
 
+[42] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, in press.
+
+[41] Gong, Z.†, Liu, W., __Zhang, F.__ (2024) Residential location choices and commuting patterns considering telecommuting. _Transport Policy_, 153, 54-67.
+
 [40] Lin, J.†, __Zhang, F.\*__ (2024) Modular vehicle-based transit system for passenger and freight co-modal transportation. _Transportation Research Part C: Emerging Technologies_, 160, 104545.
 
 [39] Sun, W.†, __Zhang, F.\*__, Liu, W., He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. _IEEE Transactions on Intelligent Transportation Systems_, in press.
@@ -44,25 +48,25 @@ Journal Publications
 
 [29] Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. _IEEE Transactions on Intelligent Transportation Systems_, 23(9), 15091-15106. ([Download](https://doi.org/10.1109/TITS.2021.3136910))
 
-[19] __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2022) The short-run and long-run equilibria for commuting with autonomous vehicles. _Transportmetrica B: Transport Dynamics_, 10(1), 803-830. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
+[28] __Zhang, F.__, Liu, W., Lodewijks, G., Waller, S.T. (2022) The short-run and long-run equilibria for commuting with autonomous vehicles. _Transportmetrica B: Transport Dynamics_, 10(1), 803-830. [(Download)](https://doi.org/10.1080/21680566.2020.1779146)
 
-[28] Zhao, R.†, Liu, W., __Zhang, F.__, Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. _Transportmetrica B: Transport Dynamics_, 10(1), 1099-1125. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
+[27] Zhao, R.†, Liu, W., __Zhang, F.__, Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. _Transportmetrica B: Transport Dynamics_, 10(1), 1099-1125. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
 
-[27] __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. _Transportation Research Part D: Transport and Environment_, 99, 103008. ([Download](https://doi.org/10.1016/j.trd.2021.103008))
+[26] __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. _Transportation Research Part D: Transport and Environment_, 99, 103008. ([Download](https://doi.org/10.1016/j.trd.2021.103008))
 
-[26] Liu, W., __Zhang, F.\*__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. _Transportation Research Part C: Emerging Technologies_, 130, 103301. ([Download](https://doi.org/10.1016/j.trc.2021.103301))
+[25] Liu, W., __Zhang, F.\*__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. _Transportation Research Part C: Emerging Technologies_, 130, 103301. ([Download](https://doi.org/10.1016/j.trc.2021.103301))
 
-[25] Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. _Transportation Research Part E: Logistics and Transportation Review_, 152, 102411. ([Download](https://doi.org/10.1016/j.tre.2021.102411))
+[24] Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. _Transportation Research Part E: Logistics and Transportation Review_, 152, 102411. ([Download](https://doi.org/10.1016/j.tre.2021.102411))
 
-[24] Wu, W., Liu, W., __Zhang, F.__, Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. _Networks and Spatial Economics_, 21, 513-545. ([Download](https://doi.org/10.1007/s11067-021-09538-5))
+[23] Wu, W., Liu, W., __Zhang, F.__, Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. _Networks and Spatial Economics_, 21, 513-545. ([Download](https://doi.org/10.1007/s11067-021-09538-5))
 
-[23] Ma, M., Liu, W., Li, X., __Zhang, F.__, Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. _Transportmetrica B: Transport Dynamics_, 9(1), 519-551. ([Download](https://doi.org/10.1080/21680566.2021.1916645))
+[22] Ma, M., Liu, W., Li, X., __Zhang, F.__, Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. _Transportmetrica B: Transport Dynamics_, 9(1), 519-551. ([Download](https://doi.org/10.1080/21680566.2021.1916645))
 
-[22] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, 89, 102584. [(Download)](https://doi.org/10.1016/j.trd.2020.102584)
+[21] Jiao, J., __Zhang, F.\*__, Liu, J. (2020) A spatiotemporal analysis of the robustness of high-speed rail network in China. _Transportation Research Part D: Transport and Environment_, 89, 102584. [(Download)](https://doi.org/10.1016/j.trd.2020.102584)
 
-[21] __Zhang, F.__, Yang, Z.†, Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
+[20] __Zhang, F.__, Yang, Z.†, Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. [(Download)](https://doi.org/10.1016/j.tra.2020.09.013)
 
-[20] Yang, Z.†, Li, C., Jiao, J., Liu, W., __Zhang, F.\*__ (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. _Transport Policy_, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
+[19] Yang, Z.†, Li, C., Jiao, J., Liu, W., __Zhang, F.\*__ (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. _Transport Policy_, 99, 20-30. [(Download)](https://doi.org/10.1016/j.tranpol.2020.08.007)
 
 [18] Wei, B., Saberi, M., __Zhang, F.__, Liu, W., Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. _Transportation Research Part C: Emerging Technologies_, 117, 102670. [(Download)](https://doi.org/10.1016/j.trc.2020.102670)
 
