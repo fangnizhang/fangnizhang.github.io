@@ -9,7 +9,7 @@ Selected working papers
 * Gong, Z., **Zhang, F.** Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty.
 * Lin, J., **Zhang, F.** Transforming Urban Freight Transportation: Service Network Design for Synergy with Passenger Transportation in Transit Systems.
 * Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
-* Sun, W., **Zhang, F.** Truck-and-drone collaborative system for post-disaster multi-mission operations.
+* Sun, W., Wu, L., **Zhang, F.** An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks after Disasters.
 * Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 * Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the urban co-modal system: Pricing and incentive strategies.
 * **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
