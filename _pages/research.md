@@ -18,6 +18,7 @@ Selected working papers
 
 Research Grants
 ------------
+* "Parking and Charging as a Service: Capacity Allocation and Pricing Strategies", 1 January 2025 to 31 December 2027, General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, PI.
 * "Urban co-modality in public transport systems: Synergize passenger and freight movements", 1 January 2022 to 31 December 2024, Early Career Scheme (ECS), Research Grants Council (RGC) of Hong Kong, PI.
 * "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", 1 January 2022 to 31 December 2024, Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC), PI.
 * "Order allocation and vehicle routing optimization of an integrated logistics platform with crowdsourced and dedicated couriers", 1 January 2024 to 31 December 2027, General Program, National Natural Science Foundation of China (NSFC), PI.
@@ -34,6 +35,12 @@ Technical reports
 
 Invited talks
 ------------
+* Collaborative passenger and freight transportation: modeling, analysis, and optimization. George Washington University. Washington DC, US, 9 January 2025.
+* Synchronization of Integrated Passenger and Freight Transportation Systems. Hong Kong Polytechnic University. Hong Kong, 28 October 2024.
+* Urban co-modality: Transforming the future of passenger and freight transportation. The 24th COTA International Conference of Transportation Professionals (CICTP 2024). Shenzhen, China, 25 July 2024.
+* Urban co-modality: Transforming the future collaborative passenger and freight transportation. TechTalk, Faculty of Engineering, The University of Hong Kong. Hong Kong, China, 20 June 2024.
+* Modeling and optimization of urban crowdshipping services. Greater Bay Area Symposium on Smart Transportation Science, The Hong Kong University of Science and Technology (Guangzhou). Guangzhou, China, 4 May 2024.
+* Modeling and optimization of crowdshipping service. Nanjing University, Nanjing, China, 30 March 2024.
 * Urban co-modality: Synergize passenger and freight transportation. The 4th Symposium on Travel Behavior and Transportation Science, co-organized by North China University of Technology, Beihang University, and Beijing Jiaotong University. Beijing, China, 28-30 July 2023.
 * A spatiotemporal analysis of the robustness of high-speed rail network in China, International Symposium on High-speed Railway and Environment, organized by Shijiazhuang Tiedao University and Transportation Research Part D: Transport and Environment, 26 September 2020.
 * Quantifying Demand and Impacts of High-speed Rail System. School of Economics and Management, Beihang University. Beijing, China, 11 September 2019.
