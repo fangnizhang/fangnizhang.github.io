@@ -56,6 +56,11 @@ Graduated:
 
 Selected Publications
 ======
+- Zhang, Z., __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. __Transportation Research Part B: Methodological__, 191, 103133.
+
+- Zhang, Z., __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. __Transportation Research Part C: Emerging Technologies__, 170, 104915.
+
+- Zhang, Z., __Zhang, F.__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. __Transportation Research Part B: Methodological__, 102992.
 
 - Lin, J., __Zhang, F.__ (2024) Modular vehicle-based transit system for passenger and freight co-modal transportation. __Transportation Research Part C: Emerging Technologies__, 160, 104545.
 
