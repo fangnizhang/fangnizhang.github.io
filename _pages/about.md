@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.imse.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including multimodal transportation system modelling and optimization, shared and automated transport management, high-speed rail and air transportation modeling. Her research has been published in world-leading journals and conferences in the field (e.g., Transportation Science, Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
+[Dr. Fangni Zhang](https://www.dase.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Data and Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including multimodal transportation system modelling and optimization, shared and automated transport management, high-speed rail and air transportation modeling. Her research has been published in world-leading journals and conferences in the field (e.g., Transportation Science, Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
 
 Affiliations
 ======
@@ -37,12 +37,19 @@ PhD, Postdoc & Research Assistant positions
 
 Research students
 ======
-* Qingyang Li (from Southeast University, 2023- )
-* Dongze Li (from University of Illinois Urbana-Champaign, 2022- )
-* Wenbo Sun (from Beihang University, 2021- )  
-* Zhenwei Gong (from University of Hong Kong, 2021- )
-* Zhuoye Zhang (from Shanghai Jiao Tong University, 2020- )  
-* Jie Lin (from Shanghai Jiao Tong University, 2020- )
+On-going:
+* Siyu Shao, B.S. (Shanghai Jiao Tong), Recipient of HKU Presidential PhD scholarship, 2024-
+* Zhiyang Chen, B.S./M.Phil (Shanghai Jiao Tong), 2024-
+* Junji Ye, B.S. (Xidian), M.Sc (HKU), 2024-
+* Yizhi Zhen, B.S. (Central South), M.Sc (HKU), 2024-
+* Qingyang Li, B.S. (Southeast), Recipient of Y S and Christabel Lung Postgraduate Scholarship, 2023-
+* Dongze Li, B.S. (Beihang), M.Phil (UIUC), 2022-
+* Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU), 2021-
+* Wenbo Sun, B.S./M.Phil (Beihang), 2021-
+
+Graduated:
+* Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), 2020-2024.
+* Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), 2020-2024.
 * Mingyou Ma (as co-supervisor @UNSW, 2019-2023)
 * Runqing Zhao (as co-supervisor @UNSW, 2019-2021)
 
