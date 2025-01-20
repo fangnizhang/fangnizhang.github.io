@@ -18,7 +18,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ----------
-(*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang))
+(*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
 [46] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
 
