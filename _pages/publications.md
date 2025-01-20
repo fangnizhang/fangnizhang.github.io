@@ -20,7 +20,13 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang))
 
-[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, in press.
+[46] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
+
+[45] Zhang, Z.†, __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. _Transportation Research Part C: Emerging Technologies_, 170, 104915.
+
+[44] Zhang, C., Ng, K.K.H., Jin, Z., Tang, T, __Zhang, F.__, Liu, W. (2025)  Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. _Transportation Research Part E: Logistics and Transportation Review_, 195, 103963.
+
+[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, 102992.
 
 [42] Jin, Z., Ng, KKH., Zhang, C., Liu, W., __Zhang, F.__, Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. _Transportation Research Part E: Logistics and Transportation Review_, 186, 103538.
 
