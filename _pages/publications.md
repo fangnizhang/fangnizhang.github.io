@@ -20,9 +20,11 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[46] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
+[47] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
 
-[45] Zhang, Z.†, __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. _Transportation Research Part C: Emerging Technologies_, 170, 104915.
+[46] Zhang, Z.†, __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. _Transportation Research Part C: Emerging Technologies_, 170, 104915.
+
+[45] Li, S.†, Zhou, Y., __Zhang, F.__ (2025) Interdependency in transportation system resilience: Review and discussion. _Transportation Research Part D: Transport and Environment_, 104618.
 
 [44] Zhang, C., Ng, K.K.H., Jin, Z., Tang, T, __Zhang, F.__, Liu, W. (2025)  Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. _Transportation Research Part E: Logistics and Transportation Review_, 195, 103963.
 
@@ -115,6 +117,13 @@ Journal Publications
 
 Selected Conference Papers
 -------
+[53] Gong, Z.†, Zhang, Z.†, Zhang, F. (2024) On the network equilibrium of an integrated air-ground urban transport system. The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2024. (Recipient of Outstanding Student Paper Award of HKSTS 2024 First Prize.)
+
+[52] Sun, W.†, Zhang, F. (2024) Dynamic routing for trucks and drones for multiple tasks after disasters. The 6th International Symposium on Multimodal Transportation (ISMT 2024), Nanjing, China, 27-29 September 2024. (Recipient of ISMT 2024 Best Presenter Award.)
+
+[51] Zhang, Z.†, Zhang, F., Liu, w. (2024) To park or to share your autonomous vehicle? \textit{The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS)}, Yichang, China, 2-5 August 2024. (Recipient of TBTS 2024 Best Paper Award.)
+
+[50] Zhang, Z.†, Zhang, F. (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. The 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, US, 15-17 July 2024.
 
 [49] Shao, S.†, Lin, J.†, Zhang, F. (2023) Service network design for a metro-based crowdsoured transportation system under uncertainties. The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 11-14 August 2023.
     
