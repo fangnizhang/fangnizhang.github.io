@@ -6,15 +6,16 @@ author_profile: true
 
 Selected working papers
 ------------
-* Gong, Z., **Zhang, F.** Airline's fleet sizing and pricing strategies for passenger and freight services under demand uncertainty.
-* Lin, J., **Zhang, F.** Transforming Urban Freight Transportation: Service Network Design for Synergy with Passenger Transportation in Transit Systems.
-* Ma, M., **Zhang, F.**, Liu, W., Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
-* Sun, W., Wu, L., **Zhang, F.** An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks after Disasters.
-* Wei, T., Xu, G., Liu, W., **Zhang, F.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
-* Yang, X., Wang, S., **Zhang, F.**, Huang, G.Q. On the urban co-modal system: Pricing and incentive strategies.
-* **Zhang, F.**, Lindsey, R., Yang, H. The economics of cross-modal congestion.
+* Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
+* Li, D., Sun, W., **Zhang, F.** Order allocation and vehicle routing problems of an integrated logistics platform with crowdsourced and professional couriers.
+* Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
+* Lin, J., **Zhang, F.**, Yin, Y. Parking-and-Charging-as-a-Service: Online admission and allocation policies for integrated parking and charging management.
+* Shao, S., Lin, J., **Zhang, F.** Metro-integrated crowdsoured urban delivery system: service network design under demand and supply uncertainty.
+* Sun, W., Wu, L., **Zhang, F.** An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters.
+* Sun, W., Wu, L., **Zhang, F.**Robust optimization for truck-and-drone collaboration with travel time uncertainties.
 * Zhang, Z., Liu, W., **Zhang, F.** To park or to share your autonomous vehicles?
-* Zhang, Z., Ma, M., **Zhang, F.**, Liu, W. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
+* Zhang, Z., Lin, J., Gong, Z., **Zhang, F.**, Liu, W. The emergence of rideshare buddy-pooling platform: Dynamic user equilibrium and operation decisions.
+* Zhu, X., Liu, W., **Zhang, F.** Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 
 Research Grants
 ------------
