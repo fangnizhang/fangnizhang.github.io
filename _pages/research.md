@@ -12,7 +12,7 @@ Selected working papers
 * Lin, J., **Zhang, F.**, Yin, Y. Parking-and-Charging-as-a-Service: Online admission and allocation policies for an integrated parking and charging reservation system.
 * Shao, S., Lin, J., **Zhang, F.** Metro-integrated crowdsoured urban delivery system: service network design under demand and supply uncertainty.
 * Sun, W., Wu, L., **Zhang, F.** An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters.
-* Sun, W., Wu, L., **Zhang, F.**Robust optimization for truck-and-drone collaboration with travel time uncertainties.
+* Sun, W., Wu, L., **Zhang, F.** Robust optimization for truck-and-drone collaboration with travel time uncertainties.
 * Zhang, Z., Liu, W., **Zhang, F.** To park or to share your autonomous vehicles?
 * Zhang, Z., Lin, J., Gong, Z., **Zhang, F.**, Liu, W. The emergence of rideshare buddy-pooling platform: Dynamic user equilibrium and operation decisions.
 * Zhu, X., Liu, W., **Zhang, F.** Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
