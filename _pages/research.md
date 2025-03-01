@@ -9,7 +9,7 @@ Selected working papers
 * Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
 * Li, D., Sun, W., **Zhang, F.** Order allocation and vehicle routing problems of an integrated logistics platform with crowdsourced and professional couriers.
 * Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
-* Lin, J., **Zhang, F.**, Yin, Y. Parking-and-Charging-as-a-Service: Online admission and allocation policies for integrated parking and charging management.
+* Lin, J., **Zhang, F.**, Yin, Y. Parking-and-Charging-as-a-Service: Online admission and allocation policies for an integrated parking and charging reservation system.
 * Shao, S., Lin, J., **Zhang, F.** Metro-integrated crowdsoured urban delivery system: service network design under demand and supply uncertainty.
 * Sun, W., Wu, L., **Zhang, F.** An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters.
 * Sun, W., Wu, L., **Zhang, F.**Robust optimization for truck-and-drone collaboration with travel time uncertainties.
