@@ -20,11 +20,13 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[47] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
+[48] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
 
-[46] Zhang, Z.†, __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. _Transportation Research Part C: Emerging Technologies_, 170, 104915.
+[47] Zhang, Z.†, __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. _Transportation Research Part C: Emerging Technologies_, 170, 104915.
 
-[45] Li, S.†, Zhou, Y., __Zhang, F.__ (2025) Interdependency in transportation system resilience: Review and discussion. _Transportation Research Part D: Transport and Environment_, 104618.
+[46] Li, S.†, Zhou, Y., __Zhang, F.__ (2025) Interdependency in transportation system resilience: Review and discussion. _Transportation Research Part D: Transport and Environment_, 140, 104618.
+
+[45] Wu, H., Li, M., Yu, C., Ouyang, Z., Lai, K., Zhao, Z., Pan, S., Wang, S., Zhong, R.Y., Kuo, Y.H., __Zhang, F.__, Huang, W., Shen, Z.J.M., Ballot, E., Huang, G.Q. (2025) Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. _Transportation Research Part E: Logistics and Transportation Review_, 104051.
 
 [44] Zhang, C., Ng, K.K.H., Jin, Z., Tang, T, __Zhang, F.__, Liu, W. (2025)  Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. _Transportation Research Part E: Logistics and Transportation Review_, 195, 103963.
 
