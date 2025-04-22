@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.dase.hku.hk/people/f-n-zhang) is an Assistant Professor at the Department of Data and Systems Engineering at The University of Hong Kong. Prior to joining HKU, she held faculty positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including multimodal transportation system modelling and optimization, shared and automated transport management, high-speed rail and air transportation modeling. Her research has been published in world-leading journals and conferences in the field (e.g., Transportation Science, Transportation Research Part A/B/C/D/E and ISTTT). Dr. Zhang's research has been supported by the Research Grants Council (RGC) of Hong Kong SAR and the National Natural Science Foundation of China (NSFC).
+[Dr. Fangni Zhang](https://www.dase.hku.hk/people/f-n-zhang) is an Assistant Professor in the Department of Data and Systems Engineering at The University of Hong Kong. She holds a B.S. in Industrial Engineering from Beihang University and a Ph.D. in Transportation Engineering from The Hong Kong University of Science and Technology. Dr. Zhang’s research focuses on transportation economics, analytics, and optimization, with an emphasis on automated, shared, and multimodal mobility systems. Her work addresses critical challenges in planning, operations, and management to advance sustainable and intelligent transportation systems. Her research has been funded by competitive grants from the Hong Kong Research Grants Council (RGC) and the National Natural Science Foundation of China (NSFC).
 
 Affiliations
 ======
@@ -27,7 +27,7 @@ PhD, Postdoc & Research Assistant positions
 ======
 - I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2023 rate: **HK\$18,390/month**) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$27,600/month** plus a conference and research-related travel allowance of **HK\$13,800/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [HKU Graduate School website](https://gradsch.hku.hk/).
+- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2024 rate: **HK\$18,760/month** in probation and **HK\$19,270/month** after probation) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$28,100/month** plus a conference and research-related travel allowance of **HK\$14,000/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [HKU Graduate School website](https://gradsch.hku.hk/).
 
 - **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
@@ -47,8 +47,8 @@ On-going:
 * Wenbo Sun, B.S./M.Phil (Beihang), 2021-
 
 Graduated:
-* Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), 2020-2024.
-* Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), 2020-2024.
+* Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
+* Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
 * Mingyou Ma (as co-supervisor @UNSW, 2019-2023)
 * Runqing Zhao (as co-supervisor @UNSW, 2019-2021)
 
