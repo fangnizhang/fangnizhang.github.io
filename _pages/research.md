@@ -8,14 +8,12 @@ Selected working papers
 ------------
 * Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
 * Li, D., Sun, W., **Zhang, F.** Order allocation and vehicle routing problems of an integrated logistics platform with crowdsourced and professional couriers.
-* Lin, J., **Zhang, F.** On urban co-modality: Service network design for a bus-integrated freight transport system.
 * Lin, J., **Zhang, F.**, Yin, Y. Parking-and-Charging-as-a-Service: Online admission and allocation policies for an integrated parking and charging reservation system.
 * Shao, S., Lin, J., **Zhang, F.** Metro-integrated crowdsoured urban delivery system: service network design under demand and supply uncertainty.
 * Sun, W., Wu, L., **Zhang, F.** An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters.
 * Sun, W., Wu, L., **Zhang, F.** Robust optimization for truck-and-drone collaboration with travel time uncertainties.
 * Zhang, Z., Liu, W., **Zhang, F.** To park or to share your autonomous vehicles?
 * Zhang, Z., Lin, J., Gong, Z., **Zhang, F.**, Liu, W. The emergence of rideshare buddy-pooling platform: Dynamic user equilibrium and operation decisions.
-* Zhu, X., Liu, W., **Zhang, F.** Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 
 Research Grants
 ------------
@@ -56,18 +54,12 @@ Invited talks
 
 Academic services
 -------------
-**Editorial Board Member**
-
-* Transportation Planning and Technology
-* International Journal of Intelligent Transportation System Research
-* International Conference on Transportation and Space-time Economics
-* International Workshop on Computational Transportatioin Science
-* International Symposium on Travel Behavior and Transportation Science
-
-**Guest Editor**
-
-* Special Issue of Transportmetrica B on "Advances in Air Transportation Management"
-* Special Session of TSTE 2019 conference on "High-speed rail and air transport"
+**Editorial Services**
+* Associate Editor, Journal of Transport Economics and Policy (JTEP)
+* Editorial Advisory Board, Transportation Research Part E: Logistics and Transportation Review
+* Editorial Advisory Board, Transportation Planning and Technology
+* Guest Editor, Special Issue of Transportmetrica B on "Advances in Air Transportation Management"
+* Guest Editor, Special Session of TSTE 2019 conference on "High-speed rail and air transport"
 
 **Journal Reviewer**
 
