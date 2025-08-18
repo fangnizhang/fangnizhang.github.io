@@ -26,7 +26,7 @@ Journal Publications
 
 [48] Lin, J.†, __Zhang, F.\*__ (2025) Transforming Urban Freight Transportation: Service Network Design for Synergy with Passenger Transportation in Transit Systems. _Computers and Industrial Engineering_, 111405. 
 
-[47] Zhu, X., Liu, W., __Zhang, F.__(2025) Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties. _Transportation Research Part C: Emerging Technologies_, 105294. 
+[47] Zhu, X., Liu, W., __Zhang, F.__ (2025) Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties. _Transportation Research Part C: Emerging Technologies_, 105294. 
 
 [46] Li, S.†, Zhou, Y., __Zhang, F.__ (2025) Interdependency in transportation system resilience: Review and discussion. _Transportation Research Part D: Transport and Environment_, 140, 104618.
 
