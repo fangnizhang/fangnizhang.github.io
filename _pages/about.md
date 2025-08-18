@@ -44,9 +44,9 @@ On-going:
 * Qingyang Li, B.S. (Southeast), Recipient of Y S and Christabel Lung Postgraduate Scholarship, 2023-
 * Dongze Li, B.S. (Beihang), M.Phil (UIUC), 2022-
 * Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU), 2021-
-* Wenbo Sun, B.S./M.Phil (Beihang), 2021-
 
 Graduated:
+* Wenbo Sun, B.S./M.Phil (Beihang), Ph.D. (HKU, 2021-2025).
 * Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
 * Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
 * Mingyou Ma (as co-supervisor @UNSW, 2019-2023)
