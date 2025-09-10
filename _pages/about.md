@@ -37,15 +37,18 @@ PhD, Postdoc & Research Assistant positions
 Research students
 ======
 On-going:
+* Zhe Wang, B.S. (UCL), M.Sc (LSE), Recipient of HKU Presidential PhD scholarship, 2025-
+* Xiang Li, B.S. (HKU), 2025-
+* Ximeng Liang, B.S. (Beijing Institute of Technology), M.Sc (HKU), 2025-
 * Siyu Shao, B.S. (Shanghai Jiao Tong), Recipient of HKU Presidential PhD scholarship, 2024-
 * Zhiyang Chen, B.S./M.Phil (Shanghai Jiao Tong), 2024-
 * Junji Ye, B.S. (Xidian), M.Sc (HKU), 2024-
 * Yizhi Zhen, B.S. (Central South), M.Sc (HKU), 2024-
 * Qingyang Li, B.S. (Southeast), Recipient of Y S and Christabel Lung Postgraduate Scholarship, 2023-
 * Dongze Li, B.S. (Beihang), M.Phil (UIUC), 2022-
-* Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU), 2021-
 
 Graduated:
+* Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU, 2021-2025).
 * Wenbo Sun, B.S./M.Phil (Beihang), Ph.D. (HKU, 2021-2025).
 * Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
 * Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
