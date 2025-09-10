@@ -55,6 +55,8 @@ Graduated:
 
 Selected Publications
 ======
+- Zhang, Z., __Zhang, F.__, Liu, W. (2025) To park or to share your autonomous vehicle?. __Transportation Research Part B: Methodological__, 200, 103305.
+
 - Zhang, Z., __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. __Transportation Research Part B: Methodological__, 191, 103133.
 
 - Zhang, Z., __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. __Transportation Research Part C: Emerging Technologies__, 170, 104915.
