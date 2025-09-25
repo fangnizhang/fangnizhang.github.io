@@ -48,7 +48,7 @@ Journal Publications
 
 [38] Xu, G., Guo, J., Zhong, L., __Zhang, F.__ and Liu, W. (2023) Optimal capacity allocation for high-speed railway express delivery. _Computers & Industrial Engineering_, 185, 109683.
 
-[37] Zhao, R.†, Koo, T., Liu, W., Lodewijks, G., __Zhang, F.__ (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. _Decision Analytics Journal_, in press. ([Download](https://doi.org/10.1016/j.dajour.2023.100312))
+[37] Zhao, R.†, Koo, T., Liu, W., Lodewijks, G., __Zhang, F.__ (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. _Decision Analytics Journal_, 8, 100312. ([Download](https://doi.org/10.1016/j.dajour.2023.100312))
 
 [36] Ma, M.†, __Zhang, F.\*__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. _Transportation Research Part C: Emerging Technologies_, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
 
