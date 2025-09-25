@@ -32,11 +32,11 @@ Journal Publications
 
 [46] Li, S.†, Zhou, Y., __Zhang, F.__ (2025) Interdependency in transportation system resilience: Review and discussion. _Transportation Research Part D: Transport and Environment_, 140, 104618.
 
-[45] Wu, H., Li, M., Yu, C., Ouyang, Z., Lai, K., Zhao, Z., Pan, S., Wang, S., Zhong, R.Y., Kuo, Y.H., __Zhang, F.__, Huang, W., Shen, Z.J.M., Ballot, E., Huang, G.Q. (2025) Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. _Transportation Research Part E: Logistics and Transportation Review_, 104051.
+[45] Wu, H., Li, M., Yu, C., Ouyang, Z., Lai, K., Zhao, Z., Pan, S., Wang, S., Zhong, R.Y., Kuo, Y.H., __Zhang, F.__, Huang, W., Shen, Z.J.M., Ballot, E., Huang, G.Q. (2025) Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. _Transportation Research Part E: Logistics and Transportation Review_, 197, 104051.
 
 [44] Zhang, C., Ng, K.K.H., Jin, Z., Tang, T, __Zhang, F.__, Liu, W. (2025)  Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. _Transportation Research Part E: Logistics and Transportation Review_, 195, 103963.
 
-[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, 102992.
+[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, 189, 102992.
 
 [42] Jin, Z., Ng, KKH., Zhang, C., Liu, W., __Zhang, F.__, Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. _Transportation Research Part E: Logistics and Transportation Review_, 186, 103538.
 
