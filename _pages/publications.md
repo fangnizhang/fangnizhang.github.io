@@ -20,6 +20,8 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
+[52] Zhang, Z.†, Lin, J.†, Gong, Z.†, __Zhang, F.__* (2025) The emergence of rideshare buddy-pooling behavior: Dynamic user choices and mobility platform operation decisions. _Transportation Research Part C: Emerging Technologies_, in press.
+
 [51] Zhang, Z.†, __Zhang, F.__*, Liu, W. (2025) To park or to share your autonomous vehicle?. _Transportation Research Part B: Methodological_, 200, 103305.
 
 [50] Zhang, Z.†, __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. _Transportation Research Part B: Methodological_, 191, 103133.
