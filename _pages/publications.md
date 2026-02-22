@@ -20,7 +20,17 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[52] Zhang, Z.†, Lin, J.†, Gong, Z.†, __Zhang, F.__* (2025) The emergence of rideshare buddy-pooling behavior: Dynamic user choices and mobility platform operation decisions. _Transportation Research Part C: Emerging Technologies_, in press.
+[57] Sun, W.†, Wu, L., __Zhang, F.__* (2026) An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks After Disasters. _Transportation Science_, 60(1), 132-154.
+
+[56] Sun, W.†, Wu, L., __Zhang, F.__* (2026) Robust optimization for truck-and-drone collaboration with travel time uncertainties. _Transportation Research Part B: Methodological_, 204, 103378.
+
+[55] Lin, J.†, __Zhang, F.__*, Yin, Y. (2026) Parking-and-Charging-as-a-Service: Online admission and allocation policies for an integrated parking and charging reservation system. _Transportation Research Part B: Methodological_, 204, 103375.
+
+[54] Li, D.†, Sun, W.†, __Zhang, F.__* (2026) Order allocation and vehicle routing with collaborative pickup and delivery by crowdsourced and contracted couriers in a two-echelon urban logistics system. _Transportation Research Part E: Logistics and Transportation Review_, 207, 104598.
+
+[53] Zhang, Z.†, Gao, Y., __Zhang, F.__, Liu, W. (2026) Parking management and operation: A bibliometric analysis and comprehensive review. _Transport Economics and Management_, 4, 14-37.
+
+[52] Zhang, Z.†, Lin, J.†, Gong, Z.†, __Zhang, F.__* (2026) The emergence of rideshare buddy-pooling behavior: Dynamic user choices and mobility platform operation decisions. _Transportation Research Part C: Emerging Technologies_, 182, 105427.
 
 [51] Zhang, Z.†, __Zhang, F.__*, Liu, W. (2025) To park or to share your autonomous vehicle?. _Transportation Research Part B: Methodological_, 200, 103305.
 
