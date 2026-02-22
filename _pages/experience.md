@@ -16,7 +16,9 @@ redirect_from:
 
 **Working experience**
 
-* 2020 - present: Assistant Professor, [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), University of Hong Kong
+* 2026 - present: Associate Professor, [Department of Data and Systems Engineering](https://www.dase.hku.hk/), University of Hong Kong
+
+* 2020 - 2026: Assistant Professor, [Department of Data and Systems Engineering](https://www.dase.hku.hk/) (Previously named "Department of Industrial and Manufacturing Systems Engineering"), University of Hong Kong
 
 * 2018 - 2020: Lecturer, [School of Aviation](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
 
