@@ -36,6 +36,8 @@ Technical reports
 
 Invited talks
 ------------
+* Truck-and-drone routing problems for multi-type rescue services in disaster response. National University of Singapore (NUS). Singapore, 16 June 2025.
+* Mechanism design and collaborative routing for urban crowdshipping systems. Nanyang Technological University (NTU). Singapore, 16 June 2025.
 * Collaborative passenger and freight transportation: modeling, analysis, and optimization. George Washington University. Washington DC, US, 9 January 2025.
 * Synchronization of Integrated Passenger and Freight Transportation Systems. Hong Kong Polytechnic University. Hong Kong, 28 October 2024.
 * Urban co-modality: Transforming the future of passenger and freight transportation. The 24th COTA International Conference of Transportation Professionals (CICTP 2024). Shenzhen, China, 25 July 2024.
