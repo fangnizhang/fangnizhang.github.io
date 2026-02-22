@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Fangni Zhang](https://www.dase.hku.hk/people/f-n-zhang) is an Assistant Professor in the Department of Data and Systems Engineering at The University of Hong Kong. She holds a B.S. in Industrial Engineering from Beihang University and a Ph.D. in Transportation Engineering from The Hong Kong University of Science and Technology. Dr. Zhang’s research focuses on transportation economics, analytics, and optimization, with an emphasis on automated, shared, and multimodal mobility systems. Her work addresses critical challenges in planning, operations, and management to advance sustainable and intelligent transportation systems. Her research has been funded by competitive grants from the Hong Kong Research Grants Council (RGC) and the National Natural Science Foundation of China (NSFC).
+[Dr. Fangni Zhang](https://www.dase.hku.hk/people/f-n-zhang) is an Associate Professor in the Department of Data and Systems Engineering at The University of Hong Kong. She holds a B.S. in Industrial Engineering from Beihang University and a Ph.D. in Transportation Engineering from The Hong Kong University of Science and Technology. Dr. Zhang’s research focuses on transportation economics, analytics, and optimization, with an emphasis on automated, shared, and multimodal mobility systems. Her work addresses critical challenges in planning, operations, and management to advance sustainable and intelligent transportation systems. Her research has been funded by competitive grants from the Hong Kong Research Grants Council (RGC) and the National Natural Science Foundation of China (NSFC).
 
 Affiliations
 ======
-- Assistant Professor, Department of Data and Systems Engineering, The University of Hong Kong [(HKU-DASE website)](https://www.dase.hku.hk/)
+- Associate Professor, Department of Data and Systems Engineering, The University of Hong Kong [(HKU-DASE website)](https://www.dase.hku.hk/)
 - Fellow, Institute of Transport Studies, The University of Hong Kong [(HKU-ITS website)](https://www.institute-of-transport-studies.hku.hk/)
 
 Research interests
@@ -58,25 +58,19 @@ Graduated:
 
 Selected Publications
 ======
+- Sun, W., Wu, L., __Zhang, F.__ (2026) An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks After Disasters. __Transportation Science__, 60(1), 132-154.
+
+- Sun, W., Wu, L., __Zhang, F.__ (2026) Robust optimization for truck-and-drone collaboration with travel time uncertainties. __Transportation Research Part B: Methodological__, 204, 103378.
+
+- Lin, J., __Zhang, F.__, Yin, Y. (2026) Parking-and-Charging-as-a-Service: Online admission and allocation policies for an integrated parking and charging reservation system. __Transportation Research Part B: Methodological__, 204, 103375.
+
 - Zhang, Z., __Zhang, F.__, Liu, W. (2025) To park or to share your autonomous vehicle?. __Transportation Research Part B: Methodological__, 200, 103305.
 
 - Zhang, Z., __Zhang, F.__, Liu, W. (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. __Transportation Research Part B: Methodological__, 191, 103133.
 
-- Zhang, Z., __Zhang, F.__, Liu, W., Yang, H. (2025) On the service differentiation for parking sharing. __Transportation Research Part C: Emerging Technologies__, 170, 104915.
-
 - Zhang, Z., __Zhang, F.__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. __Transportation Research Part B: Methodological__, 102992.
-
-- Lin, J., __Zhang, F.__ (2024) Modular vehicle-based transit system for passenger and freight co-modal transportation. __Transportation Research Part C: Emerging Technologies__, 160, 104545.
-
-- Sun, W., __Zhang, F.__, Liu, W., He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. __IEEE Transactions on Intelligent Transportation Systems__, in press.
-
-- Ma, M.,__Zhang, F.__, Liu, W., Dixit, V. (2023) On urban co-modality: Non-cooperative and cooperative games among freight forwarder, carrier and transit operator. __Transportation Research Part C: Emerging Technologies__, 153, 104234.
-  
-- Zhang, Z., Liu, W., __Zhang, F.__ (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. __Transportation Research Part C: Emerging Technologies__, 153, 104226.
   
 - Gong, Z., __Zhang, F.__, Liu, W., Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. __Transportation Research Part B: Methodological__, 170, 48-76.
-
-- Zhang, Z.,__Zhang, F.__ (2022) Ride-pooling services with differentiated pooling sizes under endogenous congestion effect. __Transportation Research Part C: Emerging Technologies__, 144, 103883.
 
 - __Zhang, F.__, Lindsey, R., Yang, H., Shao, C., Liu, W. (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning? __Transportation Research Part B: Methodological__, 163, 40-63.
 
@@ -84,36 +78,6 @@ Selected Publications
 
 - Ma, M., __Zhang, F.__, Liu, W., Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. __Transportation Research Part B: Methodological__, 156, 14-27.
 
-- Wu, W., Liu, Y., Liu, W., __Zhang, F.__, Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. __IEEE Transactions on Intelligent Transportation Systems__, 23(9), 15091-15106.
-
-- __Zhang, F.__, Liu, W. (2021) An economic analysis of integrating bike sharing service with metro systems. __Transportation Research Part D: Transport and Environment__, 99, 103008.
-
-- Liu, W., __Zhang, F.__, Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. __Transportation Research Part C: Emerging Technologies__, 130, 103301. 
-
-- Li, S., Zhou, Y., Kundu, T., __Zhang, F.__ (2021) Impact of entry restriction policies on international air transport connectivity during COVID-19 pandemic. __Transportation Research Part E: Logistics and Transportation Review__, 152, 102411.
-
-- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. __Transportation Research Part C: Emerging Technologies__, 117, 102676.
-
-- __Zhang, F.__, Graham, D.J. (2020) Air transport and economic growth: A review of the impact mechanism and causal relationships. __Transport Reviews__, 40(4), 506-528. 
-
-- __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. __Transportation Research Part C: Emerging Technologies__, 113, 21-37.
-
-- __Zhang, F.__, Yang, Z., Jiao, J., Liu, W., Wu, W. (2020) The effects of high-speed rail development on regional equity in China. _Transportation Research Part A: Policy and Practice_, 141, 180-202. 
-
-- Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. __Transportation Research Part E: Logistics and Transportation Review__, 134, 101855.
-
-- Wu, W., Wang, M., __Zhang, F.__ (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. __Transportation Research Part D: Transport and Environment__, 67, 553-564. 
-
-- __Zhang, F.__, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. __Transportation Research Part A: Policy and Practice__, 118, 191-215.
-
-- __Zhang, F.__, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. __Transportation Research Part C: Emerging Technologies__, 96, 208-230.
-
-- Liu, W., Li, X, __Zhang, F.__, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. __Transportation Research Part C: Emerging Technologies__, 85, 711-731.
-
 - Liu, W., __Zhang, F.__, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. __Transportation Research Part B: Methodological__, 103, 227-247.
 
-- __Zhang, F.__, Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? __Transportation Research Part E: Logistics and Transportation Review__, 103, 198-217.
-
 - __Zhang, F.__, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. __Transportation Research Part B: Methodological__, 86, 104-127.
-
-- __Zhang, F.__, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. __Transportation Research Part A: Policy and Practice__, 70, 244-263.
