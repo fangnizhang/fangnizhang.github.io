@@ -18,13 +18,13 @@ Selected working papers
 
 Research Grants
 ------------
-* "Parking and Charging as a Service: Capacity Allocation and Pricing Strategies", 1 January 2025 to 31 December 2027, General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, PI.
-* "Urban Multi-modal Transportation System Management based on Tradable Travel Carbon Emission", 1 January 2025 to 31 December 2027, General Programme, Natural Science Fund of Guangdong Province, PI.
+* "Parking and charging as a service: Capacity allocation and pricing strategies", 1 January 2025 to 31 December 2027, General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, PI.
+* "Urban multi-modal transportation system management based on tradable travel carbon emission", 1 January 2025 to 31 December 2027, General Programme, Natural Science Fund of Guangdong Province, PI.
 * "Urban co-modality in public transport systems: Synergize passenger and freight movements", 1 January 2022 to 31 December 2024, Early Career Scheme (ECS), Research Grants Council (RGC) of Hong Kong, PI.
 * "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", 1 January 2022 to 31 December 2024, Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC), PI.
 * "Order allocation and vehicle routing optimization of an integrated logistics platform with crowdsourced and dedicated couriers", 1 January 2024 to 31 December 2027, General Program, National Natural Science Foundation of China (NSFC), PI.
 * "Transport modelling and management for the transition to autonomous driving", 1 January 2021 to 31 December 2022, Seed Fund for Basic Research for New Staff, University Research Committee, HKU, PI.
-* "SynchroHub: Cyber-Physical internet for synchronizing cross-border logistics hubs in the Greater Bay Area (GBA)", 3 January 2023 to 2 January 2028, Theme-based Research Scheme, Research Grants Council (RGC) of Hong Kong, Co-PI.
+* "SynchroHub: Cyber-physical internet for synchronizing cross-border logistics hubs in the Greater Bay Area (GBA)", 3 January 2023 to 2 January 2028, Theme-based Research Scheme, Research Grants Council (RGC) of Hong Kong, Co-PI.
 
 Technical reports
 ------------
