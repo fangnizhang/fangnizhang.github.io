@@ -20,9 +20,13 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[57] Sun, W.†, Wu, L., __Zhang, F.__* (2026) An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks After Disasters. _Transportation Science_, 60(1), 132-154.
+[59] Sun, W.†, Wu, L., __Zhang, F.__* (2026) An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks After Disasters. _Transportation Science_, 60(1), 132-154.
 
-[56] Sun, W.†, Wu, L., __Zhang, F.__* (2026) Robust optimization for truck-and-drone collaboration with travel time uncertainties. _Transportation Research Part B: Methodological_, 204, 103378.
+[58] Sun, W.†, Wu, L., __Zhang, F.__* (2026) Robust optimization for truck-and-drone collaboration with travel time uncertainties. _Transportation Research Part B: Methodological_, 204, 103378.
+
+[57] Sun, W.†, __Zhang, F.__*, Wu, L., Kuo, Y.H. (2026) Route optimization of truck-and-drone systems for multi-type rescue tasks: A heuristic approach. _Transportmetrica A: Transport Science_, DOI: 10.1080/23249935.2026.2643437.
+
+[56] Du, R.†, Sun, W.†*, __Zhang, F.__, Guan, J. (2026) Air-ground collaborative routing problem for parcel deliveries under soft time windows. _Transport Economics and Management_, 4, 60-74.
 
 [55] Lin, J.†, __Zhang, F.__*, Yin, Y. (2026) Parking-and-Charging-as-a-Service: Online admission and allocation policies for an integrated parking and charging reservation system. _Transportation Research Part B: Methodological_, 204, 103375.
 
