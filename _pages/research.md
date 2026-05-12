@@ -8,13 +8,11 @@ Selected working papers
 ------------
 * Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
 * Gong, Z., Zhang, Z., **Zhang, F.** When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks.
-* Shao, S., Lin, J., **Zhang, F.** Metro-integrated crowdsoured urban delivery system: service network design under demand and supply uncertainty.
+* Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
+* Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
 * Li, D., Sun, W., **Zhang, F.** Joint Optimization of Incentive and Routing Strategies in Crowdsourced Last-mile Delivery.
-* Li, Q., **Zhang, F.** Auction Mechanism Design for Order Allocation and Payment in a Crowdshipping System.
-* Ye, J., Li, C., **Zhang, F.** Global Causal Impact Inference for Traffic Networks with Graph-Integrated Transfer Entropy.
-* Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Optimizing UAV-Bus Collaborative Parcel Delivery: Routing, Scheduling, and Synchronization.
-* Du, R., Sun, W., **Zhang, F.**, Guan, Z. Air-Ground Collaborative Routing Problem for Parcel Deliveries under Soft Time Windows.
-
+* Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
+* Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
 
 Research Grants
 ------------
