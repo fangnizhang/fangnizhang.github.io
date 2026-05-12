@@ -20,7 +20,7 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[61] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, forthcoming.
+[62] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, forthcoming.
 
 [61] Ye, J.†, Li, C., __Zhang, F.__ (2026) Global causal-aware impact modeling for traffic networks with graph-integrated transfer entropy. _Transportation Research Part C: Emerging Technologies_, 189, 105706.
 
