@@ -11,6 +11,7 @@ Selected working papers
 * Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
 * Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
 * Li, D., Sun, W., **Zhang, F.** Joint Optimization of Incentive and Routing Strategies in Crowdsourced Last-mile Delivery.
+* Lyu, Y., Mo, T., **Zhang, F.** Managing urban transportation carbon emissions through integrated personal and corporate carbon trading systems.
 * Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
 * Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
 
