@@ -49,7 +49,7 @@ On-going:
 
 Graduated:
 * Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU, 2021-2025). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
-* Wenbo Sun, B.S./M.Phil (Beihang), Ph.D. (HKU, 2021-2025).
+* Wenbo Sun, B.S./M.Phil (Beihang), Ph.D. (HKU, 2021-2025). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
 * Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
 * Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
 * Mingyou Ma (as co-supervisor @UNSW, 2019-2023)
