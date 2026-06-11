@@ -20,13 +20,13 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[63] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, forthcoming.
+[63] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, DOI: 10.1287/trsc.2025.0089.
 
 [62] Ye, J.†, Li, C., __Zhang, F.__ (2026) Global causal-aware impact modeling for traffic networks with graph-integrated transfer entropy. _Transportation Research Part C: Emerging Technologies_, 189, 105706.
 
 [61] Shao, S.†, Lin, J.†, __Zhang, F.__* (2026) Service network design for a metro-based crowdsourced urban delivery system under demand and supply uncertainty. _Transportation Research Part C: Emerging Technologies_, 188, 105695.
 
-[60] Tang, Y., Tasneem, Z., __Zhang, F.__ (2026) Unveiling the impacts of on-demand transit service on ridership and its growth. _Multimodal Transportation_, 100314.
+[60] Tang, Y., Tasneem, Z., __Zhang, F.__ (2026) Unveiling the impacts of on-demand transit service on ridership and its growth. _Multimodal Transportation_, 5(3), 100314.
 
 [59] Sun, W.†, Wu, L., __Zhang, F.__* (2026) An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters. _Transportation Science_, 60(1), 132-154.
 
