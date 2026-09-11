@@ -4,18 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Selected working papers
-------------
-* Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
-* Gong, Z., Zhang, Z., **Zhang, F.** When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks.
-* Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
-* Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
-* Li, D., Sun, W., **Zhang, F.** Joint Optimization of Incentive and Routing Strategies in Crowdsourced Last-mile Delivery.
-* Li, D., **Zhang, F.** A Branch-Price-and-Cut Algorithm for the Two-Echelon Pickup and Delivery Problem with Time Windows.
-* Lyu, Y., Mo, T., **Zhang, F.** Managing urban transportation carbon emissions through integrated personal and corporate carbon trading systems.
-* Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
-* Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
-
 Research Grants
 ------------
 * "Fleet-Facility Partnership: Collaborative Planning and Interactive Operations of Shared Autonomous Vehicle Fleet and Parking Facility", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2027-2030, PI.
@@ -27,6 +15,18 @@ Research Grants
 * "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC), 2022-2024, PI.
 * "Transport modelling and management for the transition to autonomous driving", Seed Fund for Basic Research for New Staff, University Research Committee, HKU, 2021-2022, PI.
 * "SynchroHub: Cyber-physical internet for synchronizing cross-border logistics hubs in the Greater Bay Area (GBA)", Theme-based Research Scheme, Research Grants Council (RGC) of Hong Kong, 2023-2028, Co-PI.
+
+Selected working papers
+------------
+* Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
+* Gong, Z., Zhang, Z., **Zhang, F.** When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks.
+* Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
+* Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
+* Li, D., Sun, W., **Zhang, F.** Joint Optimization of Incentive and Routing Strategies in Crowdsourced Last-mile Delivery.
+* Li, D., **Zhang, F.** A Branch-Price-and-Cut Algorithm for the Two-Echelon Pickup and Delivery Problem with Time Windows.
+* Lyu, Y., Mo, T., **Zhang, F.** Managing urban transportation carbon emissions through integrated personal and corporate carbon trading systems.
+* Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
+* Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
 
 Technical reports
 ------------
