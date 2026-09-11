@@ -18,15 +18,14 @@ Research Grants
 
 Selected working papers
 ------------
-* Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
-* Gong, Z., Zhang, Z., **Zhang, F.** When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks.
+* Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
 * Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
-* Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
+* Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
 * Li, D., Sun, W., **Zhang, F.** Joint Optimization of Incentive and Routing Strategies in Crowdsourced Last-mile Delivery.
 * Li, D., **Zhang, F.** A Branch-Price-and-Cut Algorithm for the Two-Echelon Pickup and Delivery Problem with Time Windows.
 * Lyu, Y., Mo, T., **Zhang, F.** Managing urban transportation carbon emissions through integrated personal and corporate carbon trading systems.
+* Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
 * Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
-* Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
 
 Technical reports
 ------------
