@@ -18,7 +18,8 @@ Research Grants
 
 Research Awards
 ------------
-* Best Paper Award, The 16th Workshop on Computational Transportation Science (CTS). "Urban logistics system design with truck-drone collaborative delivery." Authors: Gong, Z., Zhang, Z., Zhang, F., 2025.
+(†: Research student advised by Dr Zhang)
+* Best Paper Award, The 16th Workshop on Computational Transportation Science (CTS). "Urban logistics system design with truck-drone collaborative delivery." Authors: Gong, Z.†, Zhang, Z.†, Zhang, F., 2025.
 * HKSTS-ATRS Best Paper Award, The 28th Air Transport Research Society (ATRS) World Conference. "Ground-air collaborations for disaster responses with uncertainties." Authors: Sun, W., Wu, L., Zhang, F., 2025.
 * Best Student Paper Award Second Prize, NSFC-RGC Conference on Frontiers of Digital Twins in Intelligent Manufacturing and Smart Cities. "Integrating Unmanned Aerial Vehicles and Public Buses for Parcel Delivery in Urban Area." Authors: Zhen, Y., Lin, J., Zhang, F., 2025.
 * Best Paper Award, The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS). "To park or to share your autonomous vehicle?" Authors: Zhang, Z.$^\#$, Zhang, F., Liu, W., 2024.
