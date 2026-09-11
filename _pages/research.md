@@ -7,7 +7,7 @@ author_profile: true
 Research Grants
 ------------
 * "Fleet-Facility Partnership: Collaborative Planning and Interactive Operations of Shared Autonomous Vehicle Fleet and Parking Facility", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2027-2030, PI.
-* "Unlocking the potential of human-UAV collaboration for smart metro maintenance: Data-informed optimization of task planning, routing, and orchestration", MTR Research Funding (MRF), 2026-2029, PI.
+* "Unlocking the Potential of Human-UAV Collaboration for Smart Metro Maintenance: Data-informed Optimization of Task Planning, Ruting, and Orchestration", MTR Research Funding (MRF), 2026-2029, PI.
 * "Parking and charging as a service: Capacity allocation and pricing strategies", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2025-2027, PI.
 * "Urban multi-modal transportation system management based on tradable travel carbon emission", General Programme, Natural Science Fund of Guangdong Province, 2025-2027, PI.
 * "Order allocation and vehicle routing optimization of an integrated logistics platform with crowdsourced and dedicated couriers", General Program, National Natural Science Foundation of China (NSFC), 2024-2027, PI.
