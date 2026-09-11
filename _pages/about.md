@@ -13,7 +13,7 @@ redirect_from:
 Affiliations
 ======
 - Associate Professor, Department of Data and Systems Engineering, The University of Hong Kong [(HKU-DASE website)](https://www.dase.hku.hk/)
-- Fellow, Institute of Transport Studies, The University of Hong Kong [(HKU-ITS website)](https://www.institute-of-transport-studies.hku.hk/)
+- Deputy Director, Institute of Transport Studies, The University of Hong Kong [(HKU-ITS website)](https://www.institute-of-transport-studies.hku.hk/)
 
 Research interests
 ======
