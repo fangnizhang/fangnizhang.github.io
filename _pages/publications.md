@@ -20,7 +20,13 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[63] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, DOI: 10.1287/trsc.2025.0089.
+[66] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, DOI: 10.1287/trsc.2025.0089.
+
+[65] Gong, Z.†, Zhang, Z.†, __Zhang, F.__* (2026) When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks. _Transportation Research Part A: Policy and Practice_, 213, 105203. (Presented at the 26th International Symposium on Transportation and Traffic Theory (ISTTT), Munich, Germany, 20-24 July 2016.)
+
+[64] Zhuo, Q., Wang, Y., __Zhang, F.__ (2026) Optimization of urban reverse logistics networks in express packaging recycling. _Transportation Research Part E: Logistics and Transportation Review_, 214, 105030.
+
+[63] Fei, H., Sun, W.†, __Zhang, F.__, Liu, W. (2026) Optimising mobility and charging services with shared electric autonomous vehicles. _Transportmetrica B: Transport Dynamics_, 14(1), 2724389.
 
 [62] Ye, J.†, Li, C., __Zhang, F.__ (2026) Global causal-aware impact modeling for traffic networks with graph-integrated transfer entropy. _Transportation Research Part C: Emerging Technologies_, 189, 105706.
 
@@ -60,7 +66,7 @@ Journal Publications
 
 [44] Zhang, C., Ng, K.K.H., Jin, Z., Tang, T, __Zhang, F.__, Liu, W. (2025)  Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. _Transportation Research Part E: Logistics and Transportation Review_, 195, 103963.
 
-[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, 189, 102992.
+[43] Zhang, Z.†, __Zhang, F.\*__ (2024) Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. _Transportation Research Part B: Methodological_, 189, 102992. (Presented at the 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, US, 15-17 July 2024.)
 
 [42] Jin, Z., Ng, KKH., Zhang, C., Liu, W., __Zhang, F.__, Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. _Transportation Research Part E: Logistics and Transportation Review_, 186, 103538.
 
@@ -120,7 +126,7 @@ Journal Publications
 
 [14] Wu, W., __Zhang, F.__, Liu, W., Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. _Transportation Research Part E: Logistics and Transportation Review_, 134, 101855. [(Download)](https://doi.org/10.1016/j.tre.2020.101855)
 
-[13] __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. _Transportation Research Part C: Emerging Technologies_, 113, 21-37. [(Download)](https://doi.org/10.1016/j.trc.2019.04.005)
+[13] __Zhang, F.__, Liu, W. (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. _Transportation Research Part C: Emerging Technologies_, 113, 21-37. (Presented at the 23rd International Symposium on Transportation and Traffic Theory (ISTTT), Lausanne, Switzerland, 24-26 July 2019.) [(Download)](https://doi.org/10.1016/j.trc.2019.04.005)
 
 [12] Wu, W., Liu, Y, Liu, W., __Zhang, F.__, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. _Transportmetrica B: Transport Dynamics_, 7(1), 1481-1504. [(Download)](https://doi.org/10.1080/21680566.2019.1631901)
 
@@ -149,6 +155,44 @@ Journal Publications
 
 Selected Conference Papers
 -------
+[53] Gong, Z.†, Zhang, Z.†, Zhang, F. (2026) When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks. The 26th International Symposium on Transportation and Traffic Theory (ISTTT), Munich, Germany, 20-24 July 2026.
+
+[53] Li, Q.†, Zhang, F. (2025) Auction mechanism and network design for Freight-as-a-Service (FaaS). The 29th international conference of Hong Kong society for transportation studies (HKSTS), Hong Kong, 8-9 December 2025.
+
+[53] Shao, S.†, Zhang, F. (2025) Towards Electrification: Robust Planning of Electric Truck Charging and Battery Management System with V2G Integration. The 29th international conference of Hong Kong society for transportation studies (HKSTS), Hong Kong, 8-9 December 2025.
+
+[53] Li, Q.†, Zhang, F. (2025) Auction mechanism design for order allocation and payment in a crowdshipping system. Annual International Conference for Digital Intelligence Logistics and Supply Chain Management, Guangzhou, China, 9-11 November 2025.
+
+[53] Zhang, Z.†, Zhang, F., Liu, W. (2025) Economic analysis of the vehicle sharing behavior in the era of autonomous vehicles. The 14th Asia-Pacific Conference on Transportation and the Environment (APTE), Hangzhou, China, 9-11 August 2025.
+
+[53] Gong, Z.†, Zhang, Z.†, Zhang, F. (2025) Urban logistics system design with truck-drone collaborative delivery. The 16th International Workshop on Computational Transportation Science (CTS2025), Wuhan, China, 25-27 July 2025. (Recipient of Best Paper Award.)
+
+[53] Lin, J.†, Zhang, F. (2025) Online optimization of integrated charging and parking services considering vehicle relocation. The 16th International Workshop on Computa-tional Transportation Science (CTS2025), Wuhan, China, 25-27 July 2025.
+
+[53] Zhen, Y.†, Zhang, F. (2025) An exact algorithm for passenger pickup and delivery problem with modular vehicles. 2025 INFORMS International Meeting, Singapore, 20-23 July 2025.
+
+[53] Li, Q.†, Zhang, F. (2025) Auction mechanism design for Freight as a Service (FaaS). 2025 Production and Operations Management Society (POMS) International Conference in China, Danzhou, China, 11-14 July 2025.
+
+[53] Gong, Z.†, Zhang, Z.†, Zhang, F. (2025) Urban logistics system design with truck-drone collaborative delivery. The 28th Air Transport Research Society (ATRS) World Conference, Hong Kong, China, 1-4 July 2025.
+
+[53] Sun, W.†, Wu, L., Zhang, F. (2025) Ground-air collaborations for disaster responses with uncertainties. The 28th Air Transport Research Society (ATRS) World Conference, Hong Kong, 1-4 July 2025. (Recipient of Best Paper Award.)
+
+[53] Zhang, Z.†, Liu, Z., Yin, Y., Vignon, D., Zhang, F. (2025) Differentiated Order Allocation to Electrify Ride-sourcing System. The 16th International Conference on Advanced Systems in Public Transport (CASPT), Kyoto, Japan, 30 June-4 July 2025.
+
+[53] Li, Q.†, Zhang, F. (2025) Crowdshipping platform as an intermediary: Auction-based mechanism design for order allocation and payment schemes. The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII), Okinawa, Japan, 22-27 June 2025.
+
+[53] Li, D.†, Zhang, F. (2025) Joint optimization of incentive and routing for crowdsourced last-mile delivery. The 13th Symposium of the European Association for Research in Transportation (hEART), Munich, Germany, 10-12 June 2025.
+
+[53] Zhen, Y.†, Lin, J.†, Zhang, F. (2025) Integrating Unmanned Aerial Vehicles and Public Buses for Parcel Delivery in Urban Area. NSFC-RGC Conference on Frontiers of Digital Twins in Intelligent Manufacturing and Smart Cities, Hong Kong, 25-28 April 2025. (Recipient of Best Student Paper Award Second Prize.)
+
+[53] Li, Q.†, Zhang, F. (2025) Auction mechanism for order allocation and payment schemes in a crowd-shipping system. The 104th Transportation Research Board (TRB) Annual Meeting, Washington D.C., US, 5-9 January 2025.
+
+[53] Sun, W.†, Zhang, F. (2025) Dynamic truck-and-drone routing problem with multiple tasks after disasters. The 104th Transportation Research Board (TRB) Annual Meeting, Washington D.C., US, 5-9 January 2025.
+
+[53] Li, D.†, Sun, W.†, Zhang, F. (2025) Order allocation and vehicle routing problems with crowdsourced and professional couriers. The 104th Transportation Research Board (TRB) Annual Meeting, Washington D.C., US, 5-9 January 2025.
+
+[53] Zhang, Z.†, Zhang, F., Liu, W. (2025) On the parking, charging and vehicle-to-grid choices of electric vehicles. The 104th Transportation Research Board (TRB) Annual Meeting, Washington D.C., US, 5-9 January 2025.
+
 [53] Gong, Z.†, Zhang, Z.†, Zhang, F. (2024) On the network equilibrium of an integrated air-ground urban transport system. The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9-10 December 2024. (Recipient of Outstanding Student Paper Award of HKSTS 2024 First Prize.)
 
 [52] Sun, W.†, Zhang, F. (2024) Dynamic routing for trucks and drones for multiple tasks after disasters. The 6th International Symposium on Multimodal Transportation (ISMT 2024), Nanjing, China, 27-29 September 2024. (Recipient of ISMT 2024 Best Presenter Award.)
