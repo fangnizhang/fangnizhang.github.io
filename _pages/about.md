@@ -17,17 +17,17 @@ Affiliations
 
 Research interests
 ======
-- Shared transport and logistics systems
-- Autonomous vehicle/UAV systems
+- Low-altitude logistics systems optimization
+- Smart mobility and logistics service modeling
+- Autonomous vehicle/UAV systems operations
 - Transport network modeling and optimization
-- Transport/urban data analytics
-- Transport economics
+- AI for transportation
 
 PhD, Postdoc & Research Assistant positions
 ======
-- I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
+- I am looking for 1-2 self-motivated **Ph.D. students** to join my research group. Applicants should have a B.S. or M.S. in Transportation Engineering, Data Science, Computer Science, Automation, and Applied Mathematics, or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2025 rate: **HK\$19,135/month** in probation and **HK\$19,655/month** after probation) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$28,400/month** plus a conference and research-related travel allowance of **HK\$14,200/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [HKU Graduate School website](https://gradsch.hku.hk/).
+- Successful applicants will be considered eligible to receive a **Postgraduate Scholarship** (the 2025 rate: **HK\$19,135/month** in probation and **HK\$19,655/month** after probation) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the **Hong Kong PhD Fellowship** (HKPF) scheme, which offers an annual stipend of **HK\$28,400/month** plus a conference and research-related travel allowance of **HK\$14,400/year**. HKU will provide HKPF awardees additional living allowance (**HK\$20-40k/year**) and accommodation support. To learn more about the HKU Ph.D. programme and scholarships, visit [HKU Graduate School website](https://gradsch.hku.hk/).
 
 - **Postdoc, Research Assistant, and visiting research positions** are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications.
 
