@@ -25,10 +25,12 @@ Research Awards
 * Best Paper Award, The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS). "To park or to share your autonomous vehicle?" Authors: Zhang, Z.†, Zhang, F., Liu, W., 2024.
 * Outstanding Student Paper Award First Prize, The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2024). "On the network equilibrium of an integrated air-ground urban transport system." Authors: Gong, Z.†, Zhang, Z.†, Zhang, F., 2024.
 * Best Presenter Award, The 6th International Symposium on Multimodal Transportation (ISMT 2024). "Dynamic routing for trucks and drones for multiple tasks after disasters." Authors: Sun, W.†, Zhang, F., 2024.
+* Meritorious Service Award, Transportation Science, 2024.
 * Qian Xuesen Urban Science Gold Award (Transportation) Nomination Award. "On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles" published on Transportation Research Part C: Emerging Technologies. Authors: Zhang, Z.†, Liu, W., Zhang, F., 2023.
 * Best Paper Award, The 14th Workshop on Computational Transportation Science (CTS). "Modeling the vehicle parking, charging and vehicle-to-grid services in the era of electric vehicles." Authors: Zhang, Z.†, Zhang, F., Liu, W., 2023.
 * Best Student Paper First Prize, Annual International Conference for Digital Intelligence Logistics and Supply Chain Management (DILSCM 2023). "On urban co-modality: Service network design for a bus-integrated freight transport system." Authors: Lin, J.†, Zhang, F., 2023.
 * Best Student Paper Third Prize, Annual International Conference for Digital Intelligence Logistics and Supply Chain Management (DILSCM 2023). "Unmanned aerial vehicle routing problem with multiple public bus service line." Authors: Zhen, Y.†, Zhang, F., 2023.
+* Best Area Editor, The 22nd COTA International Conference of Transportation Professionals, Chinese Overseas Transportation Association, 2022.
 * Outstanding Student Paper Award, The 20th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2015), 1st runner-up. "Managing the multimodal transportation system with roadway space allocation and responsive bus services." Author: Zhang, F., 2015.
 
 Selected working papers
