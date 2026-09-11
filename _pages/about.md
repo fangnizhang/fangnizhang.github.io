@@ -58,6 +58,8 @@ Graduated:
 
 Selected Publications
 ======
+- Li, Q., __Zhang, F.__ (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. __Transportation Science__, DOI: 10.1287/trsc.2025.0089.
+
 - Sun, W., Wu, L., __Zhang, F.__ (2026) An Exact Algorithm to Solve Vehicle Routing Problem with Drones for Delivery and Surveillance Tasks After Disasters. __Transportation Science__, 60(1), 132-154.
 
 - Sun, W., Wu, L., __Zhang, F.__ (2026) Robust optimization for truck-and-drone collaboration with travel time uncertainties. __Transportation Research Part B: Methodological__, 204, 103378.
