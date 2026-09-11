@@ -10,7 +10,7 @@ Research Grants
 * "Unlocking the potential of human-UAV collaboration for smart metro maintenance: Data-informed optimization of task planning, routing, and orchestration", MTR Research Funding (MRF), 2026-2029, PI.
 * "Parking and charging as a service: Capacity allocation and pricing strategies", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2025-2027, PI.
 * "Urban multi-modal transportation system management based on tradable travel carbon emission", General Programme, Natural Science Fund of Guangdong Province, 2025-2027, PI.
-* * "Order allocation and vehicle routing optimization of an integrated logistics platform with crowdsourced and dedicated couriers", General Program, National Natural Science Foundation of China (NSFC), 2024-2027, PI.
+* "Order allocation and vehicle routing optimization of an integrated logistics platform with crowdsourced and dedicated couriers", General Program, National Natural Science Foundation of China (NSFC), 2024-2027, PI.
 * "Urban co-modality in public transport systems: Synergize passenger and freight movements", Early Career Scheme (ECS), Research Grants Council (RGC) of Hong Kong, 2022-2024, PI.
 * "Synchronization and optimization of an integrated passenger-freight transport system with demand uncertainties", Science Fund for Young Scholars, National Natural Science Foundation of China (NSFC), 2022-2024, PI.
 * "Transport modelling and management for the transition to autonomous driving", Seed Fund for Basic Research for New Staff, University Research Committee, HKU, 2021-2022, PI.
