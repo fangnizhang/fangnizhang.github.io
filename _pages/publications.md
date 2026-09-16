@@ -298,3 +298,12 @@ Selected Conference Papers
 [2] Zhang, F., Yang, H. (2013) On the Downs-Thomson paradox under transit dispatching and pricing schemes. The 13th World Conference on Transport Research, Rio de Janeiro, Brazil, 15-18 July 2013.
 
 [1] Zhang, F., Yang, H. (2012) The Downs-Thomson paradox under transit dispatching and pricing schemes. The 17th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 15-17 December 2012.
+
+
+Technical reports (work at University of Leeds)
+------------
+* Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
+* Impact assessment of the GPS-based positioning in railway network (2018). Deliverable D6.1 of project RAPPORT: Real-time Accurate Positioning & Protection of Rail Transport. Submitted to Innovate UK on 30 April 2018.
+* Final business case synthesis report (2018). Deliverable D1.8 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 9 March 2018.
+* Cost and user benefit report (2018). Deliverable D1.4 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 28 Febuary 2018.
+* Impact assessment methodology development (2017). Deliverable D4.1 of project SMaRTE: Smart Maintenance and the Rail Traveller Experience. Submitted to European Commission on 11 December 2017.
