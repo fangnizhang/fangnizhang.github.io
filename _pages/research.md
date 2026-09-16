@@ -44,14 +44,6 @@ Selected working papers
 * Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
 * Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
 
-Technical reports
-------------
-* Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
-* Impact assessment of the GPS-based positioning in railway network (2018). Deliverable D6.1 of project RAPPORT: Real-time Accurate Positioning & Protection of Rail Transport. Submitted to Innovate UK on 30 April 2018.
-* Final business case synthesis report (2018). Deliverable D1.8 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 9 March 2018.
-* Cost and user benefit report (2018). Deliverable D1.4 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 28 Febuary 2018.
-* Impact assessment methodology development (2017). Deliverable D4.1 of project SMaRTE: Smart Maintenance and the Rail Traveller Experience. Submitted to European Commission on 11 December 2017.
-
 Invited talks
 ------------
 * Truck-and-drone routing problems for multi-type rescue services in disaster response. National University of Singapore (NUS). Singapore, 16 June 2025.
