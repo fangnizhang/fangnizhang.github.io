@@ -20,8 +20,6 @@ Research interests
 - Low-altitude logistics systems optimization
 - Smart mobility and logistics service modeling
 - Autonomous vehicle/UAV systems operations
-- Multimodal transportation systems modeling
-- Transportation network modeling and optimization
 - AI for transportation
 
 PhD, Postdoc & Research Assistant positions
