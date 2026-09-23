@@ -6,12 +6,12 @@ author_profile: true
 
 At the University of Hong Kong, 2020 -
 --------
-**IMSE4122**
-* Global Logistics Systems (discipline core course for IE undergraduates) 
+**DASE4122**
+* Global Logistics and Transportation Systems (discipline core course for IE undergraduates) 
 * Core topics: global operations and logistics planning, multimodal logistics systems
 
-**IMSE7222/IELM7015**
-* Global Logistics and Transportation Systems (discipline course for IE postgraduates)
+**DASE7222**
+* Decision Analytics in Global Logistics (discipline course for IE postgraduates)
 * Core topics: global logistics network design, multimodal logistics systems
 
 **IELM7023**
