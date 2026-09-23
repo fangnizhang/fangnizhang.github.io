@@ -20,7 +20,8 @@ Research interests
 - Low-altitude logistics systems optimization
 - Smart mobility and logistics service modeling
 - Autonomous vehicle/UAV systems operations
-- Transport network modeling and optimization
+- Multimodal transportation systems modeling
+- Transportation network modeling and optimization
 - AI for transportation
 
 PhD, Postdoc & Research Assistant positions
@@ -36,7 +37,7 @@ PhD, Postdoc & Research Assistant positions
 
 Research students
 ======
-On-going:
+On-going PhD students:
 * Zhe Wang, B.S. (UCL), M.Sc (LSE), Recipient of HKU Presidential PhD scholarship, 2025-
 * Xiang Li, B.S. (HKU), 2025-
 * Ximeng Liang, B.S. (Beijing Institute of Technology), M.Sc (HKU), 2025-
@@ -47,13 +48,17 @@ On-going:
 * Qingyang Li, B.S. (Southeast), Recipient of Y S and Christabel Lung Postgraduate Scholarship, 2023-
 * Dongze Li, B.S. (Beihang), M.Phil (UIUC), 2022-
 
-Graduated:
+Graduated PhD students:
 * Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU, 2021-2025). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
 * Wenbo Sun, B.S./M.Phil (Beihang), Ph.D. (HKU, 2021-2025). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
 * Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
 * Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024).
-* Mingyou Ma (as co-supervisor @UNSW, 2019-2023)
-* Runqing Zhao (as co-supervisor @UNSW, 2019-2021)
+
+Alumni:
+* Yue Cao (Visiting PhD student from Beijing Jiaotong University, 2026)
+* Siping Li (Visiting PhD student from Shanghai Jiao Tong University, 2024)
+* Mingyou Ma (PhD @ UNSW, as co-supervisor, 2019-2023)
+* Runqing Zhao (M.Phil. @ UNSW, as co-supervisor, 2019-2021)
 
 
 Selected Publications
