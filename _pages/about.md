@@ -18,7 +18,7 @@ Affiliations
 Research interests
 ======
 - Low-altitude logistics systems optimization
-- Smart mobility and logistics service modeling
+- Mobility and logistics network modeling
 - Autonomous vehicle/UAV systems operations
 - AI for transportation
 
