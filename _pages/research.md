@@ -35,7 +35,8 @@ Research Awards
 
 Selected working papers
 ------------
-* Chen, Z., Zhang, Z., **Zhang, F.** Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies.
+* Chen, Z., Zhang, Z., **Zhang, F.** Integrating mobility and vehicle-to-grid services for centrally managed electric vehicle platforms: Pricing and dispatching strategies.
+* Chen, Z., Li, J., **Zhang, F.** Spatial Equilibrium of V2G-Enabled Autonomous Ride-Sourcing Fleets.
 * Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
 * Gong, Z., Zhang, Z., **Zhang, F.** Airline fleet sizing, dispatching, and pricing strategies under passenger and cargo demand uncertainties with dedicated and convertible aircraft.
 * Li, D., Sun, W., **Zhang, F.** Joint Optimization of Incentive and Routing Strategies in Crowdsourced Last-mile Delivery.
