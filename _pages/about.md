@@ -46,13 +46,13 @@ On-going PhD students:
 * Qingyang Li, B.S. (Southeast), Recipient of Y S and Christabel Lung Postgraduate Scholarship, 2023-
 * Dongze Li, B.S. (Beihang), M.Phil (UIUC), 2022-
 
-Graduated PhD students:
+Graduated PhD students as Primary Supervisor:
 * Zhenwei Gong, B.S. (Nanjing Normal), M.Sc (HKU, 2021-2025). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement. Thesis: Economics, analytics, and optimization of air transportation systems.
 * Wenbo Sun, B.S./M.Phil (Beihang), Ph.D. (HKU, 2021-2025). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement. Thesis: Truck-and-drone system for multi-type services after disasters.
 * Zhuoye Zhang, B.S. (Tongji), M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024). Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement. Thesis: Modeling and managing the shared and automated mobility services.
 * Jie Lin, B.S./M.Phil (Shanghai Jiao Tong), Ph.D. (HKU, 2020-2024). Thesis: Optimization of operational and planning problems for shared transportation services.
 
-Alumni:
+Former members and visiting students:
 * Yue Cao (Visiting PhD student from Beijing Jiaotong University, 2026)
 * Siping Li (Visiting PhD student from Shanghai Jiao Tong University, 2024)
 * Mingyou Ma (PhD @ UNSW, as co-supervisor, 2019-2023)
