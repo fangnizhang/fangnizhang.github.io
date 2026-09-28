@@ -47,8 +47,11 @@ assert len(captions) == 4 and all(len(c.split()) == 30 for c in captions)
 assert home.count('<dialog') == 1
 assert team.count('class="person-card"') == 14
 assert team.count('class="alumni-row"') == 4
-assert 'DASE 4122/IMSE4122' in teaching and 'Digital Website' in teaching
+assert 'id="principal-investigator"' in team and 'Working experience' in team
+assert team.count('class="team-subheading"') == 5
+assert '>Experience<' not in home
+assert 'DASE 4122/IMSE4122' in teaching and 'Course Learning Hub' in teaching
 assert 'teaching-demo' not in teaching
 for private in ('main.py', 'instance', 'uploads', '.runtime', 'README.md', 'scripts', '_people', 'start.ps1'):
     assert not (root/private).exists(), f'Unexpected private/build source in output: {private}'
-print('PASS: seven routes, images, four captions, 18 members, course link, and publication boundaries.')
+print('PASS: seven routes, images, four captions, PI section, 18 members, course link, and publication boundaries.')

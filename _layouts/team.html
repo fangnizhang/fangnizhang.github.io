@@ -3,16 +3,24 @@ layout: default
 ---
 {% include page-hero.html %}
 <section class="container team-content">
-{% for group in site.data.team_groups %}
-<div class="team-section{% unless group.cards %} alumni-section{% endunless %}"><div class="section-heading"><h2>{{ group.title }}</h2></div>
-<div class="{% if group.cards %}people-grid{% else %}alumni-list{% endif %}">
+<div class="team-section" id="principal-investigator"><div class="section-heading"><h2>Principal Investigator</h2></div>
+<div class="pi-row"><article class="pi-card"><img class="pi-photo" src="{{ page.pi.photo | relative_url }}" alt="Portrait of {{ page.pi.name | escape }}" width="477" height="636"><div class="pi-copy"><h3>{{ page.pi.name | escape }}</h3></div></article>
+<div class="pi-cv prose">{{ content }}</div></div></div>
+{% for section in site.data.team_groups %}
+<div class="team-section"><div class="section-heading"><h2>{{ section.title }}</h2></div>
+{% for group in section.groups %}
 {% assign people = site.people | where: 'group', group.key | sort: 'order' %}
+{% if people.size > 0 %}
+<div class="team-group"><h3 class="team-subheading">{{ group.title }}</h3>
+<div class="{% if group.cards %}people-grid{% else %}alumni-list{% endif %}">
 {% for person in people %}
 {% if group.cards %}
-<article class="person-card">{% if person.photo %}<img class="person-photo" src="{{ person.photo | relative_url }}" alt="Portrait of {{ person.title | escape }}" width="210" height="250" loading="lazy"{% if person.photo_position %} style="object-position:{{ person.photo_position }}"{% endif %}>{% else %}<span class="person-photo person-photo-empty" aria-hidden="true"></span>{% endif %}<div class="person-copy"><h3>{{ person.title | escape }}</h3>{{ person.content | markdownify }}</div></article>
+<article class="person-card">{% if person.photo %}<img class="person-photo" src="{{ person.photo | relative_url }}" alt="Portrait of {{ person.title | escape }}" width="210" height="250" loading="lazy"{% if person.photo_position %} style="object-position:{{ person.photo_position }}"{% endif %}>{% else %}<span class="person-photo person-photo-empty" aria-hidden="true"></span>{% endif %}<div class="person-copy"><h4>{{ person.title | escape }}</h4>{{ person.content | markdownify }}</div></article>
 {% else %}
 <p class="alumni-row"><strong>{{ person.title | escape }}</strong><span>{{ person.content | strip_html | strip }}</span></p>
 {% endif %}
 {% endfor %}</div></div>
+{% endif %}
+{% endfor %}</div>
 {% endfor %}
 </section>

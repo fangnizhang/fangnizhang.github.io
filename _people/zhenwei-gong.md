@@ -7,7 +7,9 @@ photo: /assets/team/zhenwei-gong.jpg
 
 B.S. (Nanjing Normal)
 
-M.Sc (HKU, 2021-2025).
+M.Sc (HKU)
+
+Ph.D. (HKU, 2021-2025).
 
 Recipient of Chu Tsun Hong Scholarship for Outstanding Research Achievement.
 

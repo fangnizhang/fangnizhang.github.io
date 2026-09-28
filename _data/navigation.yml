@@ -4,15 +4,12 @@
 - title: Research
   url: /research/
   key: research
-- title: Team
-  url: /team/
-  key: team
 - title: Publications
   url: /publications/
   key: publications
+- title: Team
+  url: /team/
+  key: team
 - title: Teaching
   url: /teaching/
   key: teaching
-- title: Experience
-  url: /experience/
-  key: experience

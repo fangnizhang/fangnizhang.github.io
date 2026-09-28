@@ -4,7 +4,6 @@ layout: page
 nav: publications
 permalink: /publications/
 intro: A research archive across transport, logistics and intelligent mobility.
-number: '04'
 ---
 
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=pqcRnPcAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57221135902), [Web of Science](https://publons.com/researcher/4583530/fangni-zhang), or [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).

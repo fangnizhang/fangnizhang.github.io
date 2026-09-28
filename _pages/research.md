@@ -4,7 +4,6 @@ layout: page
 nav: research
 permalink: /research/
 intro: Models, methods and collaborations shaping the future of movement.
-number: '02'
 ---
 
 Research Grants

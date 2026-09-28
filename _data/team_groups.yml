@@ -1,15 +1,19 @@
-- key: postdoctoral
-  title: Postdoctoral Scholar
-  cards: true
-- key: phd
-  title: PhD Student
-  cards: true
-- key: graduated
-  title: Graduated
-  cards: true
-- key: visiting
-  title: Visiting Students
-  cards: false
-- key: alumni
-  title: Alumni
-  cards: false
+- title: Current Members
+  groups:
+  - key: postdoctoral
+    title: Postdoctoral Scholars
+    cards: true
+  - key: phd
+    title: PhD Students
+    cards: true
+- title: Former Members
+  groups:
+  - key: graduated
+    title: Graduated PhD Students
+    cards: true
+  - key: visiting
+    title: Visiting Students
+    cards: false
+  - key: alumni
+    title: Lab Alumni
+    cards: false
