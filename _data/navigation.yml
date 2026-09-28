@@ -1,14 +1,18 @@
-# main links links
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Research"
-    url: /research/    
-
-  - title: "Teaching"
-    url: /teaching/   
-    
-  - title: "Experience"
-    url: /experience/
-
+- title: Home
+  url: /
+  key: home
+- title: Research
+  url: /research/
+  key: research
+- title: Team
+  url: /team/
+  key: team
+- title: Publications
+  url: /publications/
+  key: publications
+- title: Teaching
+  url: /teaching/
+  key: teaching
+- title: Experience
+  url: /experience/
+  key: experience

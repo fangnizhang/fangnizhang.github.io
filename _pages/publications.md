@@ -1,18 +1,11 @@
 ---
-title: "Publications"
+title: Publications
+layout: page
+nav: publications
 permalink: /publications/
-author_profile: true
+intro: A research archive across transport, logistics and intelligent mobility.
+number: '04'
 ---
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
 
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=pqcRnPcAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57221135902), [Web of Science](https://publons.com/researcher/4583530/fangni-zhang), or [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
 
@@ -302,6 +295,7 @@ Selected Conference Papers
 
 Technical reports (work at University of Leeds)
 ------------
+
 * Draft recommendations for improved information and communications for real-time yard and network management (2018). Deliverable D2.2 of project OptiYard: Optimised Real-time Yard and Network Management. Submitted to European Commission on 31 July 2018.
 * Impact assessment of the GPS-based positioning in railway network (2018). Deliverable D6.1 of project RAPPORT: Real-time Accurate Positioning & Protection of Rail Transport. Submitted to Innovate UK on 30 April 2018.
 * Final business case synthesis report (2018). Deliverable D1.8 of project NeTIRail-INFRA: Needs Tailored Interoperable Railway. Submitted to European Commission on 9 March 2018.

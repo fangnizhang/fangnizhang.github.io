@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% include home-hero.html %}
+<section class="container home-intro"><div class="section-kicker"><h2>Summary</h2></div><div class="intro-copy">{{ content }}</div></section>
+{% assign sections = site.sections | sort: 'order' %}
+{% for section in sections %}
+<section class="container home-intro"><div class="section-kicker{% if section.kind == 'interests' %} research-kicker{% endif %}"><h2>{{ section.title | escape }}</h2></div>
+{% if section.kind == 'interests' %}
+<div class="intro-copy prose research-interest-list"><ul>
+{% assign interests = site.interests | sort: 'order' %}{% for item in interests %}
+<li class="interest-card"><h3 class="interest-title">{{ item.title | escape }}</h3><figure class="interest-visual" aria-label="Research image for {{ item.title | escape }}"><button class="interest-open" type="button" aria-haspopup="dialog" aria-controls="research-dialog" aria-label="Enlarge {{ item.title | escape }}"><img src="{{ item.image | relative_url }}" alt="{{ item.alt | escape }}" loading="lazy"></button></figure><p class="interest-description" hidden>{{ item.content | strip_html | strip | escape }}</p></li>
+{% endfor %}</ul></div>
+{% include research-dialog.html %}
+<script src="{{ '/assets/research-dialog.js' | relative_url }}" defer></script>
+{% else %}
+<div class="intro-copy prose{% if section.kind == 'recruitment' %} recruitment-copy{% endif %}">{{ section.content | markdownify }}</div>
+{% endif %}
+</section>
+{% endfor %}

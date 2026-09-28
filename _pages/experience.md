@@ -1,20 +1,18 @@
 ---
-layout: archive
-title: "Experience"
+title: Experience
+layout: page
+nav: experience
 permalink: /experience/
-author_profile: true
-redirect_from:
-  - /resume
+intro: Academic path, appointments and professional milestones.
+number: '06'
 ---
 
-{% include base_path %}
-
-**Education**
+## Education
 
 * B.S. in Industrial Engineering, Beihang University
 * Ph.D in Civil Engineering (Transportation), Hong Kong University of Science and Technology
 
-**Working experience**
+## Working experience
 
 * 2026 - present: Associate Professor, [Department of Data and Systems Engineering](https://www.dase.hku.hk/), University of Hong Kong
 
@@ -29,4 +27,3 @@ redirect_from:
 * 2015 - 2015: Visiting Researcher, [Urban Transport Systems Laboratory](https://www.epfl.ch/labs/luts/), École polytechnique fédérale de Lausanne (EPFL), Switzerland
 
 * 2011 - 2016: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
-

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% include page-hero.html %}
+<section class="container team-content">
+{% for group in site.data.team_groups %}
+<div class="team-section{% unless group.cards %} alumni-section{% endunless %}"><div class="section-heading"><h2>{{ group.title }}</h2></div>
+<div class="{% if group.cards %}people-grid{% else %}alumni-list{% endif %}">
+{% assign people = site.people | where: 'group', group.key | sort: 'order' %}
+{% for person in people %}
+{% if group.cards %}
+<article class="person-card">{% if person.photo %}<img class="person-photo" src="{{ person.photo | relative_url }}" alt="Portrait of {{ person.title | escape }}" width="210" height="250" loading="lazy"{% if person.photo_position %} style="object-position:{{ person.photo_position }}"{% endif %}>{% else %}<span class="person-photo person-photo-empty" aria-hidden="true"></span>{% endif %}<div class="person-copy"><h3>{{ person.title | escape }}</h3>{{ person.content | markdownify }}</div></article>
+{% else %}
+<p class="alumni-row"><strong>{{ person.title | escape }}</strong><span>{{ person.content | strip_html | strip }}</span></p>
+{% endif %}
+{% endfor %}</div></div>
+{% endfor %}
+</section>

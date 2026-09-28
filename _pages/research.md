@@ -1,11 +1,15 @@
 ---
-title: "Research"
+title: Research
+layout: page
+nav: research
 permalink: /research/
-author_profile: true
+intro: Models, methods and collaborations shaping the future of movement.
+number: '02'
 ---
 
 Research Grants
 ------------
+
 * "Fleet-Facility Partnership: Collaborative Planning and Interactive Operations of Shared Autonomous Vehicle Fleet and Parking Facility", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2027-2030, PI.
 * "Unlocking the Potential of Human-UAV Collaboration for Smart Metro Maintenance: Data-informed Optimization of Task Planning, Ruting, and Orchestration", MTR Research Funding (MRF), 2026-2029, PI.
 * "Parking and charging as a service: Capacity allocation and pricing strategies", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2025-2027, PI.
@@ -19,6 +23,7 @@ Research Grants
 Research Awards
 ------------
 (†: Research student advised by Dr Zhang)
+
 * Best Paper Award, The 16th Workshop on Computational Transportation Science (CTS). "Urban logistics system design with truck-drone collaborative delivery." Authors: Gong, Z.†, Zhang, Z.†, Zhang, F., 2025.
 * HKSTS-ATRS Best Paper Award, The 28th Air Transport Research Society (ATRS) World Conference. "Ground-air collaborations for disaster responses with uncertainties." Authors: Sun, W.†, Wu, L., Zhang, F., 2025.
 * Best Student Paper Award Second Prize, NSFC-RGC Conference on Frontiers of Digital Twins in Intelligent Manufacturing and Smart Cities. "Integrating Unmanned Aerial Vehicles and Public Buses for Parcel Delivery in Urban Area." Authors: Zhen, Y.†, Lin, J.†, Zhang, F., 2025.
@@ -35,6 +40,7 @@ Research Awards
 
 Selected working papers
 ------------
+
 * Chen, Z., Zhang, Z., **Zhang, F.** Integrating mobility and vehicle-to-grid services for centrally managed electric vehicle platforms: Pricing and dispatching strategies.
 * Chen, Z., Li, J., **Zhang, F.** Spatial Equilibrium of V2G-Enabled Autonomous Ride-Sourcing Fleets.
 * Gong, Z., Zhang, Z., **Zhang, F.** Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach
@@ -47,6 +53,7 @@ Selected working papers
 
 Invited talks
 ------------
+
 * Truck-and-drone routing problems for multi-type rescue services in disaster response. National University of Singapore (NUS). Singapore, 16 June 2025.
 * Mechanism design and collaborative routing for urban crowdshipping systems. Nanyang Technological University (NTU). Singapore, 16 June 2025.
 * Collaborative passenger and freight transportation: modeling, analysis, and optimization. George Washington University. Washington DC, US, 9 January 2025.
@@ -70,6 +77,7 @@ Invited talks
 Academic services
 -------------
 **Editorial Services**
+
 * Associate Editor, Journal of Transport Economics and Policy (JTEP)
 * Editorial Advisory Board, Transportation Research Part E: Logistics and Transportation Review
 * Editorial Advisory Board, Transportation Planning and Technology

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="960" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+<title id="title">LLM-based zero-shot prediction</title>
+<desc id="desc">Traffic and environmental data feed data preprocessing and a mixture of experts, supporting an augmented language model agent with perception, planning, tools, memory and action interacting with its environment.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8Z" fill="#161616"/></marker></defs>
+<rect width="900" height="480" fill="white"/>
+<text x="18" y="34" fill="#224f7c" font-family="Georgia, serif" font-weight="700" font-size="27">LLM-based zero-shot prediction</text>
+<!-- Input data, retaining the two input streams. -->
+<g transform="translate(16 70)">
+ <path d="M16 37H161Q194 37 194 64T161 91H37Q9 91 9 119T37 147H175" fill="none" stroke="#e4e6e7" stroke-width="21"/>
+ <path d="M16 37H161Q194 37 194 64T161 91H37Q9 91 9 119T37 147H175" fill="none" stroke="white" stroke-width="2" stroke-dasharray="13 10"/>
+ <path d="M18 31 52-14 86 31ZM69 31 101-5 138 31Z" fill="#42425b"/><circle cx="43" cy="-4" r="12" fill="#fa6684"/>
+ <path d="M137 120H171L180 136H128Z" fill="#6663ee"/><rect x="136" y="123" width="30" height="9" fill="#c5d1ff"/><circle cx="139" cy="140" r="5" fill="#38374e"/><circle cx="169" cy="140" r="5" fill="#38374e"/>
+</g>
+<g fill="#def0fa"><rect x="14" y="234" width="208" height="37"/><rect x="14" y="418" width="208" height="37"/></g>
+<g font-family="Georgia, serif" font-size="20" font-weight="700" text-anchor="middle" fill="#435462"><text x="118" y="260">Traffic Data</text><text x="118" y="444" font-size="18">Environmental Data</text></g>
+<g fill="#4dd6df" stroke="#4dd6df" stroke-width="3">
+ <path d="M64 380C18 380 22 332 51 330 49 292 92 284 109 307 130 277 177 291 177 322 216 329 208 381 178 381Z"/>
+ <path d="M55 320H31M58 310H40M160 306H192M181 320H208M48 348H22M182 355H210M171 373H198"/>
+ <circle cx="31" cy="320" r="4"/><circle cx="40" cy="310" r="4"/><circle cx="192" cy="306" r="4"/><circle cx="208" cy="320" r="4"/><circle cx="22" cy="348" r="4"/><circle cx="210" cy="355" r="4"/><circle cx="198" cy="373" r="4"/>
+</g>
+<path d="M229 65Q244 65 244 76V248Q244 260 258 260Q244 260 244 273V444Q244 456 229 456" fill="none" stroke="#4776b8" stroke-width="2"/>
+<!-- Preprocessing stages, in the source order. -->
+<g font-family="Arial, sans-serif" text-anchor="middle" font-size="11.5" fill="#233847">
+ <rect x="274" y="81" width="76" height="51" rx="6" fill="#d5efe5" stroke="#39a28b"/><text x="312" y="99"><tspan x="312">Inventory</tspan><tspan x="312" dy="14">data sources</tspan></text>
+ <rect x="357" y="81" width="76" height="51" rx="6" fill="#e9efd6" stroke="#91ad51"/><text x="395" y="99"><tspan x="395">Fix quality</tspan><tspan x="395" dy="14">issues</tspan></text>
+ <rect x="440" y="81" width="76" height="51" rx="6" fill="#fff0d4" stroke="#d6a039"/><text x="478" y="95"><tspan x="478">Identify</tspan><tspan x="478" dy="14">important</tspan><tspan x="478" dy="14">features</tspan></text>
+ <rect x="274" y="144" width="76" height="51" rx="6" fill="#f6deda" stroke="#bc5447"/><text x="312" y="158"><tspan x="312">Apply feature</tspan><tspan x="312" dy="14">engineering</tspan><tspan x="312" dy="14">libraries</tspan></text>
+ <rect x="357" y="144" width="76" height="51" rx="6" fill="#e3e7eb" stroke="#637583"/><text x="395" y="162"><tspan x="395">Validate</tspan><tspan x="395" dy="14">results</tspan></text>
+ <rect x="440" y="144" width="76" height="51" rx="6" fill="#d9eefa" stroke="#2284b3"/><text x="478" y="162"><tspan x="478">Repeat or</tspan><tspan x="478" dy="14">complete</tspan></text>
+</g>
+<g fill="#def0fa"><rect x="271" y="213" width="248" height="37"/><rect x="271" y="418" width="248" height="37"/></g>
+<g fill="#435462" font-family="Georgia, serif" font-weight="700" font-size="22" text-anchor="middle"><text x="395" y="239">Data Preprocessing</text><text x="395" y="444">Mixture-of-Experts</text></g>
+<rect x="338" y="278" width="114" height="28" rx="4" fill="#f4d8bd" stroke="#6d625a" stroke-width="2"/><text x="395" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#514b46">Router</text>
+<g fill="#c07cee"><rect x="350" y="315" width="20" height="40"/><rect x="380" y="333" width="20" height="22" opacity=".5"/><rect x="410" y="340" width="20" height="15" opacity=".3"/><rect x="440" y="326" width="20" height="29" opacity=".65"/></g>
+<path d="M344 357H467M356 357H304V376" fill="none" stroke="#292929" stroke-width="2" marker-end="url(#arrow)"/>
+<g font-family="Arial, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700">
+ <rect x="273" y="381" width="57" height="27" rx="5" fill="#bc74ed" stroke="#343039"/><rect x="335" y="381" width="57" height="27" rx="5" fill="#dbc1f4"/><rect x="397" y="381" width="57" height="27" rx="5" fill="#e8d7f8"/><rect x="459" y="381" width="57" height="27" rx="5" fill="#d6aaf4"/>
+ <g fill="#392953"><text x="302" y="399">Expert 1</text><text x="364" y="399">Expert 2</text><text x="426" y="399">Expert 3</text><text x="488" y="399">Expert 4</text></g>
+</g>
+<path d="M528 241H548V229L571 252 548 275V263H528Z" fill="#4c79bd" stroke="#203e70" stroke-width="2"/>
+<!-- Agent loop: perception to language model to action to environment. -->
+<text x="579" y="86" font-family="Arial, sans-serif" font-size="24" font-weight="700">Agent</text>
+<rect x="579" y="96" width="218" height="305" fill="#f7f7f7" stroke="#171717" stroke-width="2"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+ <text x="688" y="129" font-size="22" fill="#21146f">Perception</text>
+ <text x="634" y="180" font-size="20" fill="#128696">Planning</text>
+ <rect x="610" y="224" width="180" height="62" fill="#e2e2f4" stroke="#262626" stroke-width="2"/>
+ <text x="700" y="248" font-size="19">The “Augmented”</text><text x="700" y="274" font-size="23" font-weight="700" fill="#5c62c0">LLM</text>
+ <rect x="622" y="287" width="65" height="29" rx="4" fill="#373737"/><rect x="706" y="287" width="75" height="29" rx="4" fill="#373737"/>
+ <text x="654" y="308" fill="white" font-size="17">Tools</text><text x="744" y="308" fill="white" font-size="17">Memory</text>
+ <text x="693" y="370" fill="#a83122" font-size="22">Action</text>
+ <rect x="811" y="204" width="80" height="70" fill="#eadff0" stroke="#171717" stroke-width="2"/><text x="851" y="244" font-size="11.5" font-weight="700">Environment</text>
+</g>
+<g fill="none" stroke="#171717" stroke-width="2.5" marker-end="url(#arrow)">
+ <path d="M690 140V221"/><path d="M690 317V345"/><path d="M740 360H851V279"/><path d="M851 199V125H758"/>
+ <path d="M607 303C564 312 563 193 607 204"/>
+</g>
+<rect x="569" y="418" width="325" height="37" fill="#def0fa"/><text x="731" y="443" text-anchor="middle" fill="#435462" font-family="Georgia, serif" font-size="17" font-weight="700">Agent training and decision making</text>
+</svg>

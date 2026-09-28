@@ -1,0 +1,15 @@
+- key: postdoctoral
+  title: Postdoctoral Scholar
+  cards: true
+- key: phd
+  title: PhD Student
+  cards: true
+- key: graduated
+  title: Graduated
+  cards: true
+- key: visiting
+  title: Visiting Students
+  cards: false
+- key: alumni
+  title: Alumni
+  cards: false
