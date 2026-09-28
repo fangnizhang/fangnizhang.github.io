@@ -7,7 +7,7 @@ layout: default
 <div class="pi-row"><article class="pi-card"><img class="pi-photo" src="{{ page.pi.photo | relative_url }}" alt="Portrait of {{ page.pi.name | escape }}" width="477" height="636"><div class="pi-copy"><h3>{{ page.pi.name | escape }}</h3></div></article>
 <div class="pi-cv prose">{{ content }}</div></div></div>
 {% for section in site.data.team_groups %}
-<div class="team-section"><div class="section-heading"><h2>{{ section.title }}</h2></div>
+<div class="team-section{% if section.tone %} tone-{{ section.tone }}{% endif %}"><div class="section-heading"><h2>{{ section.title }}</h2></div>
 {% for group in section.groups %}
 {% assign people = site.people | where: 'group', group.key | sort: 'order' %}
 {% if people.size > 0 %}

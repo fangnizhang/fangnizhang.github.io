@@ -175,14 +175,17 @@ body:has(#research-dialog[open]) { overflow: hidden; }
 .team-section { margin-bottom: 48px; }
 .team-section:last-child { margin-bottom: 0; }
 .section-heading { margin-bottom: 26px; padding-bottom: 18px; border-bottom: 1px solid var(--line); }
-.people-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
-.person-card { display: grid; grid-template-columns: 155px 1fr; gap: 22px; min-height: 220px; padding: 12px; background: var(--white); border: 1px solid var(--line); transition: border-color .2s ease, transform .2s ease; }
-.person-card:hover { border-color: #9eb0b5; transform: translateY(-2px); }
-.person-photo { display: block; width: 155px; height: 194px; object-fit: cover; object-position: center 22%; background: #e1e5e2; filter: saturate(.82); }
+.people-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
+.person-card { --card-wash: #e2f0ee; --card-line: #d2e3e0; --card-hover-line: #9cc8c3; --card-glow: rgba(28,115,131,.13); --card-accent: var(--copper); --ring: rgba(224,120,95,.7); display: grid; grid-template-columns: 155px 1fr; gap: 26px; min-height: 222px; padding: 14px 48px 14px 14px; background: linear-gradient(100deg, var(--card-wash) 0%, #fff 62%); border: 1px solid var(--card-line); border-radius: 999px; transition: border-color .25s ease, transform .25s ease, box-shadow .25s ease; }
+.person-card:hover { border-color: var(--card-hover-line); transform: translateY(-3px); box-shadow: 0 16px 34px var(--card-glow); }
+.tone-warm .person-card { --card-wash: #f8e8df; --card-line: #ecdcd2; --card-hover-line: #e0b8a6; --card-glow: rgba(201,111,87,.15); --card-accent: var(--blue); --ring: rgba(28,115,131,.6); }
+.person-photo { display: block; width: 155px; height: 194px; border-radius: 50%; object-fit: cover; object-position: center 22%; background: #e1e5e2; box-shadow: 0 0 0 4px #fff, 0 0 0 5.5px var(--ring); filter: saturate(.82); }
 .person-photo-empty { position: relative; background: linear-gradient(135deg, #e7e8e3, #d9dfdd); }
 .person-photo-empty::before { position: absolute; inset: 25%; border: 1px solid #c2cbc8; border-radius: 50%; content: ""; }
 .person-copy { min-width: 0; align-self: center; }
-.person-card h4 { margin: 0 0 9px; font: 700 23px/1.2 var(--font-ui); }
+.person-card h4 { margin: 0 0 11px; color: var(--ink); font: 700 23px/1.2 var(--font-ui); }
+.person-card h4::after { display: block; width: 26px; height: 2px; margin-top: 9px; border-radius: 2px; background: var(--card-accent); content: ""; transition: width .25s ease; }
+.person-card:hover h4::after { width: 46px; }
 .person-card p { margin: 0; color: var(--ink-soft); font-size: 12px; line-height: 1.55; }
 .person-card p + p { margin-top: 3px; }
 .alumni-list { border-top: 1px solid var(--line); }
@@ -191,12 +194,11 @@ body:has(#research-dialog[open]) { overflow: hidden; }
 .alumni-row span { color: var(--ink-soft); font-size: 14px; }
 .team-group + .team-group { margin-top: 38px; }
 .team-subheading { margin: 0 0 18px; padding-left: 12px; border-left: 3px solid var(--copper); color: var(--ink); font: 700 21px/1.25 var(--font-ui); }
-.pi-row { display: grid; grid-template-columns: 224px minmax(0, 1fr); gap: 20px; align-items: center; }
-.pi-card { padding: 12px; background: var(--white); border: 1px solid var(--line); }
-.pi-photo { width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 18%; background: #e1e5e2; filter: saturate(.82); }
-.pi-copy { padding: 12px 2px 2px; }
+.pi-row { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 36px; align-items: center; }
+.pi-photo { width: 100%; height: auto; aspect-ratio: 4 / 5; border-radius: 50%; object-fit: cover; object-position: center 18%; background: #e1e5e2; box-shadow: 0 0 0 5px #fff, 0 0 0 7px rgba(224,120,95,.75); filter: saturate(.82); }
+.pi-copy { padding-top: 14px; text-align: center; }
 .pi-copy h3 { margin: 0; font: 700 22px/1.2 var(--font-ui); }
-.pi-cv { padding: 28px 32px 6px; background: var(--white); border: 1px solid var(--line); font-size: 15px; line-height: 1.65; }
+.pi-cv { padding: 28px 32px 6px; background: var(--white); border: 1px solid var(--line); border-radius: 28px; font-size: 15px; line-height: 1.65; }
 .pi-cv h3 { margin: 0 0 14px; color: var(--copper); font-size: 12px; letter-spacing: .16em; text-transform: uppercase; }
 .pi-cv h3 ~ h3 { margin-top: 30px; }
 .pi-cv li { margin-bottom: 10px; }
@@ -228,9 +230,9 @@ body:has(#research-dialog[open]) { overflow: hidden; }
   .home-intro { grid-template-columns: 160px minmax(0,1fr); gap: 32px; }
   .page-hero-inner { grid-template-columns: 1fr 300px; }
   .page-visual { width: 300px; }
-  .person-card { grid-template-columns: 125px 1fr; }
+  .person-card { grid-template-columns: 125px 1fr; padding-right: 40px; }
   .person-photo { width: 125px; height: 166px; }
-  .pi-row { grid-template-columns: 184px minmax(0, 1fr); }
+  .pi-row { grid-template-columns: 160px minmax(0, 1fr); gap: 28px; }
   .pi-copy h3 { font-size: 20px; }
   .pi-cv { padding: 24px 24px 4px; }
 }
@@ -262,7 +264,7 @@ body:has(#research-dialog[open]) { overflow: hidden; }
   .people-grid { grid-template-columns: 1fr; }
   .pi-row { grid-template-columns: 1fr; }
   .pi-card { display: grid; grid-template-columns: 140px 1fr; gap: 18px; align-items: center; }
-  .pi-copy { padding: 0; }
+  .pi-copy { padding: 0; text-align: left; }
   .pi-copy h3 { font-size: 23px; }
   .pi-cv { padding: 22px 20px 2px; }
   .footer-inner { grid-template-columns: 1fr 1fr; }
@@ -276,11 +278,11 @@ body:has(#research-dialog[open]) { overflow: hidden; }
   .portrait-frame img { height: 130px; }
   .portrait figcaption { width: 102px; }
   .hero-copy h2 { font-size: 23px; }
-  .person-card { grid-template-columns: 108px 1fr; gap: 14px; padding: 9px; }
+  .person-card { grid-template-columns: 108px 1fr; gap: 14px; padding: 9px 34px 9px 9px; }
   .person-photo { width: 108px; height: 145px; }
   .person-card h4 { font-size: 20px; }
   .person-card p { font-size: 10px; }
-  .pi-card { grid-template-columns: 120px 1fr; gap: 14px; padding: 9px; }
+  .pi-card { grid-template-columns: 120px 1fr; gap: 14px; }
   .pi-copy h3 { font-size: 20px; }
   .team-subheading { font-size: 18px; }
   .alumni-row { align-items: flex-start; gap: 8px; padding-inline: 10px; }
