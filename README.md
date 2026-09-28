@@ -1,56 +1,83 @@
-# MOVE Lab 官方网站
+## Welcome to Fangni's Homepage
 
-这是可独立运行的 Jekyll / GitHub Pages 项目，保留已确认的官网设计。
+Dr. Fangni Zhang will join the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong as an Assistant Professor in February 2020. Prior to this, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Zhang received her PhD degree in Transportation from Hong Kong University of Science and Technology and her Bachelor’s degree in Industrial Engineering from Beihang University, Beijing, China.
 
-## 本地运行
+Dr. Fangni Zhang’s research covers a wide range of fundamental or emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science to transport research and has been published in a number of world-leading journals and conferences in the field (e.g., Transportation Research Part A, B, C, D, E).
 
-本机交付文件夹附带 `.runtime/` 便携依赖，双击 `start.cmd`，访问 http://127.0.0.1:8000/ 。保存 Markdown 后 Jekyll 会自动重建，刷新浏览器即可看到修改。端口占用时：`powershell -File start.ps1 -Port 8001`。
+### Research interests
 
-在另一台电脑上，从官方 https://rubyinstaller.org/ 安装 Ruby（macOS/Linux 使用系统适用的 Ruby 安装方式），然后在项目目录运行：
+- Transport and logistics management
+- Multimodal transport systems
+- High-speed rail and air transport
+- Automated and shared mobility
+- Wider economic benefits quantification
+- Transport and urban data analytics
 
-```sh
-bundle install
-bundle exec jekyll serve --host 127.0.0.1 --port 8000
-```
+### PhD positions
 
-## 日常更新：改 Markdown，提交到 GitHub
+- I am looking for 1-2 self-motivated Ph.D. students to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
 
-| 内容 | 编辑位置 |
-|---|---|
-| 首页 Summary、顶部 affiliations | `_pages/about.md`（affiliations 在文件开头） |
-| 招聘信息 | `_sections/02-positions.md` |
-| 首页精选论文 | `_sections/03-publications.md` |
-| 四个研究方向、配图、放大介绍 | `_interests/*.md` |
-| 团队成员、学历、照片 | `_people/*.md` |
-| Research / Publications / Teaching / Experience | `_pages/` 下对应 Markdown |
-| 团队分组标题、导航 | `_data/team_groups.yml`、`_data/navigation.yml` |
-| 域名、仓库子路径、网站设置 | `_config.yml` |
-| 样式与页面布局 | `assets/style.css`、`_layouts/`、`_includes/` |
+- Successful applicants will be considered eligible to receive a Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the Hong Kong PhD Fellowship scheme, which offers an annual stipend of HKD 25,800 /month plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at:
+https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2
+To learn more about the HKU Ph.D. programme, visit 
+https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku  
 
-每个成员一个 Markdown；新增成员可复制同组成员文件，修改 `title`、`photo`、`order` 和正文。分组用 `postdoctoral`、`phd`、`graduated`、`visiting`、`alumni`。图片路径从 `/assets/` 开始，数字 `order` 控制排序。不需要编辑生成的 `_site/`，也不再需要运行原来的 Python 构建脚本。
+- The application deadline for 2020 intake is 2 December 2019. Please contact Dr. Fangni Zhang directly at fangni.zhang@hotmail.com
 
-## 迁移到原 GitHub 仓库
+- Postdoc and visiting research positions are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
-1. 先在原仓库创建迁移分支。将**本目录内的内容**放到仓库根目录，而不是再套一层 `Official Website`。
-2. 如果覆盖旧主题，移除旧主题的 `_layouts`、`_includes`、`_sass`、`_pages` 和旧的预构建 `docs/`、`v1/` 后，再放入本版本；不要合并保留同路径的旧主题文件。旧仓库已在本次迁移备份中保存。
-3. 保留原仓库自己的 `.git`；不要把其他目录的 `.git`、`.runtime/`、`_site/` 或本地缓存上传。
-4. GitHub 仓库 Settings → Pages → Source 选择 **Deploy from a branch**，选择正式发布分支和 **/(root)**。这是 Jekyll 原生构建，不能选旧的 `/docs`。
-5. `fangnizhang.github.io` 用户站点保持 `baseurl: ""`；项目站点改为 `baseurl: "/仓库名"`。同时按实际地址修改 `url` 和 `repository`。
-6. 后续直接在 GitHub 上编辑 Markdown 并提交，Pages 就会重新构建。不需要手动导出 HTML。
+### Selected Publications
 
-官方说明：https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+• **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
 
-## Digital Website 边界
+• **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C, 96, 208-230.
 
-`demo-dase4122/` 是当前官网 Teaching 链接的**静态课程演示页**，可随官网部署到 GitHub Pages。原 Digital Website 的 Flask 后端、登录、数据库、上传、批改、课件等仍位于上一级 TDG_website，独立运行。GitHub Pages 不运行 Flask 后端。若以后部署了完整课程系统，只需在 `_pages/teaching.md` 将 Digital Website 链接换为那个系统的网址。
+• Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
 
-## 验证
+• **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
 
-```sh
-bundle exec jekyll build
-python scripts/check_site.py _site
-```
+• Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
 
-Python 只用于检查，不参与日常网站构建。
+• Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
 
-原始图片保存在 `source-images/`，实际页面配图在 `assets/`。本机附带的 `.runtime/` 不进入 GitHub 源码包。旧文件清理与备份位置见 MIGRATION.md。
+• **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
+
+• Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
+
+• **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
+
+• Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
+
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is Â© 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+
+# Instructions
+
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+
+See more info at https://academicpages.github.io/
+
+## To run locally (not on GitHub Pages, to serve on your own computer)
+
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
+# Changelog -- bugfixes and enhancements
+
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+
