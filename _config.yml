@@ -1,9 +1,11 @@
-title: MOVE Lab
+title: MOVE Lab @ HKU
 name: Dr. Fangni Zhang
-description: Mobility Optimization for Value and Efficiency at The University of Hong Kong
+description: MOVE Lab (Mobility Optimization for Value and Efficiency) at The University of Hong Kong (HKU), led by Dr. Fangni Zhang, Department of Data and Systems Engineering.
 url: "https://fangnizhang.github.io"
 baseurl: ""
 repository: fangnizhang/fangnizhang.github.io
+# Google Search Console > URL-prefix property > "HTML tag": paste only the content="..." value
+google_site_verification: ""
 lang: en
 encoding: utf-8
 markdown: kramdown

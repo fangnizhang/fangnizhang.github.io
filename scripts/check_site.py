@@ -52,6 +52,11 @@ assert team.count('class="team-subheading"') == 5
 assert '>Experience<' not in home
 assert 'DASE 4122/IMSE4122' in teaching and 'Course Learning Hub' in teaching
 assert 'teaching-demo' not in teaching
+assert '<title>MOVE Lab @ HKU | Dr. Fangni Zhang</title>' in home
+assert 'rel="canonical"' in home and 'application/ld+json' in home
+sitemap = (root/'sitemap.xml').read_text(encoding='utf-8')
+assert sitemap.startswith('<?xml') and sitemap.count('<loc>') == 5 and 'team/</loc>' in sitemap
+assert 'Sitemap: ' in (root/'robots.txt').read_text(encoding='utf-8')
 for private in ('main.py', 'instance', 'uploads', '.runtime', 'README.md', 'scripts', '_people', 'start.ps1'):
     assert not (root/private).exists(), f'Unexpected private/build source in output: {private}'
-print('PASS: seven routes, images, four captions, PI section, 18 members, course link, and publication boundaries.')
+print('PASS: seven routes, images, four captions, PI section, 18 members, course link, SEO tags, sitemap, and publication boundaries.')

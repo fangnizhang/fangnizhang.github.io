@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": {{ site.title | jsonify }},
+      "alternateName": ["MOVE Lab", "MOVE Lab HKU"],
+      "url": {{ '/' | absolute_url | jsonify }}
+    },
+    {
+      "@type": "ResearchOrganization",
+      "name": "MOVE Lab",
+      "alternateName": ["MOVE Lab HKU", "Mobility Optimization for Value and Efficiency Lab"],
+      "description": {{ site.description | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "name": "The University of Hong Kong",
+        "alternateName": "HKU",
+        "url": "https://www.hku.hk/"
+      },
+      "member": {
+        "@type": "Person",
+        "name": "Fangni Zhang",
+        "jobTitle": "Associate Professor",
+        "worksFor": { "@type": "CollegeOrUniversity", "name": "The University of Hong Kong" },
+        "sameAs": ["https://www.dase.hku.hk/people/f-n-zhang", "https://scholar.google.com/citations?user=pqcRnPcAAAAJ"]
+      }
+    }
+  ]
+}
+</script>
