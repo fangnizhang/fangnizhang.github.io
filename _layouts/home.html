@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include home-hero.html %}
-<section class="container home-intro"><div class="section-kicker"><h2>PI Bio</h2></div><div class="intro-copy">{{ content }}</div></section>
+<section class="container home-intro"><div class="section-kicker"><h2>Bio</h2></div><div class="intro-copy">{{ content }}</div></section>
 {% assign sections = site.sections | sort: 'order' %}
 {% for section in sections %}
 <section class="container home-intro"><div class="section-kicker{% if section.kind == 'interests' %} research-kicker{% endif %}"><h2>{{ section.title | escape }}</h2></div>
