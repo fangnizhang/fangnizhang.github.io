@@ -8,7 +8,7 @@ intro: Courses connecting systems thinking with real-world mobility.
 
 At the University of Hong Kong, 2020 -
 --------
-<p class="course-heading"><strong>DASE 4122/IMSE4122</strong><span aria-hidden="true">—</span><a class="course-website" href="{{ '/demo-dase4122/' | relative_url }}">Course Learning Hub <span aria-hidden="true">↗</span></a></p>
+<p class="course-heading"><strong>DASE4122</strong><span aria-hidden="true">—</span><a class="course-website" href="{{ '/demo-dase4122/' | relative_url }}">Course Learning Hub <span aria-hidden="true">↗</span></a></p>
 
 * Global Logistics and Transportation Systems (discipline core course for IE undergraduates) 
 * Core topics: global operations and logistics planning, multimodal logistics systems
