@@ -12,7 +12,7 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
-[66] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, DOI: 10.1287/trsc.2025.0089.
+[66] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, 60(5), 765-783.
 
 [65] Gong, Z.†, Zhang, Z.†, __Zhang, F.__* (2026) When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks. _Transportation Research Part A: Policy and Practice_, 213, 105203. (Presented at the 26th International Symposium on Transportation and Traffic Theory (ISTTT), Munich, Germany, 20-24 July 2016.)
 
