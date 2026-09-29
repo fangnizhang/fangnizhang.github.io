@@ -6,7 +6,7 @@ permalink: /research/
 intro: Models, methods and collaborations shaping the future of movement.
 ---
 
-Research Grants (as PI or Co-PI)
+Research Grants
 ------------
 
 * "Fleet-Facility Partnership: Collaborative Planning and Interactive Operations of Shared Autonomous Vehicle Fleet and Parking Facility", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2027-2030, PI.
