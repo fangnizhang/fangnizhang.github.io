@@ -6,7 +6,7 @@ permalink: /research/
 intro: Models, methods and collaborations shaping the future of movement.
 ---
 
-Research Grants
+Research Grants (as PI or Co-PI)
 ------------
 
 * "Fleet-Facility Partnership: Collaborative Planning and Interactive Operations of Shared Autonomous Vehicle Fleet and Parking Facility", General Research Fund (GRF), Research Grants Council (RGC) of Hong Kong, 2027-2030, PI.
@@ -37,7 +37,7 @@ Research Awards
 * Best Area Editor, The 22nd COTA International Conference of Transportation Professionals, Chinese Overseas Transportation Association, 2022.
 * Outstanding Student Paper Award, The 20th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2015), 1st runner-up. "Managing the multimodal transportation system with roadway space allocation and responsive bus services." Author: Zhang, F., 2015.
 
-Selected working papers
+Selected Working Papers
 ------------
 
 * Chen, Z., Zhang, Z., **Zhang, F.** Integrating mobility and vehicle-to-grid services for centrally managed electric vehicle platforms: Pricing and dispatching strategies.
@@ -50,7 +50,7 @@ Selected working papers
 * Shao, S., Lin, J., **Zhang, F.** Towards green logistics: Robust planning of electric truck charging infrastructure integrating vehicle-to-grid technology under dual-layer uncertainty.
 * Zhen, Y., **Zhang, F.**, Kuo, Y.H., Ji, K. Routing, Scheduling, and Synchronization of Unmanned Aerial Vehicles (UAVs) with Bus Hitchhiking for Last-mile Parcel Delivery.
 
-Invited talks
+Invited Talks
 ------------
 
 * Truck-and-drone routing problems for multi-type rescue services in disaster response. National University of Singapore (NUS). Singapore, 16 June 2025.
@@ -73,7 +73,7 @@ Invited talks
 * Economic Modelling and Analysis of Transport Systems. College of Civil Engineering, Hunan University. Changsha, China, 27 December 2017.
 * Modelling and Analysis of Multimodal Transport Systems. School of Engineering, Sun-Yat Sen University. Guangzhou, China, 16 June 2017.
 
-Academic services
+Academic Services
 -------------
 **Editorial Services**
 
