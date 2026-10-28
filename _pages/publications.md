@@ -12,6 +12,10 @@ Journal Publications
 ----------
 (*: Dr Zhang is corresponding author; †: Research student advised by Dr Zhang)
 
+[68] Zhen, Y.†, __Zhang, F.__*, Kuo, Y.H., Ji, K. (2027) Routing, scheduling, and synchronization of unmanned aerial vehicles (UAVs) with bus hitchhiking for last-mile parcel delivery. _Transportation Research Part C: Emerging Technologies_, 194, 106095.
+
+[67] Lyu, Y.†, Mo, T., __Zhang, F.__* (2027) Managing urban transportation carbon emissions through integrated personal and corporate carbon trading systems. _Transportation Research Part A: Policy and Practice_, 215, 105331. 
+
 [66] Li, Q.†, __Zhang, F.__* (2026) Auction mechanism design for order allocation and payment in a crowdshipping system. _Transportation Science_, 60(5), 765-783.
 
 [65] Gong, Z.†, Zhang, Z.†, __Zhang, F.__* (2026) When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks. _Transportation Research Part A: Policy and Practice_, 213, 105203. (Presented at the 26th International Symposium on Transportation and Traffic Theory (ISTTT), Munich, Germany, 20-24 July 2016.)
